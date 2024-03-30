@@ -134,7 +134,7 @@ def get_descriptive_stats(df,cols):
 
     print("\n\n")
 
-def get_rmf_dfset(df):
+def get_rmf_data_set(df):
     header_print("RMF dataset prepartion")
     max_date= df["invoicedate"].max()
     min_date= df["invoicedate"].min()
