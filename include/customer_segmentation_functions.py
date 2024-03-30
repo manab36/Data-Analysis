@@ -1,0 +1,160 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from tqdm import tqdm
+from termcolor import cprint
+pd.set_option('expand_frame_repr', False)
+
+
+
+
+header_print= lambda s: (
+    print("*"*round(1.8*len(s))),
+    cprint(s, "yellow",attrs=["bold"]),
+    print("*"*round(1.8*len(s))),
+    )
+warning_print= lambda s: cprint(s, "red", attrs=["dark"])
+hint_print= lambda s: cprint("*"+s, "blue")
+
+def get_value_counts(df, col_name):
+    header_print("column name: "+col_name)
+    print(f"    number of 'NaN' value: {df[col_name].isna().sum()}")
+    print(f"percentage of 'NaN' value: {round((df[col_name].isna().sum()/len(df[col_name]))*100,2)}%")
+    print(f"   number of unique value: {df[col_name].nunique()}")
+    print(f"    number of total value: {len(df[col_name])} (including none)")
+    print(f"   number of total Values: {df[col_name].count()}\n\n")
+
+def drop_nun_val_in_col(df, col_name):
+    header_print(f"droping rows where {col_name} = NaN")
+    len_before= len(df)
+    warning_print(f"Row counts before droping 'NaN' values: {len_before}")
+    df= df.dropna(subset=[col_name])
+    df.reset_index()
+    len_after= len(df)
+    # df[df["Customer ID"].isna()] = df[df["Customer ID"].isna()].apply(lambda v: random.randrange(1000,10000))
+    warning_print(f" Row counts after droping 'NaN' values: {len_after}")
+    print("-"*40)
+    warning_print(f"                      Total rows droped: {len_before-len_after}")
+    warning_print(f"              Percentage of droped rows: {round(((len_before-len_after)/len_before)*100,2)}%\n\n")
+    return df
+
+def drop_canceled_items(df):
+    header_print("droping rows of canceled items")
+    len_before= len(df)
+    warning_print(f"Number of rows before droping canceled items: {len_before}")
+    index_canceled_items= df[df["invoice"].str.startswith('|'.join(['C']))].index
+    df= df.drop(index= index_canceled_items)
+    len_after= len(df)
+    warning_print(f" Number of rows after droping canceled items: {len_after}\n\n")
+    print("-"*40)
+    warning_print(f"                           Total rows droped: {len_before-len_after}")
+    warning_print(f"                   Percentage of droped rows: {round(((len_before-len_after)/len_before)*100,2)}%\n\n")
+    return df
+
+def recheck_relationship_type(df,col1, col2):
+    header_print(f"rechecking relationship for \t{col1} -to- {col2}")
+    many_cust= []
+    for id in tqdm(df[col1].unique()):
+        if df[df[col1]== id][col2].nunique() >1:
+            many_cust.append(id)
+            # return False
+    if len(many_cust)== 0:
+        hint_print(f"'{col1}' and '{col2}' have either 'one-to-many' or 'one-to-one' relationhsip")
+        return many_cust
+    hint_print(f"{len(many_cust)} '{col1}' are related to more than one '{col2}'\n{many_cust}")
+    return many_cust
+    
+def check_relationship_type(df, col1, col2):
+    header_print(f"Checking relationship for \t{col1} -to- {col2}")
+    if len(df[df[col1].isna()]) or  len(df[df[col2].isna()]):
+        print(f"There are few missing values, relationships may not be accurate !")
+    
+    first_max = df.groupby(col1)[col2].count().max()
+    second_max = df.groupby(col2)[col1].count().max()
+    if first_max==1:
+        if second_max==1:
+            hint_print('one-to-one')
+        else:
+            hint_print('one-to-many')
+    else:
+        if second_max==1:
+            hint_print('many-to-one')
+        else:
+            hint_print('many-to-many')
+            
+def get_descriptive_stats(df,cols):
+    numeric_cols= []
+    desc_cols= []
+
+    for col in cols:
+        if df[col].dtypes in [np.int64, np.int32, np.float64, np.float32]:
+            numeric_cols.append(col)
+        else:
+            desc_cols.append(col)
+    
+    if len(numeric_cols)>0:
+        header_print(f"Descriptive Stats for {numeric_cols} :")
+        desc_table= df[numeric_cols].describe().T
+        desc_table["IQR"]= desc_table["75%"]- desc_table["25%"]
+        desc_table["lower bound"]= desc_table["25%"]- (1.5* desc_table["IQR"])
+        desc_table["upper bound"]= desc_table["75%"]+ (1.5* desc_table["IQR"])
+        print(desc_table,"\n\n")
+        
+        
+        #plot
+        i=1
+        fig= plt.figure(figsize=(15,len(numeric_cols)*5))
+        for col in numeric_cols:
+            plt.subplot(len(numeric_cols),1,i)
+            sns.boxplot(data=df,x= col,color="red")
+            i+=1
+        fig.tight_layout(pad=5.0)
+        plt.show()
+
+    if len(desc_cols)>0:
+        header_print(f"Descriptive Stats for {desc_cols} :")
+        print(f"{df[desc_cols].describe().T}","\n\n")
+
+        #plot
+        i=1
+        fig= plt.figure(figsize=(15,len(desc_cols)*5))
+        for col in desc_cols:
+            new_data= pd.DataFrame(data=df[col].value_counts().reset_index())[:5]
+
+            plt.subplot(len(desc_cols),1,i)
+            sns.barplot(data=new_data,x= col, y= "count",color="black")
+            i+=1
+
+            fig.tight_layout(pad=5.0)
+            plt.xticks(rotation=45,fontsize=8)
+        fig.suptitle("Box Plot for top 5 frequent")
+        plt.show()
+
+    print("\n\n")
+
+def get_rfm_dfset(df):
+    max_date= df["invoicedate"].max()
+    min_date= df["invoicedate"].min()
+
+    RFM = df.groupby('customerid').agg({
+                'invoicedate': lambda x: (max_date - x.max()).days, 
+                'invoice': lambda x: x.nunique(), 
+                "totalprice": lambda x: x.sum()
+        }).reset_index()
+    RFM.rename(columns= {
+        "invoicedate": "recency",
+        "invoice": "frequency",
+        "totalprice": "monetary"
+    }, inplace= True)
+
+    Shopping_Cycle = df.groupby('customerid').agg({'invoicedate': lambda x: ((x.max() - x.min()).days)}).reset_index()
+    Shopping_Cycle.rename(columns= {
+        "invoicedate": "shopping_cycle",
+    }, inplace= True)
+    RFM= RFM.merge(Shopping_Cycle, on='customerid', how='right', indicator=True)
+
+    RFM= RFM[(RFM["_merge"]== "both") & (RFM["frequency"]>1)]
+    RFM["interpurchase_time"] = RFM["shopping_cycle"] // RFM["frequency"]
+    RFM.drop(columns=['shopping_cycle', '_merge'], inplace= True)
+    return RFM.reset_index()
