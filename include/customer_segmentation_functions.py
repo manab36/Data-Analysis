@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from tqdm import tqdm
 from termcolor import cprint
+import random
 pd.set_option('expand_frame_repr', False)
 
 
@@ -14,7 +15,7 @@ header_print= lambda s: (
     cprint(s, "yellow",attrs=["bold"]),
     print("*"*round(1.8*len(s))),
     )
-warning_print= lambda s: cprint(s, "red", attrs=["dark"])
+warning_print= lambda s: cprint("*"+s, "red", attrs=["dark"])
 hint_print= lambda s: cprint("*"+s, "blue")
 
 def get_value_counts(df, col_name):
@@ -133,16 +134,19 @@ def get_descriptive_stats(df,cols):
 
     print("\n\n")
 
-def get_rfm_dfset(df):
+def get_rmf_dfset(df):
+    header_print("RMF dataset prepartion")
     max_date= df["invoicedate"].max()
     min_date= df["invoicedate"].min()
 
-    RFM = df.groupby('customerid').agg({
+    hint_print(f"Date starts from: {min_date} to {max_date}")
+
+    df_2 = df.groupby('customerid').agg({
                 'invoicedate': lambda x: (max_date - x.max()).days, 
                 'invoice': lambda x: x.nunique(), 
                 "totalprice": lambda x: x.sum()
         }).reset_index()
-    RFM.rename(columns= {
+    df_2.rename(columns= {
         "invoicedate": "recency",
         "invoice": "frequency",
         "totalprice": "monetary"
@@ -152,9 +156,66 @@ def get_rfm_dfset(df):
     Shopping_Cycle.rename(columns= {
         "invoicedate": "shopping_cycle",
     }, inplace= True)
-    RFM= RFM.merge(Shopping_Cycle, on='customerid', how='right', indicator=True)
+    df_2= df_2.merge(Shopping_Cycle, on='customerid', how='right', indicator=True)
 
-    RFM= RFM[(RFM["_merge"]== "both") & (RFM["frequency"]>1)]
-    RFM["interpurchase_time"] = RFM["shopping_cycle"] // RFM["frequency"]
-    RFM.drop(columns=['shopping_cycle', '_merge'], inplace= True)
-    return RFM.reset_index()
+    warning_print("We are only conside the customers who made more than one purchase")
+    df_2= df_2[(df_2["_merge"]== "both") & (df_2["frequency"]>1)]
+    df_2["interpurchase_time"] = df_2["shopping_cycle"] // df_2["frequency"]
+    df_2.drop(columns=['shopping_cycle', '_merge'], inplace= True)
+    
+    hint_print("""Here:
+    T --> Interpurchase Time
+    L --> Shopping Cycle
+    F --> Frequency
+    T1 --> First purchase
+    Tn --> Last purchase
+
+    T = L/(F-1) = (Tn - T1)/(F-1)
+    """)
+    print("Sample data:\n",df_2.sample(3))
+
+
+    cols= ["recency",  "frequency",  "monetary"]
+    i=1
+    fig= plt.figure(figsize=(8,15))
+    for col in cols:
+        plt.subplot(3,1,i)
+        sns.histplot(data = df_2[col], kde = True)
+        plt.ylabel('No of customer' )
+        plt.xlabel(col.capitalize())
+        i+=1
+        fig.tight_layout(pad=5.0)
+    plt.xticks(rotation=45,fontsize=8)
+    plt.show()
+
+    return df_2
+
+def rfm_score_calculate(df):
+    header_print("dfT score :                ")
+    quartiles= df[["recency",  "frequency",  "monetary", "interpurchase_time"]].quantile(q=[0.25, 0.5, 0.75]).T.reset_index()
+    quartiles.rename(columns={"index":"type"}, inplace=True)
+    
+    hint_print("calculating R,F,M,T score based on quartiles\nrfm_score= R+F+M")
+    hint_print("""rfm_score: Label
+       > 1: Silver
+       > 3: Gold
+       > 5: Platinum
+       > 9: Diamond""")
+    hint_print(f"max rmf_score: {df["rfm_score"].max()}\nmin rmf_score: {df["rfm_score"].min()}")
+    get_score= lambda x,y: 1 if x< quartiles[quartiles["type"]== y][0.25].tolist()[0] else 2 if x< quartiles[quartiles["type"]== y][0.5].tolist()[0] else 3 if x< quartiles[quartiles["type"]== y][0.75].tolist()[0] else 4
+
+    df['R'] = df['recency'].apply(get_score, args=("recency",))
+    df['F'] = df['frequency'].apply(get_score, args=("frequency",))
+    df['M'] = df['monetary'].apply(get_score, args=("monetary",))
+    df['T'] = df['interpurchase_time'].apply(get_score, args=("interpurchase_time",))
+
+    df["rfm_score"]= df['R']+ df['F']+ df['M']
+
+    df['label'] = 'Bronze' 
+    df.loc[df['rfm_score'] > 1, 'label'] = 'Silver' 
+    df.loc[df['rfm_score'] > 3, 'label'] = 'Gold'
+    df.loc[df['rfm_score'] > 5, 'label'] = 'Platinum'
+    df.loc[df['rfm_score'] > 9, 'label'] = 'Diamond'
+
+    print(f"sample:\n{df.sample(4)}")
+    return df
