@@ -201,7 +201,7 @@ def rfm_score_calculate(df):
        > 3: Gold
        > 5: Platinum
        > 9: Diamond""")
-    hint_print(f"max rmf_score: {df["rfm_score"].max()}\nmin rmf_score: {df["rfm_score"].min()}")
+    
     get_score= lambda x,y: 1 if x< quartiles[quartiles["type"]== y][0.25].tolist()[0] else 2 if x< quartiles[quartiles["type"]== y][0.5].tolist()[0] else 3 if x< quartiles[quartiles["type"]== y][0.75].tolist()[0] else 4
 
     df['R'] = df['recency'].apply(get_score, args=("recency",))
@@ -210,7 +210,7 @@ def rfm_score_calculate(df):
     df['T'] = df['interpurchase_time'].apply(get_score, args=("interpurchase_time",))
 
     df["rfm_score"]= df['R']+ df['F']+ df['M']
-
+    hint_print(f"max rmf_score: {df["rfm_score"].max()}\nmin rmf_score: {df["rfm_score"].min()}")
     df['label'] = 'Bronze' 
     df.loc[df['rfm_score'] > 1, 'label'] = 'Silver' 
     df.loc[df['rfm_score'] > 3, 'label'] = 'Gold'
