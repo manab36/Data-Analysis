@@ -6,7 +6,7 @@ from tqdm import tqdm
 from termcolor import cprint
 import random
 pd.set_option('expand_frame_repr', False)
-
+import geopandas as gpd
 
 
 
@@ -29,28 +29,44 @@ def get_value_counts(df, col_name):
 def drop_nun_val_in_col(df, col_name):
     header_print(f"droping rows where {col_name} = NaN")
     len_before= len(df)
-    warning_print(f"Row counts before droping 'NaN' values: {len_before}")
+    print(f"Row counts before droping 'NaN' values: {len_before}")
     df= df.dropna(subset=[col_name])
     df.reset_index()
     len_after= len(df)
     # df[df["Customer ID"].isna()] = df[df["Customer ID"].isna()].apply(lambda v: random.randrange(1000,10000))
-    warning_print(f" Row counts after droping 'NaN' values: {len_after}")
+    print(f" Row counts after droping 'NaN' values: {len_after}")
     print("-"*40)
-    warning_print(f"                      Total rows droped: {len_before-len_after}")
-    warning_print(f"              Percentage of droped rows: {round(((len_before-len_after)/len_before)*100,2)}%\n\n")
+    warning_print(f"                     Total rows droped: {len_before-len_after}")
+    warning_print(f"             Percentage of droped rows: {round(((len_before-len_after)/len_before)*100,2)}%\n\n")
     return df
 
 def drop_canceled_items(df):
     header_print("droping rows of canceled items")
     len_before= len(df)
-    warning_print(f"Number of rows before droping canceled items: {len_before}")
+    print(f"Number of rows before droping canceled items: {len_before}")
     index_canceled_items= df[df["invoice"].str.startswith('|'.join(['C']))].index
     df= df.drop(index= index_canceled_items)
     len_after= len(df)
-    warning_print(f" Number of rows after droping canceled items: {len_after}\n\n")
+    print(f" Number of rows after droping canceled items: {len_after}")
     print("-"*40)
-    warning_print(f"                           Total rows droped: {len_before-len_after}")
-    warning_print(f"                   Percentage of droped rows: {round(((len_before-len_after)/len_before)*100,2)}%\n\n")
+    warning_print(f"                          Total rows droped: {len_before-len_after}")
+    warning_print(f"                  Percentage of droped rows: {round(((len_before-len_after)/len_before)*100,2)}%\n\n")
+    return df
+
+def outlier_remover(df, col,q1_threshold= 5, q3_threshold= 95):
+    header_print(f"Removing outlier in col: {col}")
+    hint_print(f"You have selected Q1= {q1_threshold} percentile \nand Q3= {q3_threshold} percentile\n")
+    q1= df[col].quantile(q1_threshold/100)
+    q3= df[col].quantile(q3_threshold/100)
+    iqr= q3- q1
+    upp= q3 + (1.5*iqr)
+    low= q1 - (1.5*iqr)
+    hint_print(f"Lowerbound: {low} \nand Upperbound: {upp}")
+    
+    warning_print(f"before removing outliers: \n{df[col].describe().T}\n")
+    df= df[df[col] <= upp]
+    df= df[df[col] >= low]
+    warning_print(f" after removing outliers: \n{df[col].describe().T}")
     return df
 
 def recheck_relationship_type(df,col1, col2):
@@ -163,15 +179,6 @@ def get_rmf_data_set(df):
     df_2["interpurchase_time"] = df_2["shopping_cycle"] // df_2["frequency"]
     df_2.drop(columns=['shopping_cycle', '_merge'], inplace= True)
     
-    hint_print("""Here:
-    T --> Interpurchase Time
-    L --> Shopping Cycle
-    F --> Frequency
-    T1 --> First purchase
-    Tn --> Last purchase
-
-    T = L/(F-1) = (Tn - T1)/(F-1)
-    """)
     print("Sample data:\n",df_2.sample(3))
 
 
@@ -195,13 +202,6 @@ def rfm_score_calculate(df):
     quartiles= df[["recency",  "frequency",  "monetary", "interpurchase_time"]].quantile(q=[0.25, 0.5, 0.75]).T.reset_index()
     quartiles.rename(columns={"index":"type"}, inplace=True)
     
-    hint_print("calculating R,F,M,T score based on quartiles\nrfm_score= R+F+M")
-    hint_print("""rfm_score: Label
-       > 1: Silver
-       > 3: Gold
-       > 5: Platinum
-       > 9: Diamond""")
-    
     get_score= lambda x,y: 1 if x< quartiles[quartiles["type"]== y][0.25].tolist()[0] else 2 if x< quartiles[quartiles["type"]== y][0.5].tolist()[0] else 3 if x< quartiles[quartiles["type"]== y][0.75].tolist()[0] else 4
 
     df['R'] = df['recency'].apply(get_score, args=("recency",))
@@ -219,3 +219,48 @@ def rfm_score_calculate(df):
 
     print(f"sample:\n{df.sample(4)}")
     return df
+
+def choropleth_map_plot(df, map_source_url):
+    header_print("Calculating information for Choropleth Map")
+    
+    country_data = gpd.read_file(map_source_url)
+
+    choropleth_df= df.groupby('country').agg({
+        'totalprice': lambda x: x.sum(),
+        'price': lambda x: x.sum(),
+        'quantity': lambda x: x.sum(),
+    }).reset_index()
+    
+    country_df= country_data[["ADMIN", "geometry"]]
+    country_df= country_df.rename(columns= {
+        "ADMIN": "country", 
+    })
+    
+    #checking missing country
+    missing_list= []
+    for i in choropleth_df["country"].str.lower().unique().tolist():
+        if i not in country_df["country"].str.lower().unique().tolist():
+            missing_list.append(i)
+    warning_print(f"Cound not find geometry for {len(missing_list)} countries\n{missing_list}")
+
+    #merge datasets
+    merged_df = choropleth_df.merge(country_df, on='country', how='left', indicator=True)
+    merged_df= merged_df[merged_df["_merge"]== "both"]
+    merged_df.drop(columns=['_merge'], inplace= True)
+    merged_df= gpd.GeoDataFrame(merged_df)
+
+    #ploting graph
+    merged_df.plot(
+        column='totalprice', 
+        legend=True, 
+        cmap='OrRd',
+        legend_kwds={"label": "Total Sales", "orientation": "horizontal"},
+        figsize=(15, 10),
+        missing_kwds={
+                "color": "lightgrey",
+                "edgecolor": "red",
+                "hatch": "///",
+                "label": "Missing values",
+        }
+    )
+    return merged_df
