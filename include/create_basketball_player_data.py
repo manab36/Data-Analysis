@@ -11,14 +11,13 @@ warnings.simplefilter(action="ignore", category=SettingWithCopyWarning)
 
 
 
-def get_players_details_df():
+def get_players_details_numberfire():
     url_player_rating= "https://www.numberfire.com/nba/players/power-rankings"
     bs4_req = requests.get(url_player_rating)
 
     bs4_html = BeautifulSoup(bs4_req.text, 'html.parser')
     bs4_player_names= bs4_html.find('table', class_="projection-table projection-table--fixed")
     bs4_players_full_name= []
-    bs4_players_short_name= []
     bs4_players_rank= []
     for row in bs4_player_names.tbody.find_all('td'):
         temp_1= row.find("span", class_="full")
@@ -29,9 +28,6 @@ def get_players_details_df():
             
         if temp_1 is not None:
             bs4_players_full_name.append(temp_1.get_text())
-
-        if temp_2 is not None:
-            bs4_players_short_name.append(temp_2.get_text())
 
     #Efficiency
     nerd= []
@@ -70,7 +66,6 @@ def get_players_details_df():
 
     cols= (
         ('player', 'name'),
-        ('player', 'short'),
         ('player', 'rank'),
         ('efficiency', 'nerd'),
         ('efficiency', 'nf_eff'),
@@ -85,7 +80,6 @@ def get_players_details_df():
     rating_data_df
 
     rating_data_df[('player','name')]= bs4_players_full_name
-    rating_data_df[ ('player', 'short')]= bs4_players_short_name
     rating_data_df[('player', 'rank')]= bs4_players_rank
 
     rating_data_df[('efficiency', 'nerd')]= nerd
@@ -100,7 +94,7 @@ def get_players_details_df():
     return rating_data_df
 
 
-def get_players_details_2_df(player_names):
+def get_players_details_by_list_name(player_names):
     player_details= []
 
     counter_limit= 99
@@ -131,7 +125,7 @@ def get_players_details_2_df(player_names):
 
 
 def clean_player_details_data(player_details_df):
-    player_details_df= player_details_df[["strPlayer", "strTeam", "strTeam2", "strSport", "dateBorn", "strBirthLocation", "strEthnicity", "strStatus", "strGender", "strHeight", "strWeight"]]
+    player_details_df= player_details_df[["strPlayer", "strTeam", "strSport", "dateBorn", "strBirthLocation", "strStatus", "strGender", "strHeight", "strWeight"]]
 
     player_details_df.columns= player_details_df.columns.str.replace('str', '')
     player_details_df.columns= player_details_df.columns.str.lower()
@@ -161,12 +155,10 @@ def clean_player_details_data(player_details_df):
 
     player_details_df.columns= ['player_name',
         'team',
-        'team2',
         'sport',
         'birth_date',
         'birth_location',
-        'ethnicity',
-        'status',
+        'active_status',
         'gender',
         'height_in_m',
         'weight_in_lb'
@@ -175,7 +167,7 @@ def clean_player_details_data(player_details_df):
     return player_details_df
 
 
-def get_team_details_df():
+def get_team_details_numberfire():
     url_team_rating= "https://www.numberfire.com/nba/teams"
     bs4_req = requests.get(url_team_rating)
     bs4_html = BeautifulSoup(bs4_req.text, 'html.parser')
@@ -203,14 +195,14 @@ def get_team_details_df():
 
 
 if __name__ == "__main__":
-    players_details_df= get_players_details_df()
+    players_details_df= get_players_details_numberfire()
     # players_details_df
     players_details_df.columns = [i+'_'+v for i,v in players_details_df.columns.tolist()]
     # players_details_df
-    players_details_2_df= get_players_details_2_df(players_details_df['player_name'])
+    players_details_2_df= get_players_details_by_list_name(players_details_df['player_name'])
     clean_player_details_df= clean_player_details_data(players_details_2_df)
     # clean_player_details_df
-    team_details_df= get_team_details_df()
+    team_details_df= get_team_details_numberfire()
     # team_details_df
     merge_df= clean_player_details_df.merge(team_details_df, on='team', how= 'left', indicator=True)
     merge_df= merge_df[merge_df["_merge"]== "both"].drop(columns= "_merge")
