@@ -1,4 +1,4 @@
-[![HitCount](https://hits.dwyl.com/manab36/Data-Analysis.svg?style=flat-square)](http://hits.dwyl.com/manab36/Data-Analysis)
+[![HitCount](https://hits.dwyl.com/manab36/Data-Analysis.svg?style=flat-square&show=unique)](http://hits.dwyl.com/manab36/Data-Analysis)
 
 This repo contain projects of data analysis. 
 I have not uploaded the datasets, but have kept the link for the dataset in the notebooks(jupyter).
