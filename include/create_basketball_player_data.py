@@ -144,11 +144,11 @@ def clean_player_details_data(player_details_df):
 
     player_details_df["height"]= player_details_df["height"].str.replace('\xa0', ' ').str.replace(" \'", ' ft ').str.replace('"', ' ').str.split('(').apply(lambda x: x[-1])
     player_details_df["height"]= player_details_df["height"].apply(lambda x: 
-                                        int(x.split(' ')[-2])/100
+                                        float(x.split(' ')[-2])
                                         if 'cm' in x
-                                        else float(x.split(' ')[0])
+                                        else float(x.split(' ')[0])* 100
                                         if 'm' in x
-                                        else round(((int(x.split(' ')[0])*12)+ int(x.split(' ')[2]))* 0.0254, 2)
+                                        else round(((int(x.split(' ')[0])*12)+ int(x.split(' ')[2]))* 2.54, 2)
                                         if 'ft' in x
                                         else None
                                     )
@@ -160,7 +160,7 @@ def clean_player_details_data(player_details_df):
         'birth_location',
         'active_status',
         'gender',
-        'height_in_m',
+        'height_in_cm',
         'weight_in_lb'
     ]
 
