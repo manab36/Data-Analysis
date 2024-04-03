@@ -3,20 +3,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 from tqdm import tqdm
-from termcolor import cprint
-import random
 pd.set_option('expand_frame_repr', False)
 import geopandas as gpd
+from include.beauti_print import *
 
-
-
-header_print= lambda s: (
-    print("*"*round(1.8*len(s))),
-    cprint(s, "yellow",attrs=["bold"]),
-    print("*"*round(1.8*len(s))),
-    )
-warning_print= lambda s: cprint("*"+s, "red", attrs=["dark"])
-hint_print= lambda s: cprint("*"+s, "blue")
 
 def get_value_counts(df, col_name):
     header_print("column name: "+col_name)
