@@ -42,6 +42,18 @@ def outlier_remover(df, cols,q1_threshold= 5, q3_threshold= 95):
             warning_print(f"{num_1- num_2} rows removed")
 
         print('\n\n')
+    
+
+
+    fig= plt.figure(figsize=(7*len(cols),5))
+
+    i=1
+    for col in cols:
+        plt.subplot(1,len(cols),i)
+        sns.boxplot(data=df,x= col, color="blue")
+        plt.xticks(rotation=45,fontsize=8)
+        i+=1
+    fig.suptitle("Barplot")
     return df
 
 
