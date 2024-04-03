@@ -1,408 +1,408 @@
-,player_name,team,sport,birth_date,birth_location,active_status,gender,height_in_m,weight_in_lb,team_rank,conference,division,player_rank,efficiency_nerd,efficiency_nf_eff,efficiency_fantasy,statistics_mpg,statistics_ppg,statistics_rpg,statistics_apg
-1,Shai Gilgeous-Alexander,Oklahoma City Thunder,Basketball,1998-07-12,"Toronto, Ontario",True,M,1.98,180.0,2,Western Conference,Northwest,2,23.4,7.4,13.47,34.4,30.3,5.5,6.3
-2,Giannis Antetokounmpo,Milwaukee Bucks,Basketball,1994-12-06,"Athens, Greece",True,M,2.11,242.0,6,Eastern Conference,Central,3,19.6,6.2,6.24,35.2,30.8,11.5,6.4
-4,Anthony Davis,Los Angeles Lakers,Basketball,1993-03-11,"Chicago, Illinois",True,M,2.08,253.0,18,Western Conference,Pacific,5,14.0,4.3,13.60,35.9,24.7,12.7,3.6
-5,Jayson Tatum,Boston Celtics,Basketball,1998-03-03,"St. Louis, Missouri, USA",True,M,2.03,209.0,1,Eastern Conference,Atlantic,6,13.2,4.1,7.59,35.9,27.2,8.3,4.9
-6,Jalen Brunson,New York Knicks,Basketball,1996-08-31,"New Brunswick, New Jersey",True,M,1.85,190.0,8,Eastern Conference,Atlantic,7,13.0,4.2,4.42,35.1,27.9,3.6,6.5
-7,Joel Embiid,Philadelphia 76ers,Basketball,1994-03-16,"Yaoundé, Cameroon",True,M,2.13,280.0,13,Eastern Conference,Atlantic,8,11.9,8.0,4.88,34.0,35.3,11.3,5.7
-8,Domantas Sabonis,Sacramento Kings,Basketball,1996-05-03,"Portland, Oregon",True,M,2.11,240.0,19,Western Conference,Pacific,9,11.6,3.4,5.16,35.8,19.6,13.6,8.3
-9,Rudy Gobert,Minnesota Timberwolves,Basketball,1992-06-23,"Saint-Quentin, France",True,M,2.16,245.0,3,Western Conference,Northwest,10,11.1,3.7,4.43,34.1,13.8,12.9,1.3
-10,Jarrett Allen,Cleveland Cavaliers,Basketball,1998-04-21,"San Diego, California",True,M,2.11,243.0,9,Eastern Conference,Central,10,11.1,3.9,5.41,31.6,16.3,10.6,2.7
-11,Kawhi Leonard,Los Angeles Clippers,Basketball,1991-06-29,"Los Angeles, California",True,M,2.01,225.0,7,Western Conference,Pacific,12,10.9,3.6,9.28,34.3,23.7,6.1,3.6
-12,Devin Booker,Phoenix Suns,Basketball,1996-10-30,"Grand Rapids, Michigan",True,M,1.98,210.0,10,Western Conference,Pacific,13,10.4,3.7,4.38,35.8,27.4,4.7,6.9
-13,Jimmy Butler,Miami Heat,Basketball,1989-09-14,"Houston, Texas, USA",True,M,2.01,231.0,14,Eastern Conference,Southeast,14,10.0,4.4,2.49,33.9,21.0,5.4,4.9
-15,Tyrese Haliburton,Indiana Pacers,Basketball,2000-02-29,"Milwaukee, Wisconsin, U.S.",True,M,1.96,185.0,15,Eastern Conference,Central,16,8.6,3.3,5.92,32.2,20.4,4.0,11.0
-16,Chet Holmgren,Oklahoma City Thunder,Basketball,2002-05-01,"Minneapolis, Minnesota, U.S.",True,M,2.16,207.0,2,Western Conference,Northwest,17,8.4,3.0,6.55,29.9,16.6,7.9,2.5
-17,Zion Williamson,New Orleans Pelicans,Basketball,2000-07-06,"Salisbury, North Carolina",True,M,1.98,284.0,4,Western Conference,Southwest,18,8.1,3.1,-0.71,31.3,22.9,5.8,5.0
-18,Kevin Durant,Phoenix Suns,Basketball,1988-09-29,"Washington, D.C.",True,M,2.08,240.0,10,Western Conference,Pacific,19,7.7,2.4,7.55,37.1,27.5,6.8,5.1
-19,Derrick White,Boston Celtics,Basketball,1994-07-02,"Parker, Colorado, USA",True,M,1.93,190.0,1,Eastern Conference,Atlantic,20,7.4,2.5,5.04,32.7,15.6,4.4,5.2
-20,LeBron James,Los Angeles Lakers,Basketball,1984-12-30,"Akron, Ohio",True,M,2.06,250.0,18,Western Conference,Pacific,21,7.3,2.5,4.87,35.2,25.4,7.3,8.1
-21,DeMar DeRozan,Chicago Bulls,Basketball,1989-08-07,"Compton, California",True,M,1.98,220.0,20,Eastern Conference,Central,22,7.2,2.0,6.67,37.6,23.6,4.3,5.2
-23,Donovan Mitchell,Cleveland Cavaliers,Basketball,1996-09-07,"Elmsford, New York",True,M,1.85,215.0,9,Eastern Conference,Central,24,7.0,3.0,3.41,35.2,26.8,5.2,6.1
-24,Lauri Markkanen,Utah Jazz,Basketball,1997-05-22,"Vantaa, Finland",True,M,2.13,240.0,24,Western Conference,Northwest,25,6.9,3.0,3.69,33.1,23.2,8.2,2.0
-25,Daniel Gafford,Dallas Mavericks,Basketball,1998-10-01,"El Dorado, Arkansas, U.S.",True,M,2.08,234.0,11,Western Conference,Southwest,25,6.9,3.2,3.09,24.7,11.0,7.8,1.5
-26,Damian Lillard,Milwaukee Bucks,Basketball,1990-07-15,"Oakland, California",True,M,1.88,195.0,6,Eastern Conference,Central,27,6.8,2.2,4.97,35.3,24.4,4.4,7.1
-29,Kyrie Irving,Dallas Mavericks,Basketball,1992-03-23,"Melbourne, Victoria",True,M,1.88,195.0,11,Western Conference,Southwest,30,6.5,2.8,3.29,34.5,25.3,5.0,5.3
-30,Jalen Williams,Oklahoma City Thunder,Basketball,2001-04-14,"Denver, Colorado, U.S.",True,M,1.96,210.0,2,Western Conference,Northwest,30,6.5,2.4,2.90,31.7,19.5,4.0,4.6
-31,Stephen Curry,Golden State Warriors,Basketball,1988-03-14,"Akron, Ohio",True,M,1.88,185.0,16,Western Conference,Pacific,32,6.4,2.2,5.39,32.7,26.6,4.3,5.0
-32,Karl-Anthony Towns,Minnesota Timberwolves,Basketball,1995-11-15,"Edison, New Jersey",True,M,2.11,248.0,3,Western Conference,Northwest,32,6.4,2.5,4.75,32.8,22.1,8.4,3.0
-33,James Harden,Los Angeles Clippers,Basketball,1989-08-26,"Los Angeles, California",True,M,1.96,220.0,7,Western Conference,Pacific,34,6.1,2.0,6.06,34.8,16.8,5.1,8.6
-34,Isaiah Hartenstein,New York Knicks,Basketball,1998-05-05,"Eugene, Oregon",True,M,2.13,250.0,8,Eastern Conference,Atlantic,35,5.9,2.7,1.15,25.0,7.5,8.4,2.3
-35,Tyrese Maxey,Philadelphia 76ers,Basketball,2000-11-04,"Dallas, Texas, U.S.",True,M,1.88,200.0,13,Eastern Conference,Atlantic,35,5.9,1.9,4.45,37.5,25.6,3.7,6.2
-36,Moritz Wagner,Orlando Magic,Basketball,1997-04-26,"Berlin, Germany",True,M,2.11,245.0,12,Eastern Conference,Southeast,37,5.8,3.5,0.00,17.8,10.8,4.4,1.2
-37,Anthony Edwards,Minnesota Timberwolves,Basketball,2001-08-05,"Atlanta, Georgia",True,M,1.93,225.0,3,Western Conference,Northwest,38,5.7,1.8,4.23,35.2,26.1,5.6,5.2
-38,Paul George,Los Angeles Clippers,Basketball,1990-05-02,"Palmdale, California",True,M,2.03,220.0,7,Western Conference,Pacific,39,5.5,1.8,7.49,34.2,22.6,5.3,3.6
-39,Ivica Zubac,Los Angeles Clippers,Basketball,1997-03-18,"Mostar, Bosnia and Herzegovina",True,M,2.13,240.0,7,Western Conference,Pacific,40,5.3,2.5,1.47,26.5,11.6,9.1,1.4
-40,Bam Adebayo,Miami Heat,Basketball,1997-07-18,"Newark, New Jersey, USA",True,M,2.08,260.0,14,Eastern Conference,Southeast,41,5.1,1.8,4.36,34.3,19.8,10.7,4.0
-41,Evan Mobley,Cleveland Cavaliers,Basketball,2001-06-18,"San Diego, California, U.S.",True,M,2.13,215.0,9,Eastern Conference,Central,42,4.9,2.9,0.80,30.7,15.8,9.8,3.1
-42,Jaylen Brown,Boston Celtics,Basketball,1996-10-24,"Atlanta, Georgia, USA",True,M,1.98,223.0,1,Eastern Conference,Atlantic,43,4.6,1.6,1.45,33.6,23.2,5.5,3.6
-43,Fred VanVleet,Houston Rockets,Basketball,1994-02-25,"Rockford, Illinois",True,M,1.85,197.0,17,Western Conference,Southwest,43,4.6,1.5,5.19,36.6,16.7,3.7,8.1
-44,Collin Sexton,Utah Jazz,Basketball,1999-01-04,"Marietta, Georgia",True,M,1.85,190.0,24,Western Conference,Northwest,45,4.5,1.7,2.06,26.6,18.8,2.6,4.9
-45,Jamal Murray,Denver Nuggets,Basketball,1997-02-23,"Kitchener, Ontario",True,M,1.91,215.0,5,Western Conference,Northwest,46,4.4,2.0,0.79,32.1,20.9,4.1,6.7
-46,Luke Kornet,Boston Celtics,Basketball,1995-07-15,"Lexington, Kentucky",True,M,2.16,250.0,1,Eastern Conference,Atlantic,46,4.4,3.9,-3.60,15.4,5.1,4.1,1.0
-47,Trayce Jackson-Davis,Golden State Warriors,Basketball,2000-02-22,"Greenwood, Indiana, U.S.",True,M,2.06,245.0,16,Western Conference,Pacific,46,4.4,3.6,-4.25,15.8,7.6,4.8,1.2
-48,Clint Capela,Atlanta Hawks,Basketball,1994-05-18,"Geneva, Switzerland",True,M,2.08,240.0,21,Eastern Conference,Southeast,49,4.2,1.9,2.45,25.5,11.4,10.6,1.2
-49,Donte DiVincenzo,New York Knicks,Basketball,1997-01-31,"Newark, Delaware",True,M,1.93,203.0,8,Eastern Conference,Atlantic,49,4.2,1.6,2.26,28.0,15.0,3.5,2.6
-50,Andre Drummond,Chicago Bulls,Basketball,1993-08-10,"Mount Vernon, New York",True,M,2.08,279.0,20,Eastern Conference,Central,51,4.1,2.5,-0.14,17.1,8.4,8.9,0.5
-51,Al Horford,Boston Celtics,Basketball,1986-06-03,"Puerto Plata, Dominican Republic",True,M,2.06,245.0,1,Eastern Conference,Atlantic,53,4.0,1.9,2.50,27.2,8.6,6.5,2.6
-52,Pascal Siakam,Indiana Pacers,Basketball,1994-04-02,"Douala, Cameroon",True,M,2.06,230.0,15,Eastern Conference,Central,54,3.8,1.2,2.22,33.5,21.7,7.1,4.5
-53,Jalen Smith,Indiana Pacers,Basketball,2000-03-16,"Portsmouth, Virginia, U.S.",True,M,2.08,215.0,15,Eastern Conference,Central,54,3.8,3.1,-1.31,17.4,10.1,5.6,1.0
-55,Franz Wagner,Orlando Magic,Basketball,2001-08-27,"Berlin, Germany",True,M,2.06,225.0,12,Eastern Conference,Southeast,57,3.7,1.3,2.31,32.7,19.6,5.3,3.8
-56,Jonathan Isaac,Orlando Magic,Basketball,1997-10-03,"The Bronx, New York",True,M,2.11,230.0,12,Eastern Conference,Southeast,58,3.6,3.5,-3.34,15.4,6.9,4.4,0.5
-57,Isaiah Jackson,Indiana Pacers,Basketball,2002-01-10,"Pontiac, Michigan, U.S.",True,M,2.08,206.0,15,Eastern Conference,Central,59,3.3,3.6,-3.99,12.9,6.6,4.0,0.8
-58,Kevin Love,Miami Heat,Basketball,1988-09-07,"Santa Monica, California",True,M,2.03,251.0,14,Eastern Conference,Southeast,60,3.1,2.9,-2.26,17.5,9.0,6.2,2.2
-59,Myles Turner,Indiana Pacers,Basketball,1996-03-24,"Bedford, Texas",True,M,2.11,250.0,15,Eastern Conference,Central,60,3.1,1.2,5.47,27.1,16.8,6.9,1.3
-60,De'Aaron Fox,Sacramento Kings,Basketball,1997-12-20,"New Orleans, Louisiana",True,M,1.91,185.0,19,Western Conference,Pacific,60,3.1,1.0,3.96,35.7,26.4,4.6,5.7
-61,Goga Bitadze,Orlando Magic,Basketball,1999-07-20,"Sagarejo, Georgia",True,M,2.11,250.0,12,Eastern Conference,Southeast,63,3.0,2.5,-1.41,16.4,5.3,4.9,1.4
-62,Trey Murphy III,New Orleans Pelicans,Basketball,2000-06-18,,True,M,2.06,206.0,4,Western Conference,Southwest,63,3.0,1.6,-0.98,28.5,14.1,4.7,2.1
-63,Aaron Gordon,Denver Nuggets,Basketball,1995-09-16,"San Jose, California",True,M,2.03,235.0,5,Western Conference,Northwest,65,2.9,1.0,-1.17,31.5,13.8,6.5,3.4
-64,Sam Hauser,Boston Celtics,Basketball,1997-12-08,"Green Bay, Wisconsin, U.S.",True,M,2.03,215.0,1,Eastern Conference,Atlantic,66,2.8,1.4,-1.39,21.4,8.8,3.4,0.9
-65,Brandon Ingram,New Orleans Pelicans,Basketball,1997-09-02,"Kinston, North Carolina",True,M,2.03,190.0,4,Western Conference,Southwest,68,2.7,1.0,1.06,33.0,20.9,5.1,5.8
-66,Wendell Carter Jr.,Orlando Magic,Basketball,1999-04-16,"Atlanta, Georgia",True,M,2.08,270.0,12,Eastern Conference,Southeast,69,2.6,1.6,-4.06,26.0,11.2,7.2,1.8
-67,Michael Porter Jr.,Denver Nuggets,Basketball,1998-06-29,"Columbia, Missouri",True,M,2.08,218.0,5,Western Conference,Northwest,69,2.6,0.9,2.92,31.7,16.9,7.0,1.5
-68,Herbert Jones,New Orleans Pelicans,Basketball,1998-10-06,"Greensboro, Alabama U.S.",True,M,2.03,210.0,4,Western Conference,Southwest,69,2.6,1.0,3.18,30.0,11.1,3.5,2.6
-69,Naz Reid,Minnesota Timberwolves,Basketball,1999-08-26,"Asbury Park, New Jersey, U.S.",True,M,2.06,264.0,3,Western Conference,Northwest,73,2.4,1.1,2.92,24.0,13.1,5.1,1.3
-70,Payton Pritchard,Boston Celtics,Basketball,1998-01-28,"Tualatin, Oregon, USA",True,M,1.85,195.0,1,Eastern Conference,Atlantic,73,2.4,1.2,-2.53,21.6,8.6,3.2,3.1
-71,Julius Randle,New York Knicks,Basketball,1994-11-29,"Dallas, Texas",True,M,2.03,250.0,8,Eastern Conference,Atlantic,75,2.3,1.1,-3.31,35.4,24.0,9.2,5.0
-72,Trae Young,Atlanta Hawks,Basketball,1998-09-19,"Lubbock, Texas",True,M,1.85,164.0,21,Eastern Conference,Southeast,75,2.3,1.0,1.22,36.5,26.4,2.7,10.8
-73,Grayson Allen,Phoenix Suns,Basketball,1995-10-08,"Jacksonville, Florida",True,M,1.93,198.0,10,Western Conference,Pacific,75,2.3,0.8,2.16,33.6,13.4,3.8,3.1
-74,Jrue Holiday,Boston Celtics,Basketball,1990-06-12,"Chatsworth, California",True,M,1.91,205.0,1,Eastern Conference,Atlantic,78,2.2,0.8,1.00,33.1,12.6,5.5,4.9
-75,Paul Reed,Philadelphia 76ers,Basketball,1999-06-14,"Orlando, Florida, U.S.",True,M,2.06,210.0,13,Eastern Conference,Atlantic,78,2.2,1.2,-0.47,19.3,7.2,5.9,1.3
-77,Mark Williams,Charlotte Hornets,Basketball,2001-12-16,"Norfolk, Virginia, U.S.",True,M,2.13,242.0,30,Eastern Conference,Southeast,80,2.1,3.1,-3.86,26.7,12.7,9.7,1.2
-78,Larry Nance Jr.,New Orleans Pelicans,Basketball,1993-01-01,"Akron, Ohio",True,M,2.01,245.0,4,Western Conference,Southwest,82,2.0,1.4,-3.27,19.7,5.7,5.1,1.7
-79,Amen Thompson,Houston Rockets,Basketball,2003-01-30,"Oakland, California, U.S.",True,M,2.01,200.0,17,Western Conference,Southwest,82,2.0,1.3,-2.42,21.4,9.2,6.3,2.4
-80,Day'Ron Sharpe,Brooklyn Nets,Basketball,2001-11-06,"Greenville, North Carolina, U.S.",True,M,2.11,265.0,22,Eastern Conference,Atlantic,84,1.9,1.7,-3.01,15.1,7.0,6.4,1.4
-81,Miles McBride,New York Knicks,Basketball,2000-09-08,"Cincinnati, Ohio, U.S.",True,M,1.88,200.0,8,Eastern Conference,Atlantic,84,1.9,1.3,-3.83,18.5,7.9,1.3,1.6
-82,Jalen Duren,Detroit Pistons,Basketball,2003-11-18,"Sharon Hill, Pennsylvania, U.S.",True,M,2.08,250.0,27,Eastern Conference,Central,84,1.9,0.9,1.89,29.2,13.6,11.8,2.5
-83,Nick Richards,Charlotte Hornets,Basketball,1997-11-29,"Kingston, Jamaica",True,M,2.13,245.0,30,Eastern Conference,Southeast,87,1.8,0.8,0.99,26.6,9.8,8.2,0.8
-84,Jakob Poeltl,Toronto Raptors,Basketball,1995-10-15,"Vienna, Austria",True,M,2.16,245.0,23,Eastern Conference,Atlantic,89,1.6,1.0,-0.03,26.4,11.1,8.6,2.5
-85,Neemias Queta,Boston Celtics,Basketball,1999-07-13,"Lisbon, Portugal",True,M,2.13,245.0,1,Eastern Conference,Atlantic,89,1.6,4.1,-5.07,11.4,4.6,4.1,0.5
-86,Aaron Wiggins,Oklahoma City Thunder,Basketball,1999-01-02,"Greensboro, North Carolina, U.S.",True,M,1.98,200.0,2,Western Conference,Northwest,89,1.6,1.2,-4.45,14.8,6.3,2.3,0.9
-87,Jonathan Kuminga,Golden State Warriors,Basketball,2002-10-06,"Goma, DR Congo",True,M,2.03,210.0,16,Western Conference,Pacific,92,1.5,0.6,-1.21,26.3,16.3,4.8,2.1
-88,Chris Paul,Golden State Warriors,Basketball,1985-05-06,"Winston-Salem, North Carolina",True,M,1.83,175.0,16,Western Conference,Pacific,93,1.4,0.9,-2.22,26.3,9.1,4.0,6.9
-89,Tobias Harris,Philadelphia 76ers,Basketball,1992-07-15,"Islip, New York",True,M,2.03,226.0,13,Eastern Conference,Atlantic,93,1.4,0.5,3.21,33.9,17.2,6.4,3.1
-90,Kevon Looney,Golden State Warriors,Basketball,1996-02-06,"Milwaukee, Wisconsin",True,M,2.06,222.0,16,Western Conference,Pacific,93,1.4,1.0,-4.55,16.5,4.6,5.8,1.9
-91,T.J. McConnell,Indiana Pacers,Basketball,1992-03-25,"Pittsburgh, Pennsylvania",True,M,1.85,190.0,15,Eastern Conference,Central,93,1.4,0.9,-2.02,18.0,9.7,2.7,5.4
-92,Bol Bol,Phoenix Suns,Basketball,1999-11-16,"Khartoum, Sudan",True,M,2.18,220.0,10,Western Conference,Pacific,93,1.4,2.6,-4.34,11.1,5.4,3.3,0.4
-93,Sam Merrill,Cleveland Cavaliers,Basketball,1996-05-15,"Albuquerque, New Mexico, U.S.",True,M,1.93,205.0,9,Eastern Conference,Central,93,1.4,1.1,-4.80,17.8,8.2,2.0,1.8
-94,Kelly Olynyk,Toronto Raptors,Basketball,1991-04-19,"Toronto, Ontario",True,M,2.11,240.0,23,Eastern Conference,Atlantic,99,1.3,0.7,2.47,22.0,9.4,5.1,4.5
-96,Thomas Bryant,Miami Heat,Basketball,1997-07-31,"Rochester, New York",True,M,2.08,248.0,14,Eastern Conference,Southeast,99,1.3,2.4,-4.47,11.3,5.4,3.5,0.6
-97,Obi Toppin,Indiana Pacers,Basketball,1998-03-04,"Brooklyn, New York",True,M,2.06,220.0,15,Eastern Conference,Central,99,1.3,0.6,-1.01,21.3,10.0,3.8,1.5
-98,Mason Plumlee,Los Angeles Clippers,Basketball,1990-03-05,"Fort Wayne, Indiana",True,M,2.11,254.0,7,Western Conference,Pacific,103,1.2,1.6,-4.84,14.3,5.4,5.0,1.1
-99,Dwight Powell,Dallas Mavericks,Basketball,1991-07-20,"Toronto, Ontario",True,M,2.08,240.0,11,Western Conference,Southwest,103,1.2,1.2,-6.11,13.2,3.4,3.2,1.3
-100,John Collins,Utah Jazz,Basketball,1997-09-23,"Layton, Utah",True,M,2.06,235.0,24,Western Conference,Northwest,103,1.2,0.5,1.09,28.0,15.1,8.5,1.1
-101,Marvin Bagley III,Washington Wizards,Basketball,1999-03-14,"Tempe, Arizona",True,M,2.11,235.0,28,Eastern Conference,Southeast,103,1.2,0.9,-4.24,21.3,11.8,6.3,1.1
-102,Brook Lopez,Milwaukee Bucks,Basketball,1988-04-01,"North Hollywood, California",True,M,2.13,282.0,6,Eastern Conference,Central,107,1.1,0.4,6.53,30.8,12.4,5.3,1.7
-103,Immanuel Quickley,Toronto Raptors,Basketball,1999-06-17,"Havre de Grace, Maryland, U.S.",True,M,1.91,190.0,23,Eastern Conference,Atlantic,107,1.1,0.5,-0.83,28.9,16.4,3.6,4.6
-104,Walker Kessler,Utah Jazz,Basketball,2001-07-26,"Atlanta, Georgia",True,M,2.13,245.0,24,Western Conference,Northwest,109,1.0,0.5,2.40,23.6,8.1,7.6,0.9
-105,Trendon Watford,Brooklyn Nets,Basketball,2000-11-09,"Birmingham, Alabama, U.S.",True,M,2.06,240.0,22,Eastern Conference,Atlantic,110,0.9,1.0,-5.59,12.4,6.5,2.7,1.1
-106,Khris Middleton,Milwaukee Bucks,Basketball,1991-08-12,"Charleston, South Carolina",True,M,2.01,222.0,6,Eastern Conference,Central,112,0.8,0.5,-1.72,27.0,14.9,4.6,5.3
-107,Kyle Anderson,Minnesota Timberwolves,Basketball,1993-09-20,"New York City, New York",True,M,2.06,230.0,3,Western Conference,Northwest,112,0.8,0.4,-2.10,22.9,6.6,3.6,4.3
-108,Bobby Portis,Milwaukee Bucks,Basketball,1995-02-10,"Little Rock, Arkansas",True,M,2.08,250.0,6,Eastern Conference,Central,112,0.8,0.4,3.05,24.2,13.4,7.2,1.2
-109,Ricky Council IV,Philadelphia 76ers,Basketball,2001-08-03,"Durham, North Carolina, U.S.",True,M,1.98,205.0,13,Eastern Conference,Atlantic,112,0.8,2.8,-9.23,8.7,5.7,1.5,0.4
-110,Mitchell Robinson,New York Knicks,Basketball,1998-04-01,"Pensacola, Florida",True,M,2.13,240.0,8,Eastern Conference,Atlantic,117,0.7,0.9,-4.19,28.0,6.3,10.0,0.7
-111,Drew Eubanks,Phoenix Suns,Basketball,1997-02-01,"Starkville, Mississippi",True,M,2.06,245.0,10,Western Conference,Pacific,117,0.7,0.5,-3.98,15.7,5.2,4.2,0.9
-112,Desmond Bane,Memphis Grizzlies,Basketball,1998-06-25,"Richmond, Indiana",True,M,1.96,215.0,26,Western Conference,Southwest,117,0.7,0.4,-1.35,34.4,23.7,4.4,5.5
-113,Austin Reaves,Los Angeles Lakers,Basketball,1998-05-29,"Newark, Arkansas, U.S.",True,M,1.96,206.0,18,Western Conference,Pacific,117,0.7,0.2,2.11,32.2,16.0,4.4,5.6
-114,DeAndre Jordan,Denver Nuggets,Basketball,1988-07-21,"Houston, Texas",True,M,2.11,265.0,5,Western Conference,Northwest,121,0.6,1.2,-6.00,11.4,4.2,4.6,0.8
-115,Oshae Brissett,Boston Celtics,Basketball,1998-06-20,"Toronto, Ontario, Canada",True,M,2.01,210.0,1,Eastern Conference,Atlantic,121,0.6,0.8,-7.30,11.7,3.6,2.8,0.8
-116,Jock Landale,Houston Rockets,Basketball,1995-10-25,"Melbourne, Victoria, Australia",True,M,2.11,256.0,17,Western Conference,Southwest,121,0.6,0.9,-4.08,12.1,4.1,3.0,1.0
-117,Tari Eason,Houston Rockets,Basketball,2001-05-10,"Portsmouth, Virginia, U.S.",True,M,2.03,217.0,17,Western Conference,Southwest,121,0.6,1.0,-6.29,21.8,9.8,7.0,1.2
-118,Robert Covington,Philadelphia 76ers,Basketball,1990-12-14,"Bellwood, Illinois",True,M,2.01,209.0,13,Eastern Conference,Atlantic,125,0.5,0.8,-5.35,16.8,4.4,3.3,0.8
-119,Norman Powell,Los Angeles Clippers,Basketball,1993-05-25,"San Diego, California",True,M,1.91,215.0,7,Western Conference,Pacific,125,0.5,0.2,-1.47,26.1,14.0,2.6,1.1
-120,Damian Jones,Cleveland Cavaliers,Basketball,1995-06-30,"Baton Rouge, Louisiana",True,M,2.11,245.0,9,Eastern Conference,Central,125,0.5,1.5,-5.57,7.3,2.9,1.7,0.4
-121,Chris Boucher,Toronto Raptors,Basketball,1993-01-11,"Castries, Saint Lucia",True,M,2.06,200.0,23,Eastern Conference,Atlantic,125,0.5,0.5,-5.94,14.1,6.4,4.1,0.5
-122,Ja Morant,Memphis Grizzlies,Basketball,1999-08-10,"Dalzell, South Carolina",True,M,1.91,174.0,26,Western Conference,Southwest,125,0.5,1.2,-8.01,35.3,25.1,5.6,8.1
-123,Jaxson Hayes,Los Angeles Lakers,Basketball,2000-05-23,"Norman, Oklahoma",True,M,2.11,220.0,18,Western Conference,Pacific,125,0.5,0.5,-6.32,12.0,4.1,2.9,0.4
-124,Cole Anthony,Orlando Magic,Basketball,2000-05-15,"Portland, Oregon, U.S.",True,M,1.88,185.0,12,Eastern Conference,Southeast,125,0.5,0.2,-1.38,22.8,11.9,4.0,3.0
-125,Precious Achiuwa,New York Knicks,Basketball,1999-09-19,"Port Harcourt, Nigeria",True,M,2.03,225.0,8,Eastern Conference,Atlantic,125,0.5,0.2,-2.79,22.7,8.2,6.9,1.4
-126,Paolo Banchero,Orlando Magic,Basketball,2002-11-12,"Seattle, Washington",True,M,2.08,250.0,12,Eastern Conference,Southeast,125,0.5,0.2,-0.95,34.8,22.3,6.8,5.3
-127,Thaddeus Young,Phoenix Suns,Basketball,1988-06-21,"New Orleans, Louisiana",True,M,2.03,235.0,10,Western Conference,Pacific,134,0.4,0.7,-6.84,14.0,4.6,3.3,1.9
-128,Malcolm Brogdon,Portland Trail Blazers,Basketball,1992-12-11,"Atlanta, Georgia",True,M,1.96,229.0,29,Western Conference,Northwest,134,0.4,0.3,-4.44,28.7,15.7,3.8,5.5
-129,Nate Hinton,Houston Rockets,Basketball,1999-06-08,"Gastonia, North Carolina, U.S.",True,M,1.96,210.0,17,Western Conference,Southwest,134,0.4,4.7,-9.45,5.3,2.8,1.1,0.5
-130,Josh Giddey,Oklahoma City Thunder,Basketball,2002-10-10,"Melbourne, Victoria, Australia",True,M,2.03,210.0,2,Western Conference,Northwest,134,0.4,0.2,-0.41,24.8,12.2,6.3,4.6
-132,Gui Santos,Golden State Warriors,Basketball,2002-06-22,"Brasília, Brazil",True,M,1.98,220.0,16,Western Conference,Pacific,134,0.4,1.8,-8.07,7.9,3.4,2.2,0.6
-133,Alex Len,Sacramento Kings,Basketball,1993-06-16,"Antratsyt, Ukraine",True,M,2.13,250.0,19,Western Conference,Pacific,140,0.3,0.6,-5.13,9.2,2.7,2.8,0.9
-134,Kenrich Williams,Oklahoma City Thunder,Basketball,1994-12-02,"Waco, Texas",True,M,1.98,210.0,2,Western Conference,Northwest,140,0.3,0.2,-2.76,14.4,4.4,3.0,1.3
-135,Isaiah Joe,Oklahoma City Thunder,Basketball,1999-07-02,"Fort Smith, Arkansas, U.S.",True,M,1.93,165.0,2,Western Conference,Northwest,140,0.3,0.2,-3.24,18.4,8.1,2.2,1.2
-136,Scottie Barnes,Toronto Raptors,Basketball,2001-08-01,"West Palm Beach, Florida",True,M,2.06,227.0,23,Eastern Conference,Atlantic,140,0.3,0.1,3.90,34.9,19.9,8.2,6.1
-137,Jalen Suggs,Orlando Magic,Basketball,2001-06-03,"Saint Paul, Minnesota, U.S.",True,M,1.93,205.0,12,Eastern Conference,Southeast,140,0.3,0.1,0.36,26.9,12.4,3.1,2.7
-138,Charles Bassey,San Antonio Spurs,Basketball,2000-10-28,"Lagos, Nigeria",True,M,2.11,235.0,25,Western Conference,Southwest,140,0.3,1.0,-5.42,10.8,3.3,4.0,1.1
-139,Olivier Sarr,Oklahoma City Thunder,Basketball,1999-02-20,"Niort, France",True,M,2.08,240.0,2,Western Conference,Northwest,140,0.3,2.6,-6.59,6.8,2.4,2.5,0.1
-140,Josh Minott,Minnesota Timberwolves,Basketball,2002-11-25,"Boca Raton, Florida, U.S.",True,M,2.03,205.0,3,Western Conference,Northwest,140,0.3,3.7,-8.40,2.7,1.5,0.5,0.2
-141,Tristan Thompson,Cleveland Cavaliers,Basketball,1991-03-13,"Toronto, Ontario",True,M,2.06,254.0,9,Eastern Conference,Central,149,0.2,0.3,-6.10,11.8,3.4,3.8,1.1
-142,Deandre Ayton,Portland Trail Blazers,Basketball,1998-07-23,"Nassau, Bahamas",True,M,2.11,250.0,29,Western Conference,Northwest,149,0.2,0.1,1.75,32.2,15.9,11.0,1.6
-143,Rui Hachimura,Los Angeles Lakers,Basketball,1998-02-08,"Toyama, Japan",True,M,2.03,230.0,18,Western Conference,Pacific,149,0.2,0.1,-1.78,26.5,13.2,4.1,1.1
-144,Brandon Clarke,Memphis Grizzlies,Basketball,1996-09-19,"Vancouver, British Columbia",True,M,2.03,215.0,26,Western Conference,Southwest,149,0.2,2.2,-9.09,21.3,11.3,5.3,1.3
-145,Luka Garza,Minnesota Timberwolves,Basketball,1998-12-27,"Washington, D.C., U.S.",True,M,2.11,235.0,3,Western Conference,Northwest,149,0.2,1.6,-6.61,5.0,3.6,1.2,0.2
-146,Sandro Mamukelashvili,San Antonio Spurs,Basketball,1999-05-23,"New York, U.S.",True,M,2.06,240.0,25,Western Conference,Southwest,149,0.2,0.5,-5.56,6.9,2.8,2.0,0.9
-147,Jeff Dowtin,Philadelphia 76ers,Basketball,1997-05-10,"Upper Marlboro, Maryland",True,M,1.91,177.0,13,Eastern Conference,Atlantic,149,0.2,1.7,-9.09,12.3,4.4,1.6,2.4
-148,Ryan Rollins,Milwaukee Bucks,Basketball,2002-07-03,"Detroit, Michigan, U.S.",True,M,1.91,180.0,6,Eastern Conference,Central,149,0.2,1.9,-9.28,6.6,4.1,1.1,1.1
-149,JD Davison,Boston Celtics,Basketball,2002-10-03,"Montgomery, Alabama, U.S.",True,M,1.91,195.0,1,Eastern Conference,Atlantic,149,0.2,14.0,-9.53,1.8,1.3,0.5,0.2
-150,Orlando Robinson,Miami Heat,Basketball,2000-07-10,"Las Vegas, Nevada, U.S.",True,M,2.08,235.0,14,Eastern Conference,Southeast,149,0.2,0.6,-5.68,9.1,3.0,2.5,1.0
-151,Leonard Miller,Minnesota Timberwolves,Basketball,2003-11-26,"Scarborough, Ontario, Canada",True,M,2.08,210.0,3,Western Conference,Northwest,149,0.2,5.6,-8.70,3.0,1.4,1.1,0.5
-152,Craig Porter Jr.,Cleveland Cavaliers,Basketball,2000-02-26,"Terre Haute, Indiana, U.S.",True,M,1.85,185.0,9,Eastern Conference,Central,149,0.2,0.2,-6.85,13.3,5.9,2.2,2.4
-153,Oscar Tshiebwe,Indiana Pacers,Basketball,1999-11-27,"Lubumbashi, DR Congo",True,M,2.03,260.0,15,Eastern Conference,Central,149,0.2,4.4,-9.20,5.3,3.3,2.0,0.3
-154,Adama Sanogo,Chicago Bulls,Basketball,2002-02-12,"Bamako, Mali",True,M,2.06,245.0,20,Eastern Conference,Central,149,0.2,8.5,-6.92,2.8,2.0,1.6,0.0
-155,D'Angelo Russell,Los Angeles Lakers,Basketball,1996-02-23,"Louisville, Kentucky",True,M,1.93,193.0,18,Western Conference,Pacific,165,0.1,0.0,2.26,32.4,18.1,3.1,6.4
-156,Gary Payton II,Golden State Warriors,Basketball,1992-12-01,"Seattle, Washington",True,M,1.91,190.0,16,Western Conference,Pacific,165,0.1,0.1,-6.25,15.3,5.1,2.6,1.1
-158,Daniel Theis,Los Angeles Clippers,Basketball,1992-04-04,"Salzgitter, Germany",True,M,2.03,245.0,7,Western Conference,Pacific,165,0.1,0.0,-4.98,16.6,6.0,3.9,1.1
-160,Dylan Windler,Atlanta Hawks,Basketball,1996-09-22,"Indianapolis, Indiana, U.S.",True,M,1.98,196.0,21,Eastern Conference,Southeast,165,0.1,0.9,-9.45,5.1,1.9,0.8,0.6
-161,Jay Huff,Denver Nuggets,Basketball,1997-08-25,"Durham, North Carolina, U.S.",True,M,2.16,240.0,5,Western Conference,Northwest,165,0.1,2.2,-6.72,2.6,1.1,0.6,0.1
-162,Braxton Key,Denver Nuggets,Basketball,1997-02-14,"Charlotte, North Carolina, U.S.",True,M,2.03,225.0,5,Western Conference,Northwest,165,0.1,1.3,-8.68,3.1,1.1,0.8,0.5
-163,Jaylin Williams,Oklahoma City Thunder,Basketball,2002-06-29,"Fort Smith, Arkansas, U.S.",True,M,2.06,240.0,2,Western Conference,Northwest,165,0.1,0.1,-5.28,12.6,3.7,3.3,1.4
-164,Dominick Barlow,San Antonio Spurs,Basketball,2003-05-26,"Hackensack, New Jersey, U.S.",True,M,2.06,215.0,25,Western Conference,Southwest,165,0.1,0.2,-7.03,12.7,4.4,3.4,1.1
-165,Cason Wallace,Oklahoma City Thunder,Basketball,2003-11-07,"Dallas, Texas, U.S.",True,M,1.91,195.0,2,Western Conference,Northwest,165,0.1,0.0,-1.95,20.6,6.9,2.3,1.4
-166,Jordan Ford,Sacramento Kings,Basketball,1998-05-26,"Citrus Heights, California, U.S.",True,M,1.85,175.0,19,Western Conference,Pacific,165,0.1,2.1,-9.54,3.7,2.0,0.3,0.3
-167,Colin Castleton,Los Angeles Lakers,Basketball,2000-05-25,"Pembroke Pines, Florida, U.S.",True,M,2.08,250.0,18,Western Conference,Pacific,165,0.1,1.4,-6.77,4.5,1.8,1.0,0.3
-168,Jacob Toppin,New York Knicks,Basketball,2000-05-08,"Brooklyn, New York, U.S.",True,M,2.03,200.0,8,Eastern Conference,Atlantic,165,0.1,1.5,-8.79,4.2,1.4,0.8,0.3
-169,Drew Peterson,Boston Celtics,Basketball,1999-11-09,"Libertyville, Illinois, U.S.",True,M,2.06,205.0,1,Eastern Conference,Atlantic,165,0.1,22.3,-9.45,3.0,3.0,0.0,1.0
-170,Isaiah Thomas,Phoenix Suns,Basketball,1989-02-07,"Tacoma, Washington",True,M,1.75,185.0,10,Western Conference,Pacific,182,0.0,0.1,-9.61,4.5,2.5,0.0,1.0
-171,JaVale McGee,Sacramento Kings,Basketball,1988-01-19,"Flint, Michigan",True,M,2.13,270.0,19,Western Conference,Pacific,182,0.0,0.0,-5.44,7.6,4.1,2.7,0.3
-172,Garrett Temple,Toronto Raptors,Basketball,1986-05-08,"Baton Rouge, Louisiana",True,M,1.96,195.0,23,Eastern Conference,Atlantic,182,0.0,-0.1,-8.74,7.1,2.5,1.4,0.8
-173,Draymond Green,Golden State Warriors,Basketball,1990-03-04,"Saginaw, Michigan",True,M,1.98,230.0,16,Western Conference,Pacific,182,0.0,0.0,-1.93,26.7,8.9,7.2,6.0
-174,Cody Zeller,New Orleans Pelicans,Basketball,1992-10-05,"Washington, Indiana",True,M,2.11,240.0,4,Western Conference,Southwest,182,0.0,0.1,-6.15,7.6,1.9,2.7,0.9
-176,Ben Simmons,Brooklyn Nets,Basketball,1996-07-20,"Melbourne, Victoria",True,M,2.11,240.0,22,Eastern Conference,Atlantic,182,0.0,0.1,-7.31,23.9,6.1,7.9,5.7
-177,Bruno Fernando,Atlanta Hawks,Basketball,1998-08-15,"Luanda, Angola",True,M,2.06,240.0,21,Eastern Conference,Southeast,182,0.0,0.1,-6.78,14.2,5.9,4.3,0.9
-178,Udoka Azubuike,Phoenix Suns,Basketball,1999-09-17,"Lagos, Nigeria",True,M,2.08,280.0,10,Western Conference,Pacific,182,0.0,0.1,-6.81,7.6,2.5,2.3,0.2
-179,Mason Jones,Sacramento Kings,Basketball,1998-07-21,"Dallas, Texas, U.S.",True,M,1.93,200.0,19,Western Conference,Pacific,182,0.0,0.7,-9.80,6.7,2.3,1.7,1.7
-180,Keon Johnson,Brooklyn Nets,Basketball,2002-03-10,"Shelbyville, Tennessee, U.S.",True,M,1.96,186.0,22,Eastern Conference,Atlantic,182,0.0,0.1,-9.51,12.8,7.0,1.3,0.8
-181,Usman Garuba,Golden State Warriors,Basketball,2002-03-09,"Madrid, Spain",True,M,2.03,220.0,16,Western Conference,Pacific,182,0.0,-2.0,-9.44,2.7,0.0,0.3,0.3
-182,Kevon Harris,Orlando Magic,Basketball,1997-06-24,"Ellenwood, Georgia, U.S.",True,M,1.96,216.0,12,Eastern Conference,Southeast,182,0.0,-1.9,-9.87,3.0,2.0,1.0,0.5
-183,Buddy Boeheim,Detroit Pistons,Basketball,1999-11-11,"Fayetteville, New York, U.S.",True,M,1.96,205.0,27,Eastern Conference,Central,182,0.0,0.5,-9.37,9.8,5.0,1.6,0.6
-184,Quenton Jackson,Indiana Pacers,Basketball,1998-09-15,"Los Angeles, California, U.S.",True,M,1.96,173.0,15,Eastern Conference,Central,182,0.0,-2.8,-9.64,2.0,0.0,1.0,0.0
-185,Cam Whitmore,Houston Rockets,Basketball,2004-07-08,"Odenton, Maryland, U.S.",True,M,2.01,230.0,17,Western Conference,Southwest,182,0.0,0.0,-5.84,17.9,12.1,3.9,0.5
-186,Jordan Miller,Los Angeles Clippers,Basketball,2000-01-23,"Anaheim, California, U.S.",True,M,1.96,194.0,7,Western Conference,Pacific,182,0.0,0.4,-8.85,3.5,1.6,0.6,0.0
-187,Terquavion Smith,Philadelphia 76ers,Basketball,2002-12-31,"Greenville, North Carolina, U.S.",True,M,1.93,160.0,13,Eastern Conference,Atlantic,182,0.0,0.5,-9.09,5.8,3.8,0.2,0.8
-188,Pat Spencer,Golden State Warriors,Basketball,1996-07-04,"North Wales, Pennsylvania, U.S.",True,M,1.91,205.0,16,Western Conference,Pacific,182,0.0,3.0,-9.62,2.0,0.7,0.0,0.7
-189,Henri Drell,Chicago Bulls,Basketball,2000-04-25,"Tallinn, Estonia",True,M,2.06,187.0,20,Eastern Conference,Central,182,0.0,9.7,-8.93,3.0,2.0,1.0,2.0
-190,Danilo Gallinari,Milwaukee Bucks,Basketball,1988-08-08,"Sant´Angelo Lodigiano, Italy",True,M,2.08,233.0,6,Eastern Conference,Central,213,-0.1,-0.2,-6.20,13.2,5.9,2.2,1.2
-191,Richaun Holmes,Washington Wizards,Basketball,1993-10-15,"Lockport, Illinois",True,M,2.08,235.0,28,Eastern Conference,Southeast,213,-0.1,-0.1,-7.07,13.9,5.0,4.6,0.6
-192,Dejounte Murray,Atlanta Hawks,Basketball,1996-09-19,"Seattle, Washington",True,M,1.93,180.0,21,Eastern Conference,Southeast,213,-0.1,0.0,4.74,35.6,22.6,5.3,6.3
-193,Alex Caruso,Chicago Bulls,Basketball,1994-02-28,"College Station, Texas",True,M,1.93,186.0,20,Eastern Conference,Central,213,-0.1,0.0,2.37,28.3,10.1,3.9,3.3
-194,Cameron Johnson,Brooklyn Nets,Basketball,1996-03-03,"Moon Township, Pennsylvania, USA",True,M,2.03,210.0,22,Eastern Conference,Atlantic,213,-0.1,0.0,-1.28,27.7,13.5,4.4,2.4
-195,Ty Jerome,Cleveland Cavaliers,Basketball,1997-07-07,"New York City, New York, U.S.",True,M,1.96,195.0,9,Eastern Conference,Central,213,-0.1,-2.7,-9.63,7.5,2.0,0.5,1.5
-196,Moses Moody,Golden State Warriors,Basketball,2002-05-31,"Little Rock, Arkansas, U.S.",True,M,1.98,205.0,16,Western Conference,Pacific,213,-0.1,-0.1,-4.70,17.2,8.1,3.0,0.8
-197,Jeremiah Robinson-Earl,New Orleans Pelicans,Basketball,2000-11-03,"Kansas City, Kansas, U.S.",True,M,2.06,230.0,4,Western Conference,Southwest,213,-0.1,-0.2,-8.11,9.3,3.3,2.1,0.6
-198,Lindy Waters III,Oklahoma City Thunder,Basketball,1997-07-28,"Oklahoma City, Oklahoma, U.S.",True,M,1.98,210.0,2,Western Conference,Northwest,213,-0.1,-0.5,-8.96,6.4,2.6,1.0,0.5
-199,Kendall Brown,Indiana Pacers,Basketball,2003-05-11,"Cottage Grove, Minnesota, U.S.",True,M,2.01,205.0,15,Eastern Conference,Central,213,-0.1,-1.5,-8.95,3.8,1.3,0.3,0.3
-200,Dereon Seabron,New Orleans Pelicans,Basketball,2000-05-26,"Norfolk, Virginia, U.S.",True,M,1.96,180.0,4,Western Conference,Southwest,213,-0.1,-1.1,-9.66,9.2,2.3,1.2,0.8
-201,Jordan Walsh,Boston Celtics,Basketball,2004-03-03,"Dallas, Texas, U.S.",True,M,2.01,205.0,1,Eastern Conference,Atlantic,213,-0.1,-1.7,-8.76,6.7,1.0,2.2,0.7
-202,Mouhamed Gueye,Atlanta Hawks,Basketball,2002-11-09,"Dakar, Senegal",True,M,2.11,210.0,21,Eastern Conference,Southeast,213,-0.1,-10.7,-6.96,2.0,0.0,0.0,0.0
-203,Jalen Slawson,Sacramento Kings,Basketball,1999-10-22,"Charleston, South Carolina, U.S.",True,M,2.01,215.0,19,Western Conference,Pacific,213,-0.1,-3.0,-8.83,3.4,0.7,0.8,0.2
-204,Isaiah Wong,Indiana Pacers,Basketball,2001-01-28,"Piscataway, New Jersey, U.S.",True,M,1.91,185.0,15,Eastern Conference,Central,213,-0.1,-15.2,-9.65,4.0,2.0,0.0,0.0
-205,Jalen Crutcher,New Orleans Pelicans,Basketball,1999-07-18,"Memphis, Tennessee, U.S.",True,M,1.85,175.0,4,Western Conference,Southwest,213,-0.1,-19.2,-9.66,3.0,0.0,0.0,0.0
-206,Andrew Funk,Chicago Bulls,Basketball,1999-09-21,"Warrington, Pennsylvania, U.S.",True,M,1.96,200.0,20,Eastern Conference,Central,213,-0.1,-20.0,-9.90,1.5,0.0,0.0,0.0
-207,James Johnson,Indiana Pacers,Basketball,1987-02-20,"Cheyenne, Wyoming",True,M,2.01,240.0,15,Eastern Conference,Central,241,-0.2,-4.2,-8.67,5.0,1.0,0.5,0.9
-208,Devonte' Graham,San Antonio Spurs,Basketball,1995-02-22,"Raleigh, North Carolina",True,M,1.85,195.0,25,Western Conference,Southwest,241,-0.2,-1.0,-8.95,8.9,3.4,1.3,1.4
-209,Marques Bolden,Charlotte Hornets,Basketball,1998-04-17,"Dallas, Texas, U.S.",True,M,2.08,249.0,30,Eastern Conference,Southeast,241,-0.2,-5.5,-6.96,6.2,0.8,1.6,0.0
-210,Saben Lee,Phoenix Suns,Basketball,1999-06-23,"St. Louis, Missouri, U.S.",True,M,1.88,183.0,10,Western Conference,Pacific,241,-0.2,-0.7,-9.05,8.5,3.2,1.5,1.4
-211,Jason Preston,Utah Jazz,Basketball,1999-08-10,"Coral Springs, Florida, U.S.",True,M,1.93,187.0,24,Western Conference,Northwest,241,-0.2,-4.0,-9.56,7.5,1.0,1.8,1.8
-213,Eugene Omoruyi,Washington Wizards,Basketball,1997-02-14,"Benin City, Nigeria",True,M,1.98,235.0,28,Eastern Conference,Southeast,241,-0.2,-0.6,-7.32,7.9,4.2,2.0,0.8
-214,Ish Wainright,Phoenix Suns,Basketball,1994-09-12,"Kansas City, Missouri, U.S.",True,M,1.98,250.0,10,Western Conference,Pacific,241,-0.2,-2.8,-8.58,6.1,2.3,1.4,0.1
-215,Daishen Nix,Minnesota Timberwolves,Basketball,2002-02-13,"Fairbanks, Alaska, U.S.",True,M,1.96,224.0,3,Western Conference,Northwest,241,-0.2,-3.2,-9.52,3.3,1.8,0.1,0.2
-216,Micah Potter,Utah Jazz,Basketball,1998-04-06,"Mentor, Ohio, U.S.",True,M,2.03,248.0,24,Western Conference,Northwest,241,-0.2,-1.3,-8.99,10.6,2.8,2.3,0.2
-217,Wendell Moore Jr.,Minnesota Timberwolves,Basketball,2001-09-18,"Richmond, Virginia, U.S.",True,M,1.96,215.0,3,Western Conference,Northwest,241,-0.2,-3.5,-8.67,2.8,0.5,0.4,0.1
-218,Isaiah Mobley,Cleveland Cavaliers,Basketball,1999-09-24,"San Diego, California, U.S.",True,M,2.03,238.0,9,Eastern Conference,Central,241,-0.2,-2.6,-9.35,8.5,2.0,1.0,1.0
-219,Scotty Pippen Jr.,Memphis Grizzlies,Basketball,2000-11-10,"Portland, Oregon",True,M,1.85,180.0,26,Western Conference,Southwest,241,-0.2,-0.5,-7.99,23.3,10.7,2.9,4.2
-220,Jamal Cain,Miami Heat,Basketball,1999-03-20,"Pontiac, Michigan, U.S.",True,M,1.98,191.0,14,Eastern Conference,Southeast,241,-0.2,-0.7,-7.87,11.5,4.4,1.6,0.5
-221,Alondes Williams,Miami Heat,Basketball,1999-06-19,"Milwaukee, Wisconsin, U.S.",True,M,1.93,210.0,14,Eastern Conference,Southeast,241,-0.2,-13.2,-9.90,2.8,0.8,0.3,0.0
-222,Victor Wembanyama,San Antonio Spurs,Basketball,2004-01-04,"Le Chesnay, France",True,M,2.24,210.0,25,Western Conference,Southwest,241,-0.2,-0.1,10.08,29.2,21.2,10.5,3.6
-223,Dariq Whitehead,Brooklyn Nets,Basketball,2004-08-01,"Newark, New Jersey, U.S.",True,M,2.01,220.0,22,Eastern Conference,Atlantic,241,-0.2,-5.5,-8.94,12.0,1.5,2.0,1.5
-224,Hunter Tyson,Denver Nuggets,Basketball,2000-06-13,"Monroe, North Carolina, U.S.",True,M,2.03,215.0,5,Western Conference,Northwest,241,-0.2,-3.4,-8.84,2.9,1.3,0.6,0.1
-225,Sidy Cissoko,San Antonio Spurs,Basketball,2004-04-02,"Saint-Maurice, France",True,M,2.03,200.0,25,Western Conference,Southwest,241,-0.2,-5.0,-8.76,5.3,1.0,1.0,0.0
-226,Alex Fudge,Dallas Mavericks,Basketball,2003-05-06,"Lauderhill, Florida, U.S.",True,M,2.03,200.0,11,Western Conference,Southwest,241,-0.2,-11.7,-8.96,3.5,1.0,0.5,0.0
-227,Pete Nance,Cleveland Cavaliers,Basketball,2000-02-19,"Akron, Ohio, U.S.",True,M,2.08,225.0,9,Eastern Conference,Central,241,-0.2,-11.4,-9.50,2.8,0.0,0.5,0.0
-228,Adam Flagler,Oklahoma City Thunder,Basketball,1999-12-01,"Duluth, Georgia, U.S.",True,M,1.91,180.0,2,Western Conference,Northwest,241,-0.2,-21.4,-9.91,6.0,0.0,0.0,1.0
-229,Gary Harris,Orlando Magic,Basketball,1994-09-14,"Fishers, Indiana",True,M,1.93,210.0,12,Eastern Conference,Southeast,267,-0.3,-0.2,-5.32,23.2,7.3,1.7,1.5
-230,Dean Wade,Cleveland Cavaliers,Basketball,1996-11-20,"Wichita, Kansas",True,M,2.06,228.0,9,Eastern Conference,Central,267,-0.3,-0.2,-3.95,20.5,5.4,4.0,0.8
-231,LaMelo Ball,Charlotte Hornets,Basketball,2001-08-22,"Chino Hills, California",True,M,2.01,180.0,30,Eastern Conference,Southeast,267,-0.3,-0.3,-4.77,32.3,23.9,5.1,8.0
-232,Joshua Primo,Los Angeles Clippers,Basketball,2002-12-24,"Toronto, Ontario, Canada",True,M,1.98,190.0,7,Western Conference,Pacific,267,-0.3,-23.7,-9.94,5.0,1.0,0.5,0.0
-233,Jericho Sims,New York Knicks,Basketball,1998-10-20,"Minneapolis, Minnesota",True,M,2.08,245.0,8,Eastern Conference,Atlantic,267,-0.3,-0.4,-7.61,13.0,2.1,3.3,0.6
-234,Stanley Umude,Detroit Pistons,Basketball,1999-04-12,"Portland, Oregon, U.S.",True,M,1.98,210.0,27,Eastern Conference,Central,267,-0.3,-0.8,-8.31,12.8,5.3,2.1,0.5
-235,Jett Howard,Orlando Magic,Basketball,2003-09-14,"Chicago, Illinois, U.S.",True,M,1.98,215.0,12,Eastern Conference,Southeast,267,-0.3,-4.5,-8.92,3.7,1.6,0.4,0.2
-236,D'Moi Hodge,Los Angeles Lakers,Basketball,1998-12-20,"Tortola, British Virgin Islands",True,M,1.91,185.0,18,Western Conference,Pacific,267,-0.3,-4.8,-9.80,5.9,2.0,0.0,0.7
-238,Tyus Jones,Washington Wizards,Basketball,1996-05-10,"Burnsville, Minnesota",True,M,1.83,196.0,28,Eastern Conference,Southeast,278,-0.4,-0.2,1.48,29.3,12.0,2.7,7.3
-239,Luke Kennard,Memphis Grizzlies,Basketball,1996-06-24,"Middletown, Ohio",True,M,1.96,206.0,26,Western Conference,Southwest,278,-0.4,-0.3,-5.42,25.6,11.2,2.9,3.5
-240,Admiral Schofield,Orlando Magic,Basketball,1997-03-30,"London, England",True,M,1.96,241.0,12,Eastern Conference,Southeast,278,-0.4,-4.1,-8.88,3.8,1.1,0.7,0.3
-241,DaQuan Jeffries,New York Knicks,Basketball,1997-08-30,"Edmond, Oklahoma, U.S.",True,M,1.96,222.0,8,Eastern Conference,Atlantic,278,-0.4,-7.2,-9.94,2.8,0.9,0.3,0.3
-242,Charlie Brown Jr.,New York Knicks,Basketball,1997-02-02,"Philadelphia, Pennsylvania, U.S.",True,M,1.98,199.0,8,Eastern Conference,Atlantic,278,-0.4,-9.2,-9.87,4.6,0.8,0.3,0.0
-243,James Wiseman,Detroit Pistons,Basketball,2001-03-31,"Nashville, Tennessee",True,M,2.13,240.0,27,Eastern Conference,Central,278,-0.4,-0.4,-3.41,16.4,7.0,5.1,0.8
-244,Jalen Johnson,Atlanta Hawks,Basketball,2001-12-18,"Wausau, Wisconsin",True,M,2.06,220.0,21,Eastern Conference,Southeast,278,-0.4,-0.2,0.42,33.8,16.0,8.5,3.5
-245,Kessler Edwards,Sacramento Kings,Basketball,2000-08-09,"Glendale, California, U.S.",True,M,2.03,215.0,19,Western Conference,Pacific,278,-0.4,-1.1,-7.93,5.1,1.8,0.8,0.2
-246,Trevelin Queen,Orlando Magic,Basketball,1997-02-25,"Baltimore, Maryland, U.S.",True,M,1.98,190.0,12,Eastern Conference,Southeast,278,-0.4,-2.1,-9.03,12.5,3.1,1.5,1.4
-247,Xavier Moon,Los Angeles Clippers,Basketball,1995-01-02,"Goodwater, Alabama, U.S.",True,M,1.83,165.0,7,Western Conference,Pacific,278,-0.4,-7.4,-9.86,4.1,1.2,0.6,0.8
-248,TyTy Washington Jr.,Milwaukee Bucks,Basketball,2001-11-15,"Phoenix, Arizona, U.S.",True,M,1.91,195.0,6,Eastern Conference,Central,278,-0.4,-13.4,-9.61,4.2,0.6,0.2,0.2
-249,Keon Ellis,Sacramento Kings,Basketball,2000-01-08,"Eustis, Florida, U.S.",True,M,1.91,175.0,19,Western Conference,Pacific,278,-0.4,-0.4,-5.52,15.8,4.6,1.9,1.4
-250,Jared Rhoden,Detroit Pistons,Basketball,1999-08-27,"Baldwin, New York, U.S.",True,M,1.96,210.0,27,Eastern Conference,Central,278,-0.4,-2.8,-9.07,10.2,3.0,1.5,0.7
-251,Jalen Pickett,Denver Nuggets,Basketball,1999-10-22,"Rochester, New York, U.S.",True,M,1.88,202.0,5,Western Conference,Northwest,278,-0.4,-2.7,-9.55,4.8,1.6,0.5,0.8
-252,Amari Bailey,Charlotte Hornets,Basketball,2004-02-17,"New Orleans, Louisiana, U.S.",True,M,1.96,185.0,30,Eastern Conference,Southeast,278,-0.4,-11.0,-9.92,3.9,0.9,0.3,0.3
-253,Chris Livingston,Milwaukee Bucks,Basketball,2003-10-15,"Akron, Ohio, U.S.",True,M,1.98,220.0,6,Eastern Conference,Central,278,-0.4,-3.8,-8.74,4.2,1.1,0.9,0.3
-254,Collin Gillespie,Denver Nuggets,Basketball,1999-06-25,"Philadelphia, Pennsylvania, U.S.",True,M,1.91,,5,Western Conference,Northwest,278,-0.4,-1.3,-8.64,9.4,3.6,0.9,1.1
-255,Duop Reath,Portland Trail Blazers,Basketball,1996-06-26,"Waat, Sudan",True,M,2.06,245.0,29,Western Conference,Northwest,278,-0.4,-0.3,-1.47,18.1,9.2,3.6,1.0
-256,Jules Bernard,Washington Wizards,Basketball,2000-01-21,"Los Angeles, California, U.S.",True,M,1.98,210.0,28,Eastern Conference,Southeast,278,-0.4,-2.9,-9.59,7.4,3.7,1.1,0.9
-258,Aaron Holiday,Houston Rockets,Basketball,1996-09-30,"Ruston, Louisiana",True,M,1.83,185.0,17,Western Conference,Southwest,304,-0.5,-0.3,-4.27,16.5,6.6,1.6,1.8
-259,De'Anthony Melton,Philadelphia 76ers,Basketball,1998-05-28,"North Hollywood, California",True,M,1.88,200.0,13,Eastern Conference,Atlantic,304,-0.5,-0.4,-3.79,27.8,11.5,3.8,3.1
-260,Zeke Nnaji,Denver Nuggets,Basketball,2001-01-09,"Minneapolis, Minnesota, U.S.",True,M,2.06,240.0,5,Western Conference,Northwest,304,-0.5,-0.7,-7.32,9.8,3.2,2.1,0.6
-261,Jahmi'us Ramsey,Toronto Raptors,Basketball,2001-06-09,"Arlington, Texas, U.S.",True,M,1.91,190.0,23,Eastern Conference,Atlantic,304,-0.5,-3.2,-9.31,17.3,6.7,3.1,1.1
-262,Naji Marshall,New Orleans Pelicans,Basketball,1998-01-24,"Atlantic City, New Jersey, U.S.",True,M,2.01,220.0,4,Western Conference,Southwest,304,-0.5,-0.3,-3.41,19.3,7.2,3.7,2.0
-263,Justin Champagnie,Washington Wizards,Basketball,2001-06-29,"Brooklyn, New York, U.S.",True,M,1.98,200.0,28,Eastern Conference,Southeast,304,-0.5,-2.5,-8.15,15.1,6.0,2.9,1.2
-264,Terry Taylor,Chicago Bulls,Basketball,1999-09-23,"Bowling Green, Kentucky, USA",True,M,1.96,230.0,20,Eastern Conference,Central,304,-0.5,-1.9,-8.32,6.1,1.5,1.2,0.3
-265,Seth Lundy,Atlanta Hawks,Basketball,2000-04-02,"Paulsboro, New Jersey, U.S.",True,M,1.98,220.0,21,Eastern Conference,Southeast,304,-0.5,-7.9,-9.88,5.8,1.6,0.8,0.0
-266,Justin Holiday,Denver Nuggets,Basketball,1989-04-05,"Mission Hills, California",True,M,1.98,180.0,5,Western Conference,Northwest,315,-0.6,-0.6,-5.53,14.6,3.9,1.2,1.1
-267,Joe Ingles,Orlando Magic,Basketball,1987-10-02,"Adelaide, South Australia",True,M,2.03,220.0,12,Eastern Conference,Southeast,315,-0.6,-0.5,-4.49,17.2,4.3,2.1,3.0
-268,Cameron Payne,Philadelphia 76ers,Basketball,1994-08-08,"Memphis, Tennessee, U.S.",True,M,1.85,183.0,13,Eastern Conference,Atlantic,315,-0.6,-0.4,-4.23,16.4,7.6,1.4,2.6
-269,Jerome Robinson,Golden State Warriors,Basketball,1997-02-22,"Raleigh, North Carolina",True,M,1.96,190.0,16,Western Conference,Pacific,315,-0.6,-6.5,-9.91,3.6,1.4,0.3,0.3
-270,Sviatoslav Mykhailiuk,Boston Celtics,Basketball,1997-06-10,"Cherkasy, Ukraine",True,M,2.03,205.0,1,Eastern Conference,Atlantic,315,-0.6,-1.5,-8.83,8.7,3.1,1.1,0.6
-271,Chimezie Metu,Detroit Pistons,Basketball,1997-03-22,"Los Angeles, California",True,M,2.06,225.0,27,Eastern Conference,Central,315,-0.6,-0.7,-6.02,14.4,5.6,3.3,0.7
-272,Moses Brown,Portland Trail Blazers,Basketball,1999-10-13,"New York City, New York, U.S.",True,M,2.18,245.0,29,Western Conference,Northwest,315,-0.6,-2.7,-7.10,8.5,2.9,3.5,0.4
-274,Cole Swider,Miami Heat,Basketball,1999-05-08,"Portsmouth, Rhode Island, U.S.",True,M,2.06,220.0,14,Eastern Conference,Southeast,315,-0.6,-5.4,-8.72,5.5,2.8,0.5,0.3
-275,Noah Clowney,Brooklyn Nets,Basketball,2004-07-14,"Spartanburg, South Carolina, U.S.",True,M,2.08,210.0,22,Eastern Conference,Atlantic,315,-0.6,-2.4,-8.94,10.9,3.1,2.3,0.6
-276,Olivier-Maxence Prosper,Dallas Mavericks,Basketball,2002-07-03,"Montreal, Quebec, Canada",True,M,2.01,230.0,11,Western Conference,Southwest,315,-0.6,-1.7,-8.86,7.5,2.4,1.8,0.6
-277,Emoni Bates,Cleveland Cavaliers,Basketball,2004-01-28,"Ann Arbor, Michigan, U.S.",True,M,2.03,170.0,9,Eastern Conference,Central,315,-0.6,-4.4,-8.81,7.8,2.6,0.8,0.5
-278,Keyontae Johnson,Oklahoma City Thunder,Basketball,2000-05-24,"Norfolk, Virginia, U.S.",True,M,1.93,238.0,2,Western Conference,Northwest,315,-0.6,-6.6,-8.91,7.3,1.2,1.1,0.4
-279,Leaky Black,Charlotte Hornets,Basketball,1999-06-14,"Concord, North Carolina, U.S.",True,M,2.06,209.0,30,Eastern Conference,Southeast,315,-0.6,-2.2,-8.21,9.9,2.3,1.7,0.8
-280,Trey Jemison,Memphis Grizzlies,Basketball,1999-11-28,"Birmingham, Alabama, U.S.",True,M,2.08,260.0,26,Western Conference,Southwest,315,-0.6,-1.3,-5.55,19.4,6.2,4.2,0.9
-281,Reggie Bullock,Houston Rockets,Basketball,1991-03-16,"Baltimore, Maryland",True,M,1.98,205.0,17,Western Conference,Southwest,334,-0.7,-1.6,-7.61,9.6,2.4,1.8,0.4
-282,Duncan Robinson,Miami Heat,Basketball,1994-04-22,"York, Maine, USA",True,M,2.01,215.0,14,Eastern Conference,Southeast,334,-0.7,-0.3,-0.56,28.5,13.4,2.6,2.9
-283,Haywood Highsmith,Miami Heat,Basketball,1996-12-09,"Baltimore, Maryland",True,M,1.98,220.0,14,Eastern Conference,Southeast,334,-0.7,-0.5,-3.55,19.9,6.0,2.8,1.0
-284,Nassir Little,Phoenix Suns,Basketball,2000-02-11,"Pensacola, Florida",True,M,1.96,220.0,10,Western Conference,Pacific,334,-0.7,-1.2,-7.10,11.2,3.7,1.8,0.5
-285,Isaac Okoro,Cleveland Cavaliers,Basketball,2001-01-26,"Atlanta, Georgia, U.S.",True,M,1.96,225.0,9,Eastern Conference,Central,334,-0.7,-0.3,-2.32,27.4,9.4,3.0,1.9
-286,Tre Jones,San Antonio Spurs,Basketball,2000-01-08,"Apple Valley, Minnesota, U.S.",True,M,1.85,185.0,25,Western Conference,Southwest,334,-0.7,-0.3,-0.01,27.2,9.8,3.5,6.1
-287,DeJon Jarreau,Memphis Grizzlies,Basketball,1998-01-23,"New Orleans, Louisiana, U.S.",True,M,1.96,185.0,26,Western Conference,Southwest,334,-0.7,-3.8,-9.49,16.7,4.8,4.9,2.9
-288,Kobe Bufkin,Atlanta Hawks,Basketball,2003-09-21,"Grand Rapids, Michigan, U.S.",True,M,1.96,195.0,21,Eastern Conference,Southeast,334,-0.7,-4.8,-9.59,10.6,3.6,1.6,1.8
-289,Taj Gibson,Detroit Pistons,Basketball,1985-06-24,"Brooklyn, New York",True,M,2.06,232.0,27,Eastern Conference,Central,342,-0.8,-3.4,-6.52,10.4,1.1,1.8,0.5
-290,Bradley Beal,Phoenix Suns,Basketball,1993-06-28,"St. Louis, Missouri",True,M,1.93,207.0,10,Western Conference,Pacific,342,-0.8,-0.4,-3.08,33.1,17.6,4.2,5.1
-291,Zach LaVine,Chicago Bulls,Basketball,1995-03-10,"Renton, Washington",True,M,1.96,200.0,20,Eastern Conference,Central,342,-0.8,-0.7,-5.57,34.9,19.5,5.2,3.9
-292,Trey Lyles,Sacramento Kings,Basketball,1995-11-05,"Saskatoon, Saskatchewan",True,M,2.06,234.0,19,Western Conference,Pacific,342,-0.8,-0.7,-5.82,19.7,7.2,4.4,1.2
-293,Terry Rozier,Miami Heat,Basketball,1994-03-17,"Youngstown, Ohio",True,M,1.85,190.0,14,Eastern Conference,Southeast,342,-0.8,-0.3,0.75,33.8,19.9,4.2,5.8
-294,Delon Wright,Miami Heat,Basketball,1992-04-26,"Los Angeles, California",True,M,1.96,185.0,14,Eastern Conference,Southeast,342,-0.8,-1.0,-5.51,15.3,4.2,1.8,2.5
-295,Malik Monk,Sacramento Kings,Basketball,1998-02-04,"Jonesboro, Arkansas",True,M,1.91,200.0,19,Western Conference,Pacific,342,-0.8,-0.3,-0.64,26.0,15.4,2.9,5.1
-296,Josh Okogie,Phoenix Suns,Basketball,1998-09-01,"Lagos, Nigeria",True,M,1.93,213.0,10,Western Conference,Pacific,342,-0.8,-0.7,-5.71,16.9,4.9,2.7,1.1
-297,Jarred Vanderbilt,Los Angeles Lakers,Basketball,1999-04-03,"Houston, Texas",True,M,2.06,214.0,18,Western Conference,Pacific,342,-0.8,-1.1,-4.28,20.0,5.2,4.8,1.2
-298,Keita Bates-Diop,Brooklyn Nets,Basketball,1996-01-23,"Sacramento, California",True,M,2.03,229.0,22,Eastern Conference,Atlantic,342,-0.8,-1.0,-5.86,12.5,3.7,2.1,0.7
-299,Gabe Vincent,Los Angeles Lakers,Basketball,1996-06-14,"Modesto, California, USA",True,M,1.88,200.0,18,Western Conference,Pacific,342,-0.8,-4.5,-9.24,23.5,4.8,1.0,2.7
-300,Omer Yurtseven,Utah Jazz,Basketball,1998-06-19,"Tashkent, Uzbekistan",True,M,2.11,275.0,24,Western Conference,Northwest,342,-0.8,-1.7,-5.45,9.2,3.6,3.5,0.5
-301,Caleb Houstan,Orlando Magic,Basketball,2003-01-09,"Mississauga, Ontario, Canada",True,M,2.03,205.0,12,Eastern Conference,Southeast,342,-0.8,-0.8,-6.46,14.1,4.4,1.5,0.5
-302,Kenneth Lofton Jr.,Utah Jazz,Basketball,2002-08-14,"Port Arthur, Texas, U.S.",True,M,1.98,275.0,24,Western Conference,Northwest,342,-0.8,-5.6,-9.44,6.4,2.4,1.1,0.8
-303,Andre Jackson Jr.,Milwaukee Bucks,Basketball,2001-11-13,"Amsterdam, New York, U.S.",True,M,1.98,209.0,6,Eastern Conference,Central,342,-0.8,-1.1,-8.05,10.3,2.3,2.0,1.0
-304,Ibou Badji,Portland Trail Blazers,Basketball,2002-10-13,"Dakar, Senegal",True,M,2.13,240.0,29,Western Conference,Northwest,342,-0.8,-2.7,-6.27,10.3,1.5,2.4,0.6
-305,Mouhamadou Gueye,Toronto Raptors,Basketball,1998-07-08,"Staten Island, New York, U.S.",True,M,2.06,210.0,23,Eastern Conference,Atlantic,342,-0.8,-9.1,-9.44,8.0,1.8,1.4,0.3
-307,Markieff Morris,Dallas Mavericks,Basketball,1989-09-02,"Philadelphia, Pennsylvania, USA",True,M,2.06,245.0,11,Western Conference,Southwest,359,-0.9,-4.1,-6.44,7.9,2.5,1.4,0.5
-308,Josh Richardson,Miami Heat,Basketball,1993-09-15,"Edmond, Oklahoma",True,M,1.96,200.0,14,Eastern Conference,Southeast,359,-0.9,-0.6,-4.20,25.7,9.9,2.8,2.4
-309,Thanasis Antetokounmpo,Milwaukee Bucks,Basketball,1992-07-18,"Athens, Greece",True,M,1.98,219.0,6,Eastern Conference,Central,359,-0.9,-5.0,-8.70,4.7,0.9,0.4,0.5
-310,Wenyen Gabriel,Memphis Grizzlies,Basketball,1997-03-26,"Khartoum, Sudan",True,M,2.06,205.0,26,Western Conference,Southwest,359,-0.9,-8.3,-9.59,16.2,3.4,5.0,0.6
-311,Anthony Gill,Washington Wizards,Basketball,1992-10-17,"High Point, North Carolina, U.S.",True,M,2.01,230.0,28,Eastern Conference,Southeast,359,-0.9,-2.3,-8.27,7.0,3.0,1.5,0.5
-312,Lamar Stevens,Memphis Grizzlies,Basketball,1997-07-09,"Philadelphia, Pennsylvania, U.S.",True,M,1.98,230.0,26,Western Conference,Southwest,359,-0.9,-1.4,-7.15,13.4,6.6,3.0,0.7
-313,Vit Krejci,Atlanta Hawks,Basketball,2000-06-19,"Strakonice, Czech Republic",True,M,2.03,195.0,21,Eastern Conference,Southeast,359,-0.9,-1.8,-8.20,25.8,6.7,2.1,2.3
-315,Jacob Gilyard,Brooklyn Nets,Basketball,1998-07-14,"Kansas City, Missouri, U.S.",True,M,1.73,160.0,22,Eastern Conference,Atlantic,359,-0.9,-1.1,-6.42,17.2,4.4,1.1,3.4
-316,Jarace Walker,Indiana Pacers,Basketball,2003-09-04,"Baltimore, Maryland, U.S.",True,M,2.01,235.0,15,Eastern Conference,Central,359,-0.9,-2.2,-7.70,10.6,3.6,1.9,1.3
-317,Colby Jones,Sacramento Kings,Basketball,2002-05-28,"Birmingham, Alabama, U.S.",True,M,1.98,207.0,19,Western Conference,Pacific,359,-0.9,-4.9,-9.65,6.3,1.9,1.3,0.6
-318,Tosan Evbuomwan,Detroit Pistons,Basketball,2001-02-16,"Newcastle, England",True,M,2.01,217.0,27,Eastern Conference,Central,359,-0.9,-2.2,-8.22,20.7,5.6,3.5,0.8
-319,Jeff Green,Houston Rockets,Basketball,1986-08-28,"Cheverly, Maryland",True,M,2.03,235.0,17,Western Conference,Southwest,374,-1.0,-0.6,-5.13,16.6,6.3,2.2,0.8
-321,Nickeil Alexander-Walker,Minnesota Timberwolves,Basketball,1998-09-02,"Toronto, Ontario",True,M,1.98,205.0,3,Western Conference,Northwest,374,-1.0,-0.4,-2.40,23.5,7.6,2.0,2.5
-322,Aaron Nesmith,Indiana Pacers,Basketball,1999-10-16,"Charleston, South Carolina, USA",True,M,1.96,215.0,15,Eastern Conference,Central,374,-1.0,-0.4,0.45,27.6,12.2,3.8,1.5
-323,Keegan Murray,Sacramento Kings,Basketball,2000-08-19,"Cedar Rapids, Iowa, U.S.",True,M,2.03,225.0,19,Western Conference,Pacific,374,-1.0,-0.3,2.36,33.3,15.0,5.3,1.7
-324,Ousmane Dieng,Oklahoma City Thunder,Basketball,2003-05-21,"Villeneuve-sur-Lot, France",True,M,2.08,220.0,2,Western Conference,Northwest,374,-1.0,-2.2,-7.87,11.0,3.9,1.6,1.1
-325,Johnny Juzang,Utah Jazz,Basketball,2001-03-17,"Los Angeles, California, U.S.",True,M,1.96,209.0,24,Western Conference,Northwest,374,-1.0,-3.8,-9.43,14.9,5.2,1.6,0.8
-326,Jalen Wilson,Brooklyn Nets,Basketball,2000-11-04,"Arlington, Texas, U. S.",True,M,2.03,225.0,22,Eastern Conference,Atlantic,374,-1.0,-1.4,-7.26,14.1,4.5,2.6,1.0
-327,Javon Freeman-Liberty,Toronto Raptors,Basketball,1999-10-20,"Good Hope, Illinois, U.S.",True,M,1.91,200.0,23,Eastern Conference,Atlantic,374,-1.0,-3.2,-8.83,16.9,6.0,2.9,1.6
-328,Derrick Rose,Memphis Grizzlies,Basketball,1988-10-04,"Chicago, Illinois",True,M,1.88,200.0,26,Western Conference,Southwest,384,-1.1,-2.1,-8.16,16.6,8.0,1.9,3.3
-329,RJ Barrett,Toronto Raptors,Basketball,2000-06-16,"Toronto, Ontario",True,M,1.98,214.0,23,Eastern Conference,Atlantic,384,-1.1,-0.5,-3.51,31.6,19.5,5.3,3.2
-331,Dyson Daniels,New Orleans Pelicans,Basketball,2003-03-17,"Bendigo, Victoria, Australia",True,M,2.01,199.0,4,Western Conference,Southwest,384,-1.1,-0.7,-3.62,21.8,5.5,3.7,2.6
-332,Jamaree Bouyea,San Antonio Spurs,Basketball,1999-06-27,"Seaside, California, U.S.",True,M,1.88,180.0,25,Western Conference,Southwest,384,-1.1,-14.6,-9.78,9.5,1.7,1.7,1.3
-333,Onuralp Bitim,Chicago Bulls,Basketball,1999-03-31,"Kadıköy, Turkey",True,M,1.98,215.0,20,Eastern Conference,Central,384,-1.1,-3.7,-9.31,12.0,3.7,1.6,0.7
-334,Kira Lewis Jr.,Utah Jazz,Basketball,2001-04-06,"Meridianville, Alabama, U.S.",True,M,1.85,170.0,24,Western Conference,Northwest,390,-1.2,-4.4,-9.05,8.2,2.8,0.9,1.2
-335,Brandon Boston Jr.,Los Angeles Clippers,Basketball,2001-11-28,"Norcross, Georgia, U.S.",True,M,2.01,185.0,7,Western Conference,Pacific,390,-1.2,-4.0,-9.35,8.5,4.1,1.2,0.3
-336,Kobe Brown,Los Angeles Clippers,Basketball,2000-01-01,"Huntsville, Alabama, U.S.",True,M,2.01,250.0,7,Western Conference,Pacific,390,-1.2,-3.1,-8.11,7.9,1.7,1.2,0.4
-337,Maxwell Lewis,Los Angeles Lakers,Basketball,2002-07-27,"Las Vegas, Nevada, U.S.",True,M,2.01,195.0,18,Western Conference,Pacific,390,-1.2,-10.5,-9.00,3.1,0.3,0.1,0.2
-338,Nicolas Batum,Philadelphia 76ers,Basketball,1988-12-14,"Lisieux, France",True,M,2.03,230.0,13,Eastern Conference,Atlantic,395,-1.3,-0.7,-2.92,24.9,5.4,4.2,2.1
-339,Wesley Matthews,Atlanta Hawks,Basketball,1986-10-14,"San Antonio, Texas",True,M,1.93,220.0,21,Eastern Conference,Southeast,395,-1.3,-2.5,-7.26,11.9,3.2,1.6,0.6
-340,Torrey Craig,Chicago Bulls,Basketball,1990-12-19,"Columbia, South Carolina",True,M,2.01,221.0,20,Eastern Conference,Central,395,-1.3,-1.1,-4.89,20.1,6.0,4.1,1.1
-341,Skylar Mays,Los Angeles Lakers,Basketball,1997-09-05,"Baton Rouge, Louisiana",True,M,1.93,205.0,18,Western Conference,Pacific,395,-1.3,-2.4,-7.99,12.2,4.4,1.2,2.4
-342,Julian Phillips,Chicago Bulls,Basketball,2003-11-05,"Killeen, Texas, U.S.",True,M,2.03,198.0,20,Eastern Conference,Central,395,-1.3,-3.2,-8.12,8.1,2.2,0.9,0.3
-343,Harrison Barnes,Sacramento Kings,Basketball,1992-05-30,"Ames, Iowa",True,M,2.03,225.0,19,Western Conference,Pacific,401,-1.4,-0.5,-0.71,29.3,12.4,3.0,1.2
-344,Caris LeVert,Cleveland Cavaliers,Basketball,1994-08-25,"Columbus, Ohio",True,M,1.98,205.0,9,Eastern Conference,Central,401,-1.4,-0.6,-1.79,28.7,13.6,4.0,5.3
-345,Amir Coffey,Los Angeles Clippers,Basketball,1997-06-17,"Hopkins, Minnesota",True,M,2.01,210.0,7,Western Conference,Pacific,401,-1.4,-0.9,-4.79,19.6,6.1,1.9,1.1
-346,Ashton Hagans,Portland Trail Blazers,Basketball,1999-07-08,"Cartersville, Georgia, U.S.",True,M,1.91,190.0,29,Western Conference,Northwest,401,-1.4,-3.7,-8.84,17.0,4.4,2.4,2.9
-347,Jared Butler,Washington Wizards,Basketball,2000-08-25,"Reserve, Louisiana, U.S.",True,M,1.91,195.0,28,Eastern Conference,Southeast,401,-1.4,-2.7,-7.91,12.4,5.2,1.2,2.8
-348,AJ Griffin,Atlanta Hawks,Basketball,2003-08-25,"Dallas, Texas, U.S.",True,M,1.98,220.0,21,Eastern Conference,Southeast,401,-1.4,-8.0,-8.81,7.3,2.1,0.8,0.2
-349,Christian Braun,Denver Nuggets,Basketball,2001-04-17,"Burlington, Kansas, U.S.",True,M,1.98,220.0,5,Western Conference,Northwest,401,-1.4,-0.7,-4.64,19.5,7.1,3.6,1.4
-350,Vince Williams Jr.,Memphis Grizzlies,Basketball,2000-08-30,"Toledo, Ohio, U.S.",True,M,1.93,205.0,26,Western Conference,Southwest,401,-1.4,-0.8,-3.06,27.6,10.0,5.6,3.4
-351,Justin Minaya,Portland Trail Blazers,Basketball,1999-03-26,"Harrington Park, New Jersey, U.S.",True,M,1.96,210.0,29,Western Conference,Northwest,401,-1.4,-5.0,-8.48,7.7,1.2,1.1,0.3
-352,Kyle Lowry,Philadelphia 76ers,Basketball,1986-03-25,"Philadelphia, Pennsylvania, USA",True,M,1.83,196.0,13,Eastern Conference,Atlantic,411,-1.5,-0.7,-2.61,28.4,8.4,3.3,4.2
-353,Garrison Mathews,Atlanta Hawks,Basketball,1996-10-24,"Franklin, Tennessee, U.S.",True,M,1.96,215.0,21,Eastern Conference,Southeast,411,-1.5,-1.4,-6.82,14.3,4.5,1.4,0.6
-354,Luguentz Dort,Oklahoma City Thunder,Basketball,1999-04-19,"Montreal, Quebec",True,M,1.91,215.0,2,Western Conference,Northwest,411,-1.5,-0.6,-0.55,28.5,10.6,3.6,1.4
-355,Kenyon Martin Jr.,Philadelphia 76ers,Basketball,2001-01-06,"Los Angeles, California",True,M,1.98,215.0,13,Eastern Conference,Atlantic,411,-1.5,-1.8,-7.09,11.9,3.6,2.1,0.8
-356,Brandin Podziemski,Golden State Warriors,Basketball,2003-02-25,"Greenfield, Wisconsin, U.S.",True,M,1.93,205.0,16,Western Conference,Pacific,411,-1.5,-0.7,-2.71,26.7,9.2,5.8,3.7
-357,Markelle Fultz,Orlando Magic,Basketball,1998-05-29,"Upper Marlboro, Maryland",True,M,1.91,209.0,12,Eastern Conference,Southeast,417,-1.6,-1.6,-6.64,21.3,7.4,3.2,3.0
-358,Dennis Smith Jr.,Brooklyn Nets,Basketball,1997-11-25,"Fayetteville, North Carolina",True,M,1.88,205.0,22,Eastern Conference,Atlantic,417,-1.6,-1.2,-3.98,18.9,6.6,2.9,3.6
-359,Kevin Huerter,Sacramento Kings,Basketball,1998-08-27,"Albany, New York",True,M,2.01,190.0,19,Western Conference,Pacific,417,-1.6,-0.8,-2.45,24.4,10.2,3.5,2.6
-360,Chuma Okeke,Orlando Magic,Basketball,1998-08-18,"Atlanta, Georgia",True,M,1.98,229.0,12,Eastern Conference,Southeast,417,-1.6,-3.0,-8.31,9.8,2.4,1.8,0.4
-362,Terance Mann,Los Angeles Clippers,Basketball,1996-10-18,"Brooklyn, New York",True,M,1.96,215.0,7,Western Conference,Pacific,417,-1.6,-0.8,-2.61,25.3,8.4,3.3,1.6
-363,Jae'Sean Tate,Houston Rockets,Basketball,1995-10-28,"Toledo, Ohio, U.S.",True,M,1.93,230.0,17,Western Conference,Southwest,417,-1.6,-1.2,-4.91,16.1,4.1,3.1,1.0
-364,Jaden Springer,Boston Celtics,Basketball,2002-09-25,"Charlotte, North Carolina, U.S.",True,M,1.93,204.0,1,Eastern Conference,Atlantic,417,-1.6,-2.8,-7.77,10.0,3.2,1.5,0.9
-365,Alec Burks,New York Knicks,Basketball,1991-07-20,"Grandview, Missouri",True,M,1.98,214.0,8,Eastern Conference,Atlantic,426,-1.7,-1.1,-4.26,19.0,11.0,2.3,1.4
-366,Troy Brown Jr.,Detroit Pistons,Basketball,1999-07-28,"Las Vegas, Nevada",True,M,1.98,215.0,27,Eastern Conference,Central,426,-1.7,-2.0,-6.74,12.5,4.1,2.2,0.9
-367,Jordan Nwora,Toronto Raptors,Basketball,1998-09-09,"Buffalo, New York, U.S.",True,M,2.03,225.0,23,Eastern Conference,Atlantic,426,-1.7,-2.3,-5.86,13.0,6.8,2.5,1.1
-368,Trent Forrest,Atlanta Hawks,Basketball,1998-06-12,"Dothan, Alabama, U.S.",True,M,1.93,210.0,21,Eastern Conference,Southeast,426,-1.7,-3.5,-8.74,10.8,2.1,1.3,2.4
-369,Dalen Terry,Chicago Bulls,Basketball,2002-07-12,"Phoenix, Arizona, U.S.",True,M,2.01,195.0,20,Eastern Conference,Central,426,-1.7,-2.3,-7.98,10.7,2.6,1.8,1.3
-370,Jalen Hood-Schifino,Los Angeles Lakers,Basketball,2003-06-19,"Pittsburgh, Pennsylvania, U.S.",True,M,1.96,215.0,18,Western Conference,Pacific,426,-1.7,-12.1,-9.88,5.2,1.6,0.6,0.4
-371,Christian Wood,Los Angeles Lakers,Basketball,1995-09-27,"Long Beach, California",True,M,2.08,214.0,18,Western Conference,Pacific,433,-1.8,-1.6,-3.58,17.4,6.9,5.1,1.0
-372,John Konchar,Memphis Grizzlies,Basketball,1996-03-22,"West Chicago, Illinois, U.S.",True,M,1.96,210.0,26,Western Conference,Southwest,433,-1.8,-1.2,-3.46,21.3,4.3,4.7,2.0
-373,Jake LaRavia,Memphis Grizzlies,Basketball,2001-11-03,"Pasadena, California, U.S.",True,M,2.01,235.0,26,Western Conference,Southwest,433,-1.8,-2.2,-6.57,20.7,9.0,3.5,1.4
-374,MarJon Beauchamp,Milwaukee Bucks,Basketball,2000-10-12,"Yakima, Washington, U.S.",True,M,2.01,199.0,6,Eastern Conference,Central,433,-1.8,-2.3,-8.16,12.9,4.3,2.1,0.7
-375,Blake Wesley,San Antonio Spurs,Basketball,2003-03-16,"South Bend, Indiana, U.S.",True,M,1.91,185.0,25,Western Conference,Southwest,433,-1.8,-1.9,-7.27,13.5,4.1,1.4,2.7
-376,Taylor Hendricks,Utah Jazz,Basketball,2003-11-22,"Deerfield Beach, Florida, U.S.",True,M,2.06,215.0,24,Western Conference,Northwest,433,-1.8,-2.0,-6.13,20.8,6.9,4.7,0.6
-377,Russell Westbrook,Los Angeles Clippers,Basketball,1988-11-12,"Long Beach, California",True,M,1.91,200.0,7,Western Conference,Pacific,439,-1.9,-1.1,-3.60,22.4,10.9,5.0,4.4
-378,Jae Crowder,Milwaukee Bucks,Basketball,1990-07-06,"Villa Rica, Georgia",True,M,1.98,235.0,6,Eastern Conference,Central,439,-1.9,-1.5,-4.97,23.2,6.4,3.2,1.4
-379,OG Anunoby,New York Knicks,Basketball,1997-07-17,"London, England",True,M,2.01,232.0,8,Eastern Conference,Atlantic,439,-1.9,-1.0,-1.77,34.0,14.9,4.3,2.3
-380,De'Andre Hunter,Atlanta Hawks,Basketball,1997-12-02,"Philadelphia, Pennsylvania",True,M,2.03,225.0,21,Eastern Conference,Southeast,439,-1.9,-1.0,-2.23,29.0,15.5,3.8,1.4
-381,Tyler Herro,Miami Heat,Basketball,2000-01-20,"Greenfield, Wisconsin, USA",True,M,1.96,205.0,14,Eastern Conference,Southeast,439,-1.9,-1.2,-4.28,33.6,20.8,5.3,4.4
-383,Jabari Walker,Portland Trail Blazers,Basketball,2002-07-30,"Wichita, Kansas, U.S.",True,M,2.01,227.0,29,Western Conference,Northwest,439,-1.9,-1.0,-3.55,22.8,8.6,6.4,1.0
-384,Ben Sheppard,Indiana Pacers,Basketball,2001-07-16,"Atlanta, Georgia, U.S.",True,M,1.98,190.0,15,Eastern Conference,Central,439,-1.9,-2.1,-6.96,13.4,4.2,1.5,0.9
-385,Rayan Rupert,Portland Trail Blazers,Basketball,2004-05-31,"Strasbourg, France",True,M,1.98,185.0,29,Western Conference,Northwest,439,-1.9,-3.7,-8.88,12.7,3.6,1.9,1.3
-386,Anfernee Simons,Portland Trail Blazers,Basketball,1999-06-08,"Altamonte Springs, Florida",True,M,1.91,181.0,29,Western Conference,Northwest,449,-2.0,-1.0,-2.62,34.4,22.6,3.6,5.5
-387,Quentin Grimes,Detroit Pistons,Basketball,2000-05-08,"Houston, Texas, U.S.",True,M,1.96,205.0,27,Eastern Conference,Central,449,-2.0,-1.5,-6.13,20.1,7.0,2.0,1.3
-388,Ayo Dosunmu,Chicago Bulls,Basketball,2000-01-17,"Chicago, Illinois, U.S.",True,M,1.96,200.0,20,Eastern Conference,Central,449,-2.0,-0.7,0.00,28.9,12.0,2.8,3.1
-389,Chris Duarte,Sacramento Kings,Basketball,1997-06-13,"Montreal, Canada",True,M,1.98,190.0,19,Western Conference,Pacific,449,-2.0,-2.2,-7.04,12.8,4.2,1.9,0.8
-390,Jaime Jaquez Jr.,Miami Heat,Basketball,2001-02-18,"Irvine, California, U.S.",True,M,1.98,225.0,14,Eastern Conference,Southeast,449,-2.0,-0.8,-1.12,29.0,12.2,3.9,2.6
-391,Kentavious Caldwell-Pope,Denver Nuggets,Basketball,1993-02-18,"Thomaston, Georgia",True,M,1.96,204.0,5,Western Conference,Northwest,455,-2.1,-0.7,0.73,31.8,10.0,2.4,2.4
-392,Seth Curry,Charlotte Hornets,Basketball,1990-08-23,"Charlotte, North Carolina",True,M,1.88,185.0,30,Eastern Conference,Southeast,455,-2.1,-2.7,-7.07,14.0,5.1,1.5,1.0
-393,Derrick Jones Jr.,Dallas Mavericks,Basketball,1997-02-15,"Chester, Pennsylvania",True,M,1.96,210.0,11,Western Conference,Southwest,455,-2.1,-1.0,-2.47,23.3,8.7,3.3,1.0
-394,Darius Garland,Cleveland Cavaliers,Basketball,2000-01-26,"Gary, Indiana",True,M,1.85,192.0,9,Eastern Conference,Central,455,-2.1,-1.0,-2.37,33.2,18.0,2.6,6.5
-395,Julian Strawther,Denver Nuggets,Basketball,2002-04-18,"Las Vegas, Nevada, U.S.",True,M,1.98,205.0,5,Western Conference,Northwest,455,-2.1,-3.1,-7.04,11.7,4.9,1.2,1.0
-396,Bismack Biyombo,Oklahoma City Thunder,Basketball,1992-08-28,"Lubumbashi, DR Congo",True,M,2.03,255.0,2,Western Conference,Northwest,460,-2.2,-2.3,-5.16,20.5,4.3,5.3,1.4
-397,Jerami Grant,Portland Trail Blazers,Basketball,1994-03-12,"Portland, Oregon",True,M,2.03,210.0,29,Western Conference,Northwest,460,-2.2,-1.0,-1.20,33.9,21.0,3.5,2.8
-398,Maxi Kleber,Dallas Mavericks,Basketball,1992-01-29,"Würzburg, Germany",True,M,2.08,240.0,11,Western Conference,Southwest,460,-2.2,-2.3,-7.21,20.3,4.2,3.2,1.5
-399,Tre Mann,Charlotte Hornets,Basketball,2001-02-03,"Gainesville, Florida, U.S.",True,M,1.91,178.0,30,Eastern Conference,Southeast,460,-2.2,-2.3,-6.39,22.4,8.5,3.6,3.7
-401,Josh Hart,New York Knicks,Basketball,1995-03-06,"Silver Spring, Maryland",True,M,1.96,215.0,8,Eastern Conference,Atlantic,466,-2.3,-0.7,-0.54,33.0,9.0,8.3,4.0
-403,Dalano Banton,Portland Trail Blazers,Basketball,1999-11-07,"Toronto, Ontario, Canada",True,M,2.06,204.0,29,Western Conference,Northwest,466,-2.3,-2.2,-6.26,17.4,9.1,3.1,2.0
-404,Peyton Watson,Denver Nuggets,Basketball,2002-09-11,"Beverly Hills, California, U.S.",True,M,2.01,200.0,5,Western Conference,Northwest,466,-2.3,-1.3,-3.16,18.2,6.6,3.0,1.0
-405,Evan Fournier,Detroit Pistons,Basketball,1992-10-29,"Saint-Maurice, France",True,M,2.01,205.0,27,Eastern Conference,Central,471,-2.4,-4.0,-6.88,17.8,6.7,1.8,1.5
-406,Patrick Beverley,Milwaukee Bucks,Basketball,1988-07-12,"Chicago, Illinois",True,M,1.85,180.0,6,Eastern Conference,Central,471,-2.4,-1.4,-3.98,19.6,6.0,3.1,2.8
-407,Marcus Smart,Memphis Grizzlies,Basketball,1994-03-06,"Flower Mound, Texas, USA",True,M,1.93,220.0,26,Western Conference,Southwest,471,-2.4,-3.0,-6.77,30.3,14.5,2.7,4.3
-408,Pat Connaughton,Milwaukee Bucks,Basketball,1993-01-06,"Arlington, Massachusetts",True,M,1.96,209.0,6,Eastern Conference,Central,471,-2.4,-1.2,-3.58,21.7,5.6,3.1,2.0
-409,Talen Horton-Tucker,Utah Jazz,Basketball,2000-11-25,"Chicago, Illinois",True,M,1.93,234.0,24,Western Conference,Northwest,471,-2.4,-2.1,-5.53,19.1,9.5,2.3,3.6
-410,Devin Vassell,San Antonio Spurs,Basketball,2000-08-23,"Lawrenceville, Georgia, U.S.",True,M,1.96,200.0,25,Western Conference,Southwest,471,-2.4,-0.8,1.68,33.1,19.5,3.8,4.1
-411,Kris Dunn,Utah Jazz,Basketball,1994-03-18,"New London, Connecticut",True,M,1.93,205.0,24,Western Conference,Northwest,477,-2.5,-1.6,-3.10,18.8,5.4,2.9,3.9
-412,Max Strus,Cleveland Cavaliers,Basketball,1996-03-28,"Hickory Hills, Illinois, USA",True,M,1.96,215.0,9,Eastern Conference,Central,477,-2.5,-1.0,-1.27,31.9,12.3,4.6,3.7
-413,Saddiq Bey,Atlanta Hawks,Basketball,1999-04-09,"Charlotte, North Carolina, U.S.",True,M,2.01,215.0,21,Eastern Conference,Southeast,477,-2.5,-0.9,-0.44,32.7,13.7,6.5,1.5
-414,Davion Mitchell,Sacramento Kings,Basketball,1998-09-05,"Hinesville, Georgia, U.S.",True,M,1.88,205.0,19,Western Conference,Pacific,477,-2.5,-2.2,-7.08,14.2,4.7,1.2,1.7
-415,Jordan Goodwin,Memphis Grizzlies,Basketball,1998-10-23,"Centreville, Illinois, U.S.",True,M,1.93,200.0,26,Western Conference,Southwest,477,-2.5,-2.2,-5.77,16.8,5.6,3.7,2.5
-416,Anthony Black,Orlando Magic,Basketball,2004-01-20,"Duncanville, Texas, U.S.",True,M,2.01,200.0,12,Eastern Conference,Southeast,477,-2.5,-1.7,-6.89,17.4,4.7,2.1,1.4
-417,Mike Muscala,Oklahoma City Thunder,Basketball,1991-07-01,"St. Louis Park, Minnesota",True,M,2.08,240.0,2,Western Conference,Northwest,483,-2.6,-3.7,-5.37,11.8,3.2,2.4,0.7
-418,Buddy Hield,Philadelphia 76ers,Basketball,1992-12-17,"Freeport, Bahamas",True,M,1.93,220.0,13,Eastern Conference,Atlantic,483,-2.6,-1.0,0.92,26.2,12.3,3.2,2.9
-419,Malik Beasley,Milwaukee Bucks,Basketball,1996-11-26,"Atlanta, Georgia",True,M,1.93,187.0,6,Eastern Conference,Central,483,-2.6,-1.0,-0.51,29.9,11.7,3.8,1.4
-420,Jaren Jackson Jr.,Memphis Grizzlies,Basketball,1999-09-15,"Plainfield, New Jersey",True,M,2.11,242.0,26,Western Conference,Southwest,483,-2.6,-0.9,2.42,32.1,22.3,5.6,2.3
-421,Coby White,Chicago Bulls,Basketball,2000-02-16,"Goldsboro, North Carolina",True,M,1.96,195.0,20,Eastern Conference,Central,483,-2.6,-0.8,1.67,36.7,19.3,4.7,5.2
-422,Caleb Martin,Miami Heat,Basketball,1995-09-28,"Winston-Salem, North Carolina, USA",True,M,1.96,205.0,14,Eastern Conference,Southeast,483,-2.6,-1.3,-3.76,27.1,10.1,4.6,2.1
-423,Jalen Green,Houston Rockets,Basketball,2002-02-09,"Merced, California",True,M,1.93,178.0,17,Western Conference,Southwest,483,-2.6,-0.9,0.00,31.7,19.9,5.1,3.5
-424,Jordan Hawkins,New Orleans Pelicans,Basketball,2002-04-29,"Gaithersburg, Maryland, U.S.",True,M,1.96,190.0,4,Western Conference,Southwest,483,-2.6,-1.7,-5.90,17.8,8.1,2.3,1.1
-425,Cedi Osman,San Antonio Spurs,Basketball,1995-04-08,"Ohrid, Macedonia",True,M,2.01,230.0,25,Western Conference,Southwest,492,-2.7,-1.7,-3.79,17.6,6.7,2.5,1.7
-426,Josh Green,Dallas Mavericks,Basketball,2000-11-16,"Sydney, New South Wales, Australia",True,M,1.96,200.0,11,Western Conference,Southwest,492,-2.7,-1.5,-4.69,26.6,8.5,3.2,2.3
-427,Jaden McDaniels,Minnesota Timberwolves,Basketball,2000-09-29,"Federal Way, Washington, U.S.",True,M,2.06,185.0,3,Western Conference,Northwest,492,-2.7,-1.1,-2.71,29.4,10.8,3.2,1.4
-428,Malachi Flynn,Detroit Pistons,Basketball,1998-05-10,"Tacoma, Washington, U.S.",True,M,1.85,175.0,27,Eastern Conference,Central,492,-2.7,-2.9,-6.79,11.8,4.6,1.6,1.6
-429,Keldon Johnson,San Antonio Spurs,Basketball,1999-11-11,"Chesterfield, Virginia",True,M,1.96,220.0,25,Western Conference,Southwest,496,-2.8,-1.1,0.00,29.6,15.8,5.5,2.9
-430,Gordon Hayward,Oklahoma City Thunder,Basketball,1990-03-23,"Indianapolis, Indiana",True,M,2.01,225.0,2,Western Conference,Northwest,498,-2.9,-2.0,-4.87,25.0,10.0,3.7,3.3
-431,Doug McDermott,Indiana Pacers,Basketball,1992-01-03,"Grand Forks, North Dakota",True,M,2.01,225.0,15,Eastern Conference,Central,498,-2.9,-2.7,-6.27,14.4,5.5,1.0,1.1
+player_name,team,sport,birth_date,birth_location,active_status,gender,height_in_m,weight_in_lb,team_rank,conference,division,player_rank,efficiency_nerd,efficiency_nf_eff,efficiency_fantasy,statistics_mpg,statistics_ppg,statistics_rpg,statistics_apg
+Shai Gilgeous-Alexander,Oklahoma City Thunder,Basketball,1998-07-12,"Toronto, Ontario",True,M,1.98,180.0,2,Western Conference,Northwest,2,23.4,7.4,13.47,34.4,30.3,5.5,6.3
+Giannis Antetokounmpo,Milwaukee Bucks,Basketball,1994-12-06,"Athens, Greece",True,M,2.11,242.0,6,Eastern Conference,Central,3,19.6,6.2,6.24,35.2,30.8,11.5,6.4
+Anthony Davis,Los Angeles Lakers,Basketball,1993-03-11,"Chicago, Illinois",True,M,2.08,253.0,18,Western Conference,Pacific,5,14.0,4.3,13.60,35.9,24.7,12.7,3.6
+Jayson Tatum,Boston Celtics,Basketball,1998-03-03,"St. Louis, Missouri, USA",True,M,2.03,209.0,1,Eastern Conference,Atlantic,6,13.2,4.1,7.59,35.9,27.2,8.3,4.9
+Jalen Brunson,New York Knicks,Basketball,1996-08-31,"New Brunswick, New Jersey",True,M,1.85,190.0,8,Eastern Conference,Atlantic,7,13.0,4.2,4.42,35.1,27.9,3.6,6.5
+Joel Embiid,Philadelphia 76ers,Basketball,1994-03-16,"Yaoundé, Cameroon",True,M,2.13,280.0,13,Eastern Conference,Atlantic,8,11.9,8.0,4.88,34.0,35.3,11.3,5.7
+Domantas Sabonis,Sacramento Kings,Basketball,1996-05-03,"Portland, Oregon",True,M,2.11,240.0,19,Western Conference,Pacific,9,11.6,3.4,5.16,35.8,19.6,13.6,8.3
+Rudy Gobert,Minnesota Timberwolves,Basketball,1992-06-23,"Saint-Quentin, France",True,M,2.16,245.0,3,Western Conference,Northwest,10,11.1,3.7,4.43,34.1,13.8,12.9,1.3
+Jarrett Allen,Cleveland Cavaliers,Basketball,1998-04-21,"San Diego, California",True,M,2.11,243.0,9,Eastern Conference,Central,10,11.1,3.9,5.41,31.6,16.3,10.6,2.7
+Kawhi Leonard,Los Angeles Clippers,Basketball,1991-06-29,"Los Angeles, California",True,M,2.01,225.0,7,Western Conference,Pacific,12,10.9,3.6,9.28,34.3,23.7,6.1,3.6
+Devin Booker,Phoenix Suns,Basketball,1996-10-30,"Grand Rapids, Michigan",True,M,1.98,210.0,10,Western Conference,Pacific,13,10.4,3.7,4.38,35.8,27.4,4.7,6.9
+Jimmy Butler,Miami Heat,Basketball,1989-09-14,"Houston, Texas, USA",True,M,2.01,231.0,14,Eastern Conference,Southeast,14,10.0,4.4,2.49,33.9,21.0,5.4,4.9
+Tyrese Haliburton,Indiana Pacers,Basketball,2000-02-29,"Milwaukee, Wisconsin, U.S.",True,M,1.96,185.0,15,Eastern Conference,Central,16,8.6,3.3,5.92,32.2,20.4,4.0,11.0
+Chet Holmgren,Oklahoma City Thunder,Basketball,2002-05-01,"Minneapolis, Minnesota, U.S.",True,M,2.16,207.0,2,Western Conference,Northwest,17,8.4,3.0,6.55,29.9,16.6,7.9,2.5
+Zion Williamson,New Orleans Pelicans,Basketball,2000-07-06,"Salisbury, North Carolina",True,M,1.98,284.0,4,Western Conference,Southwest,18,8.1,3.1,-0.71,31.3,22.9,5.8,5.0
+Kevin Durant,Phoenix Suns,Basketball,1988-09-29,"Washington, D.C.",True,M,2.08,240.0,10,Western Conference,Pacific,19,7.7,2.4,7.55,37.1,27.5,6.8,5.1
+Derrick White,Boston Celtics,Basketball,1994-07-02,"Parker, Colorado, USA",True,M,1.93,190.0,1,Eastern Conference,Atlantic,20,7.4,2.5,5.04,32.7,15.6,4.4,5.2
+LeBron James,Los Angeles Lakers,Basketball,1984-12-30,"Akron, Ohio",True,M,2.06,250.0,18,Western Conference,Pacific,21,7.3,2.5,4.87,35.2,25.4,7.3,8.1
+DeMar DeRozan,Chicago Bulls,Basketball,1989-08-07,"Compton, California",True,M,1.98,220.0,20,Eastern Conference,Central,22,7.2,2.0,6.67,37.6,23.6,4.3,5.2
+Donovan Mitchell,Cleveland Cavaliers,Basketball,1996-09-07,"Elmsford, New York",True,M,1.85,215.0,9,Eastern Conference,Central,24,7.0,3.0,3.41,35.2,26.8,5.2,6.1
+Lauri Markkanen,Utah Jazz,Basketball,1997-05-22,"Vantaa, Finland",True,M,2.13,240.0,24,Western Conference,Northwest,25,6.9,3.0,3.69,33.1,23.2,8.2,2.0
+Daniel Gafford,Dallas Mavericks,Basketball,1998-10-01,"El Dorado, Arkansas, U.S.",True,M,2.08,234.0,11,Western Conference,Southwest,25,6.9,3.2,3.09,24.7,11.0,7.8,1.5
+Damian Lillard,Milwaukee Bucks,Basketball,1990-07-15,"Oakland, California",True,M,1.88,195.0,6,Eastern Conference,Central,27,6.8,2.2,4.97,35.3,24.4,4.4,7.1
+Kyrie Irving,Dallas Mavericks,Basketball,1992-03-23,"Melbourne, Victoria",True,M,1.88,195.0,11,Western Conference,Southwest,30,6.5,2.8,3.29,34.5,25.3,5.0,5.3
+Jalen Williams,Oklahoma City Thunder,Basketball,2001-04-14,"Denver, Colorado, U.S.",True,M,1.96,210.0,2,Western Conference,Northwest,30,6.5,2.4,2.90,31.7,19.5,4.0,4.6
+Stephen Curry,Golden State Warriors,Basketball,1988-03-14,"Akron, Ohio",True,M,1.88,185.0,16,Western Conference,Pacific,32,6.4,2.2,5.39,32.7,26.6,4.3,5.0
+Karl-Anthony Towns,Minnesota Timberwolves,Basketball,1995-11-15,"Edison, New Jersey",True,M,2.11,248.0,3,Western Conference,Northwest,32,6.4,2.5,4.75,32.8,22.1,8.4,3.0
+James Harden,Los Angeles Clippers,Basketball,1989-08-26,"Los Angeles, California",True,M,1.96,220.0,7,Western Conference,Pacific,34,6.1,2.0,6.06,34.8,16.8,5.1,8.6
+Isaiah Hartenstein,New York Knicks,Basketball,1998-05-05,"Eugene, Oregon",True,M,2.13,250.0,8,Eastern Conference,Atlantic,35,5.9,2.7,1.15,25.0,7.5,8.4,2.3
+Tyrese Maxey,Philadelphia 76ers,Basketball,2000-11-04,"Dallas, Texas, U.S.",True,M,1.88,200.0,13,Eastern Conference,Atlantic,35,5.9,1.9,4.45,37.5,25.6,3.7,6.2
+Moritz Wagner,Orlando Magic,Basketball,1997-04-26,"Berlin, Germany",True,M,2.11,245.0,12,Eastern Conference,Southeast,37,5.8,3.5,0.00,17.8,10.8,4.4,1.2
+Anthony Edwards,Minnesota Timberwolves,Basketball,2001-08-05,"Atlanta, Georgia",True,M,1.93,225.0,3,Western Conference,Northwest,38,5.7,1.8,4.23,35.2,26.1,5.6,5.2
+Paul George,Los Angeles Clippers,Basketball,1990-05-02,"Palmdale, California",True,M,2.03,220.0,7,Western Conference,Pacific,39,5.5,1.8,7.49,34.2,22.6,5.3,3.6
+Ivica Zubac,Los Angeles Clippers,Basketball,1997-03-18,"Mostar, Bosnia and Herzegovina",True,M,2.13,240.0,7,Western Conference,Pacific,40,5.3,2.5,1.47,26.5,11.6,9.1,1.4
+Bam Adebayo,Miami Heat,Basketball,1997-07-18,"Newark, New Jersey, USA",True,M,2.08,260.0,14,Eastern Conference,Southeast,41,5.1,1.8,4.36,34.3,19.8,10.7,4.0
+Evan Mobley,Cleveland Cavaliers,Basketball,2001-06-18,"San Diego, California, U.S.",True,M,2.13,215.0,9,Eastern Conference,Central,42,4.9,2.9,0.80,30.7,15.8,9.8,3.1
+Jaylen Brown,Boston Celtics,Basketball,1996-10-24,"Atlanta, Georgia, USA",True,M,1.98,223.0,1,Eastern Conference,Atlantic,43,4.6,1.6,1.45,33.6,23.2,5.5,3.6
+Fred VanVleet,Houston Rockets,Basketball,1994-02-25,"Rockford, Illinois",True,M,1.85,197.0,17,Western Conference,Southwest,43,4.6,1.5,5.19,36.6,16.7,3.7,8.1
+Collin Sexton,Utah Jazz,Basketball,1999-01-04,"Marietta, Georgia",True,M,1.85,190.0,24,Western Conference,Northwest,45,4.5,1.7,2.06,26.6,18.8,2.6,4.9
+Jamal Murray,Denver Nuggets,Basketball,1997-02-23,"Kitchener, Ontario",True,M,1.91,215.0,5,Western Conference,Northwest,46,4.4,2.0,0.79,32.1,20.9,4.1,6.7
+Luke Kornet,Boston Celtics,Basketball,1995-07-15,"Lexington, Kentucky",True,M,2.16,250.0,1,Eastern Conference,Atlantic,46,4.4,3.9,-3.60,15.4,5.1,4.1,1.0
+Trayce Jackson-Davis,Golden State Warriors,Basketball,2000-02-22,"Greenwood, Indiana, U.S.",True,M,2.06,245.0,16,Western Conference,Pacific,46,4.4,3.6,-4.25,15.8,7.6,4.8,1.2
+Clint Capela,Atlanta Hawks,Basketball,1994-05-18,"Geneva, Switzerland",True,M,2.08,240.0,21,Eastern Conference,Southeast,49,4.2,1.9,2.45,25.5,11.4,10.6,1.2
+Donte DiVincenzo,New York Knicks,Basketball,1997-01-31,"Newark, Delaware",True,M,1.93,203.0,8,Eastern Conference,Atlantic,49,4.2,1.6,2.26,28.0,15.0,3.5,2.6
+Andre Drummond,Chicago Bulls,Basketball,1993-08-10,"Mount Vernon, New York",True,M,2.08,279.0,20,Eastern Conference,Central,51,4.1,2.5,-0.14,17.1,8.4,8.9,0.5
+Al Horford,Boston Celtics,Basketball,1986-06-03,"Puerto Plata, Dominican Republic",True,M,2.06,245.0,1,Eastern Conference,Atlantic,53,4.0,1.9,2.50,27.2,8.6,6.5,2.6
+Pascal Siakam,Indiana Pacers,Basketball,1994-04-02,"Douala, Cameroon",True,M,2.06,230.0,15,Eastern Conference,Central,54,3.8,1.2,2.22,33.5,21.7,7.1,4.5
+Jalen Smith,Indiana Pacers,Basketball,2000-03-16,"Portsmouth, Virginia, U.S.",True,M,2.08,215.0,15,Eastern Conference,Central,54,3.8,3.1,-1.31,17.4,10.1,5.6,1.0
+Franz Wagner,Orlando Magic,Basketball,2001-08-27,"Berlin, Germany",True,M,2.06,225.0,12,Eastern Conference,Southeast,57,3.7,1.3,2.31,32.7,19.6,5.3,3.8
+Jonathan Isaac,Orlando Magic,Basketball,1997-10-03,"The Bronx, New York",True,M,2.11,230.0,12,Eastern Conference,Southeast,58,3.6,3.5,-3.34,15.4,6.9,4.4,0.5
+Isaiah Jackson,Indiana Pacers,Basketball,2002-01-10,"Pontiac, Michigan, U.S.",True,M,2.08,206.0,15,Eastern Conference,Central,59,3.3,3.6,-3.99,12.9,6.6,4.0,0.8
+Kevin Love,Miami Heat,Basketball,1988-09-07,"Santa Monica, California",True,M,2.03,251.0,14,Eastern Conference,Southeast,60,3.1,2.9,-2.26,17.5,9.0,6.2,2.2
+Myles Turner,Indiana Pacers,Basketball,1996-03-24,"Bedford, Texas",True,M,2.11,250.0,15,Eastern Conference,Central,60,3.1,1.2,5.47,27.1,16.8,6.9,1.3
+De'Aaron Fox,Sacramento Kings,Basketball,1997-12-20,"New Orleans, Louisiana",True,M,1.91,185.0,19,Western Conference,Pacific,60,3.1,1.0,3.96,35.7,26.4,4.6,5.7
+Goga Bitadze,Orlando Magic,Basketball,1999-07-20,"Sagarejo, Georgia",True,M,2.11,250.0,12,Eastern Conference,Southeast,63,3.0,2.5,-1.41,16.4,5.3,4.9,1.4
+Trey Murphy III,New Orleans Pelicans,Basketball,2000-06-18,,True,M,2.06,206.0,4,Western Conference,Southwest,63,3.0,1.6,-0.98,28.5,14.1,4.7,2.1
+Aaron Gordon,Denver Nuggets,Basketball,1995-09-16,"San Jose, California",True,M,2.03,235.0,5,Western Conference,Northwest,65,2.9,1.0,-1.17,31.5,13.8,6.5,3.4
+Sam Hauser,Boston Celtics,Basketball,1997-12-08,"Green Bay, Wisconsin, U.S.",True,M,2.03,215.0,1,Eastern Conference,Atlantic,66,2.8,1.4,-1.39,21.4,8.8,3.4,0.9
+Brandon Ingram,New Orleans Pelicans,Basketball,1997-09-02,"Kinston, North Carolina",True,M,2.03,190.0,4,Western Conference,Southwest,68,2.7,1.0,1.06,33.0,20.9,5.1,5.8
+Wendell Carter Jr.,Orlando Magic,Basketball,1999-04-16,"Atlanta, Georgia",True,M,2.08,270.0,12,Eastern Conference,Southeast,69,2.6,1.6,-4.06,26.0,11.2,7.2,1.8
+Michael Porter Jr.,Denver Nuggets,Basketball,1998-06-29,"Columbia, Missouri",True,M,2.08,218.0,5,Western Conference,Northwest,69,2.6,0.9,2.92,31.7,16.9,7.0,1.5
+Herbert Jones,New Orleans Pelicans,Basketball,1998-10-06,"Greensboro, Alabama U.S.",True,M,2.03,210.0,4,Western Conference,Southwest,69,2.6,1.0,3.18,30.0,11.1,3.5,2.6
+Naz Reid,Minnesota Timberwolves,Basketball,1999-08-26,"Asbury Park, New Jersey, U.S.",True,M,2.06,264.0,3,Western Conference,Northwest,73,2.4,1.1,2.92,24.0,13.1,5.1,1.3
+Payton Pritchard,Boston Celtics,Basketball,1998-01-28,"Tualatin, Oregon, USA",True,M,1.85,195.0,1,Eastern Conference,Atlantic,73,2.4,1.2,-2.53,21.6,8.6,3.2,3.1
+Julius Randle,New York Knicks,Basketball,1994-11-29,"Dallas, Texas",True,M,2.03,250.0,8,Eastern Conference,Atlantic,75,2.3,1.1,-3.31,35.4,24.0,9.2,5.0
+Trae Young,Atlanta Hawks,Basketball,1998-09-19,"Lubbock, Texas",True,M,1.85,164.0,21,Eastern Conference,Southeast,75,2.3,1.0,1.22,36.5,26.4,2.7,10.8
+Grayson Allen,Phoenix Suns,Basketball,1995-10-08,"Jacksonville, Florida",True,M,1.93,198.0,10,Western Conference,Pacific,75,2.3,0.8,2.16,33.6,13.4,3.8,3.1
+Jrue Holiday,Boston Celtics,Basketball,1990-06-12,"Chatsworth, California",True,M,1.91,205.0,1,Eastern Conference,Atlantic,78,2.2,0.8,1.00,33.1,12.6,5.5,4.9
+Paul Reed,Philadelphia 76ers,Basketball,1999-06-14,"Orlando, Florida, U.S.",True,M,2.06,210.0,13,Eastern Conference,Atlantic,78,2.2,1.2,-0.47,19.3,7.2,5.9,1.3
+Mark Williams,Charlotte Hornets,Basketball,2001-12-16,"Norfolk, Virginia, U.S.",True,M,2.13,242.0,30,Eastern Conference,Southeast,80,2.1,3.1,-3.86,26.7,12.7,9.7,1.2
+Larry Nance Jr.,New Orleans Pelicans,Basketball,1993-01-01,"Akron, Ohio",True,M,2.01,245.0,4,Western Conference,Southwest,82,2.0,1.4,-3.27,19.7,5.7,5.1,1.7
+Amen Thompson,Houston Rockets,Basketball,2003-01-30,"Oakland, California, U.S.",True,M,2.01,200.0,17,Western Conference,Southwest,82,2.0,1.3,-2.42,21.4,9.2,6.3,2.4
+Day'Ron Sharpe,Brooklyn Nets,Basketball,2001-11-06,"Greenville, North Carolina, U.S.",True,M,2.11,265.0,22,Eastern Conference,Atlantic,84,1.9,1.7,-3.01,15.1,7.0,6.4,1.4
+Miles McBride,New York Knicks,Basketball,2000-09-08,"Cincinnati, Ohio, U.S.",True,M,1.88,200.0,8,Eastern Conference,Atlantic,84,1.9,1.3,-3.83,18.5,7.9,1.3,1.6
+Jalen Duren,Detroit Pistons,Basketball,2003-11-18,"Sharon Hill, Pennsylvania, U.S.",True,M,2.08,250.0,27,Eastern Conference,Central,84,1.9,0.9,1.89,29.2,13.6,11.8,2.5
+Nick Richards,Charlotte Hornets,Basketball,1997-11-29,"Kingston, Jamaica",True,M,2.13,245.0,30,Eastern Conference,Southeast,87,1.8,0.8,0.99,26.6,9.8,8.2,0.8
+Jakob Poeltl,Toronto Raptors,Basketball,1995-10-15,"Vienna, Austria",True,M,2.16,245.0,23,Eastern Conference,Atlantic,89,1.6,1.0,-0.03,26.4,11.1,8.6,2.5
+Neemias Queta,Boston Celtics,Basketball,1999-07-13,"Lisbon, Portugal",True,M,2.13,245.0,1,Eastern Conference,Atlantic,89,1.6,4.1,-5.07,11.4,4.6,4.1,0.5
+Aaron Wiggins,Oklahoma City Thunder,Basketball,1999-01-02,"Greensboro, North Carolina, U.S.",True,M,1.98,200.0,2,Western Conference,Northwest,89,1.6,1.2,-4.45,14.8,6.3,2.3,0.9
+Jonathan Kuminga,Golden State Warriors,Basketball,2002-10-06,"Goma, DR Congo",True,M,2.03,210.0,16,Western Conference,Pacific,92,1.5,0.6,-1.21,26.3,16.3,4.8,2.1
+Chris Paul,Golden State Warriors,Basketball,1985-05-06,"Winston-Salem, North Carolina",True,M,1.83,175.0,16,Western Conference,Pacific,93,1.4,0.9,-2.22,26.3,9.1,4.0,6.9
+Tobias Harris,Philadelphia 76ers,Basketball,1992-07-15,"Islip, New York",True,M,2.03,226.0,13,Eastern Conference,Atlantic,93,1.4,0.5,3.21,33.9,17.2,6.4,3.1
+Kevon Looney,Golden State Warriors,Basketball,1996-02-06,"Milwaukee, Wisconsin",True,M,2.06,222.0,16,Western Conference,Pacific,93,1.4,1.0,-4.55,16.5,4.6,5.8,1.9
+T.J. McConnell,Indiana Pacers,Basketball,1992-03-25,"Pittsburgh, Pennsylvania",True,M,1.85,190.0,15,Eastern Conference,Central,93,1.4,0.9,-2.02,18.0,9.7,2.7,5.4
+Bol Bol,Phoenix Suns,Basketball,1999-11-16,"Khartoum, Sudan",True,M,2.18,220.0,10,Western Conference,Pacific,93,1.4,2.6,-4.34,11.1,5.4,3.3,0.4
+Sam Merrill,Cleveland Cavaliers,Basketball,1996-05-15,"Albuquerque, New Mexico, U.S.",True,M,1.93,205.0,9,Eastern Conference,Central,93,1.4,1.1,-4.80,17.8,8.2,2.0,1.8
+Kelly Olynyk,Toronto Raptors,Basketball,1991-04-19,"Toronto, Ontario",True,M,2.11,240.0,23,Eastern Conference,Atlantic,99,1.3,0.7,2.47,22.0,9.4,5.1,4.5
+Thomas Bryant,Miami Heat,Basketball,1997-07-31,"Rochester, New York",True,M,2.08,248.0,14,Eastern Conference,Southeast,99,1.3,2.4,-4.47,11.3,5.4,3.5,0.6
+Obi Toppin,Indiana Pacers,Basketball,1998-03-04,"Brooklyn, New York",True,M,2.06,220.0,15,Eastern Conference,Central,99,1.3,0.6,-1.01,21.3,10.0,3.8,1.5
+Mason Plumlee,Los Angeles Clippers,Basketball,1990-03-05,"Fort Wayne, Indiana",True,M,2.11,254.0,7,Western Conference,Pacific,103,1.2,1.6,-4.84,14.3,5.4,5.0,1.1
+Dwight Powell,Dallas Mavericks,Basketball,1991-07-20,"Toronto, Ontario",True,M,2.08,240.0,11,Western Conference,Southwest,103,1.2,1.2,-6.11,13.2,3.4,3.2,1.3
+John Collins,Utah Jazz,Basketball,1997-09-23,"Layton, Utah",True,M,2.06,235.0,24,Western Conference,Northwest,103,1.2,0.5,1.09,28.0,15.1,8.5,1.1
+Marvin Bagley III,Washington Wizards,Basketball,1999-03-14,"Tempe, Arizona",True,M,2.11,235.0,28,Eastern Conference,Southeast,103,1.2,0.9,-4.24,21.3,11.8,6.3,1.1
+Brook Lopez,Milwaukee Bucks,Basketball,1988-04-01,"North Hollywood, California",True,M,2.13,282.0,6,Eastern Conference,Central,107,1.1,0.4,6.53,30.8,12.4,5.3,1.7
+Immanuel Quickley,Toronto Raptors,Basketball,1999-06-17,"Havre de Grace, Maryland, U.S.",True,M,1.91,190.0,23,Eastern Conference,Atlantic,107,1.1,0.5,-0.83,28.9,16.4,3.6,4.6
+Walker Kessler,Utah Jazz,Basketball,2001-07-26,"Atlanta, Georgia",True,M,2.13,245.0,24,Western Conference,Northwest,109,1.0,0.5,2.40,23.6,8.1,7.6,0.9
+Trendon Watford,Brooklyn Nets,Basketball,2000-11-09,"Birmingham, Alabama, U.S.",True,M,2.06,240.0,22,Eastern Conference,Atlantic,110,0.9,1.0,-5.59,12.4,6.5,2.7,1.1
+Khris Middleton,Milwaukee Bucks,Basketball,1991-08-12,"Charleston, South Carolina",True,M,2.01,222.0,6,Eastern Conference,Central,112,0.8,0.5,-1.72,27.0,14.9,4.6,5.3
+Kyle Anderson,Minnesota Timberwolves,Basketball,1993-09-20,"New York City, New York",True,M,2.06,230.0,3,Western Conference,Northwest,112,0.8,0.4,-2.10,22.9,6.6,3.6,4.3
+Bobby Portis,Milwaukee Bucks,Basketball,1995-02-10,"Little Rock, Arkansas",True,M,2.08,250.0,6,Eastern Conference,Central,112,0.8,0.4,3.05,24.2,13.4,7.2,1.2
+Ricky Council IV,Philadelphia 76ers,Basketball,2001-08-03,"Durham, North Carolina, U.S.",True,M,1.98,205.0,13,Eastern Conference,Atlantic,112,0.8,2.8,-9.23,8.7,5.7,1.5,0.4
+Mitchell Robinson,New York Knicks,Basketball,1998-04-01,"Pensacola, Florida",True,M,2.13,240.0,8,Eastern Conference,Atlantic,117,0.7,0.9,-4.19,28.0,6.3,10.0,0.7
+Drew Eubanks,Phoenix Suns,Basketball,1997-02-01,"Starkville, Mississippi",True,M,2.06,245.0,10,Western Conference,Pacific,117,0.7,0.5,-3.98,15.7,5.2,4.2,0.9
+Desmond Bane,Memphis Grizzlies,Basketball,1998-06-25,"Richmond, Indiana",True,M,1.96,215.0,26,Western Conference,Southwest,117,0.7,0.4,-1.35,34.4,23.7,4.4,5.5
+Austin Reaves,Los Angeles Lakers,Basketball,1998-05-29,"Newark, Arkansas, U.S.",True,M,1.96,206.0,18,Western Conference,Pacific,117,0.7,0.2,2.11,32.2,16.0,4.4,5.6
+DeAndre Jordan,Denver Nuggets,Basketball,1988-07-21,"Houston, Texas",True,M,2.11,265.0,5,Western Conference,Northwest,121,0.6,1.2,-6.00,11.4,4.2,4.6,0.8
+Oshae Brissett,Boston Celtics,Basketball,1998-06-20,"Toronto, Ontario, Canada",True,M,2.01,210.0,1,Eastern Conference,Atlantic,121,0.6,0.8,-7.30,11.7,3.6,2.8,0.8
+Jock Landale,Houston Rockets,Basketball,1995-10-25,"Melbourne, Victoria, Australia",True,M,2.11,256.0,17,Western Conference,Southwest,121,0.6,0.9,-4.08,12.1,4.1,3.0,1.0
+Tari Eason,Houston Rockets,Basketball,2001-05-10,"Portsmouth, Virginia, U.S.",True,M,2.03,217.0,17,Western Conference,Southwest,121,0.6,1.0,-6.29,21.8,9.8,7.0,1.2
+Robert Covington,Philadelphia 76ers,Basketball,1990-12-14,"Bellwood, Illinois",True,M,2.01,209.0,13,Eastern Conference,Atlantic,125,0.5,0.8,-5.35,16.8,4.4,3.3,0.8
+Norman Powell,Los Angeles Clippers,Basketball,1993-05-25,"San Diego, California",True,M,1.91,215.0,7,Western Conference,Pacific,125,0.5,0.2,-1.47,26.1,14.0,2.6,1.1
+Damian Jones,Cleveland Cavaliers,Basketball,1995-06-30,"Baton Rouge, Louisiana",True,M,2.11,245.0,9,Eastern Conference,Central,125,0.5,1.5,-5.57,7.3,2.9,1.7,0.4
+Chris Boucher,Toronto Raptors,Basketball,1993-01-11,"Castries, Saint Lucia",True,M,2.06,200.0,23,Eastern Conference,Atlantic,125,0.5,0.5,-5.94,14.1,6.4,4.1,0.5
+Ja Morant,Memphis Grizzlies,Basketball,1999-08-10,"Dalzell, South Carolina",True,M,1.91,174.0,26,Western Conference,Southwest,125,0.5,1.2,-8.01,35.3,25.1,5.6,8.1
+Jaxson Hayes,Los Angeles Lakers,Basketball,2000-05-23,"Norman, Oklahoma",True,M,2.11,220.0,18,Western Conference,Pacific,125,0.5,0.5,-6.32,12.0,4.1,2.9,0.4
+Cole Anthony,Orlando Magic,Basketball,2000-05-15,"Portland, Oregon, U.S.",True,M,1.88,185.0,12,Eastern Conference,Southeast,125,0.5,0.2,-1.38,22.8,11.9,4.0,3.0
+Precious Achiuwa,New York Knicks,Basketball,1999-09-19,"Port Harcourt, Nigeria",True,M,2.03,225.0,8,Eastern Conference,Atlantic,125,0.5,0.2,-2.79,22.7,8.2,6.9,1.4
+Paolo Banchero,Orlando Magic,Basketball,2002-11-12,"Seattle, Washington",True,M,2.08,250.0,12,Eastern Conference,Southeast,125,0.5,0.2,-0.95,34.8,22.3,6.8,5.3
+Thaddeus Young,Phoenix Suns,Basketball,1988-06-21,"New Orleans, Louisiana",True,M,2.03,235.0,10,Western Conference,Pacific,134,0.4,0.7,-6.84,14.0,4.6,3.3,1.9
+Malcolm Brogdon,Portland Trail Blazers,Basketball,1992-12-11,"Atlanta, Georgia",True,M,1.96,229.0,29,Western Conference,Northwest,134,0.4,0.3,-4.44,28.7,15.7,3.8,5.5
+Nate Hinton,Houston Rockets,Basketball,1999-06-08,"Gastonia, North Carolina, U.S.",True,M,1.96,210.0,17,Western Conference,Southwest,134,0.4,4.7,-9.45,5.3,2.8,1.1,0.5
+Josh Giddey,Oklahoma City Thunder,Basketball,2002-10-10,"Melbourne, Victoria, Australia",True,M,2.03,210.0,2,Western Conference,Northwest,134,0.4,0.2,-0.41,24.8,12.2,6.3,4.6
+Gui Santos,Golden State Warriors,Basketball,2002-06-22,"Brasília, Brazil",True,M,1.98,220.0,16,Western Conference,Pacific,134,0.4,1.8,-8.07,7.9,3.4,2.2,0.6
+Alex Len,Sacramento Kings,Basketball,1993-06-16,"Antratsyt, Ukraine",True,M,2.13,250.0,19,Western Conference,Pacific,140,0.3,0.6,-5.13,9.2,2.7,2.8,0.9
+Kenrich Williams,Oklahoma City Thunder,Basketball,1994-12-02,"Waco, Texas",True,M,1.98,210.0,2,Western Conference,Northwest,140,0.3,0.2,-2.76,14.4,4.4,3.0,1.3
+Isaiah Joe,Oklahoma City Thunder,Basketball,1999-07-02,"Fort Smith, Arkansas, U.S.",True,M,1.93,165.0,2,Western Conference,Northwest,140,0.3,0.2,-3.24,18.4,8.1,2.2,1.2
+Scottie Barnes,Toronto Raptors,Basketball,2001-08-01,"West Palm Beach, Florida",True,M,2.06,227.0,23,Eastern Conference,Atlantic,140,0.3,0.1,3.90,34.9,19.9,8.2,6.1
+Jalen Suggs,Orlando Magic,Basketball,2001-06-03,"Saint Paul, Minnesota, U.S.",True,M,1.93,205.0,12,Eastern Conference,Southeast,140,0.3,0.1,0.36,26.9,12.4,3.1,2.7
+Charles Bassey,San Antonio Spurs,Basketball,2000-10-28,"Lagos, Nigeria",True,M,2.11,235.0,25,Western Conference,Southwest,140,0.3,1.0,-5.42,10.8,3.3,4.0,1.1
+Olivier Sarr,Oklahoma City Thunder,Basketball,1999-02-20,"Niort, France",True,M,2.08,240.0,2,Western Conference,Northwest,140,0.3,2.6,-6.59,6.8,2.4,2.5,0.1
+Josh Minott,Minnesota Timberwolves,Basketball,2002-11-25,"Boca Raton, Florida, U.S.",True,M,2.03,205.0,3,Western Conference,Northwest,140,0.3,3.7,-8.40,2.7,1.5,0.5,0.2
+Tristan Thompson,Cleveland Cavaliers,Basketball,1991-03-13,"Toronto, Ontario",True,M,2.06,254.0,9,Eastern Conference,Central,149,0.2,0.3,-6.10,11.8,3.4,3.8,1.1
+Deandre Ayton,Portland Trail Blazers,Basketball,1998-07-23,"Nassau, Bahamas",True,M,2.11,250.0,29,Western Conference,Northwest,149,0.2,0.1,1.75,32.2,15.9,11.0,1.6
+Rui Hachimura,Los Angeles Lakers,Basketball,1998-02-08,"Toyama, Japan",True,M,2.03,230.0,18,Western Conference,Pacific,149,0.2,0.1,-1.78,26.5,13.2,4.1,1.1
+Brandon Clarke,Memphis Grizzlies,Basketball,1996-09-19,"Vancouver, British Columbia",True,M,2.03,215.0,26,Western Conference,Southwest,149,0.2,2.2,-9.09,21.3,11.3,5.3,1.3
+Luka Garza,Minnesota Timberwolves,Basketball,1998-12-27,"Washington, D.C., U.S.",True,M,2.11,235.0,3,Western Conference,Northwest,149,0.2,1.6,-6.61,5.0,3.6,1.2,0.2
+Sandro Mamukelashvili,San Antonio Spurs,Basketball,1999-05-23,"New York, U.S.",True,M,2.06,240.0,25,Western Conference,Southwest,149,0.2,0.5,-5.56,6.9,2.8,2.0,0.9
+Jeff Dowtin,Philadelphia 76ers,Basketball,1997-05-10,"Upper Marlboro, Maryland",True,M,1.91,177.0,13,Eastern Conference,Atlantic,149,0.2,1.7,-9.09,12.3,4.4,1.6,2.4
+Ryan Rollins,Milwaukee Bucks,Basketball,2002-07-03,"Detroit, Michigan, U.S.",True,M,1.91,180.0,6,Eastern Conference,Central,149,0.2,1.9,-9.28,6.6,4.1,1.1,1.1
+JD Davison,Boston Celtics,Basketball,2002-10-03,"Montgomery, Alabama, U.S.",True,M,1.91,195.0,1,Eastern Conference,Atlantic,149,0.2,14.0,-9.53,1.8,1.3,0.5,0.2
+Orlando Robinson,Miami Heat,Basketball,2000-07-10,"Las Vegas, Nevada, U.S.",True,M,2.08,235.0,14,Eastern Conference,Southeast,149,0.2,0.6,-5.68,9.1,3.0,2.5,1.0
+Leonard Miller,Minnesota Timberwolves,Basketball,2003-11-26,"Scarborough, Ontario, Canada",True,M,2.08,210.0,3,Western Conference,Northwest,149,0.2,5.6,-8.70,3.0,1.4,1.1,0.5
+Craig Porter Jr.,Cleveland Cavaliers,Basketball,2000-02-26,"Terre Haute, Indiana, U.S.",True,M,1.85,185.0,9,Eastern Conference,Central,149,0.2,0.2,-6.85,13.3,5.9,2.2,2.4
+Oscar Tshiebwe,Indiana Pacers,Basketball,1999-11-27,"Lubumbashi, DR Congo",True,M,2.03,260.0,15,Eastern Conference,Central,149,0.2,4.4,-9.20,5.3,3.3,2.0,0.3
+Adama Sanogo,Chicago Bulls,Basketball,2002-02-12,"Bamako, Mali",True,M,2.06,245.0,20,Eastern Conference,Central,149,0.2,8.5,-6.92,2.8,2.0,1.6,0.0
+D'Angelo Russell,Los Angeles Lakers,Basketball,1996-02-23,"Louisville, Kentucky",True,M,1.93,193.0,18,Western Conference,Pacific,165,0.1,0.0,2.26,32.4,18.1,3.1,6.4
+Gary Payton II,Golden State Warriors,Basketball,1992-12-01,"Seattle, Washington",True,M,1.91,190.0,16,Western Conference,Pacific,165,0.1,0.1,-6.25,15.3,5.1,2.6,1.1
+Daniel Theis,Los Angeles Clippers,Basketball,1992-04-04,"Salzgitter, Germany",True,M,2.03,245.0,7,Western Conference,Pacific,165,0.1,0.0,-4.98,16.6,6.0,3.9,1.1
+Dylan Windler,Atlanta Hawks,Basketball,1996-09-22,"Indianapolis, Indiana, U.S.",True,M,1.98,196.0,21,Eastern Conference,Southeast,165,0.1,0.9,-9.45,5.1,1.9,0.8,0.6
+Jay Huff,Denver Nuggets,Basketball,1997-08-25,"Durham, North Carolina, U.S.",True,M,2.16,240.0,5,Western Conference,Northwest,165,0.1,2.2,-6.72,2.6,1.1,0.6,0.1
+Braxton Key,Denver Nuggets,Basketball,1997-02-14,"Charlotte, North Carolina, U.S.",True,M,2.03,225.0,5,Western Conference,Northwest,165,0.1,1.3,-8.68,3.1,1.1,0.8,0.5
+Jaylin Williams,Oklahoma City Thunder,Basketball,2002-06-29,"Fort Smith, Arkansas, U.S.",True,M,2.06,240.0,2,Western Conference,Northwest,165,0.1,0.1,-5.28,12.6,3.7,3.3,1.4
+Dominick Barlow,San Antonio Spurs,Basketball,2003-05-26,"Hackensack, New Jersey, U.S.",True,M,2.06,215.0,25,Western Conference,Southwest,165,0.1,0.2,-7.03,12.7,4.4,3.4,1.1
+Cason Wallace,Oklahoma City Thunder,Basketball,2003-11-07,"Dallas, Texas, U.S.",True,M,1.91,195.0,2,Western Conference,Northwest,165,0.1,0.0,-1.95,20.6,6.9,2.3,1.4
+Jordan Ford,Sacramento Kings,Basketball,1998-05-26,"Citrus Heights, California, U.S.",True,M,1.85,175.0,19,Western Conference,Pacific,165,0.1,2.1,-9.54,3.7,2.0,0.3,0.3
+Colin Castleton,Los Angeles Lakers,Basketball,2000-05-25,"Pembroke Pines, Florida, U.S.",True,M,2.08,250.0,18,Western Conference,Pacific,165,0.1,1.4,-6.77,4.5,1.8,1.0,0.3
+Jacob Toppin,New York Knicks,Basketball,2000-05-08,"Brooklyn, New York, U.S.",True,M,2.03,200.0,8,Eastern Conference,Atlantic,165,0.1,1.5,-8.79,4.2,1.4,0.8,0.3
+Drew Peterson,Boston Celtics,Basketball,1999-11-09,"Libertyville, Illinois, U.S.",True,M,2.06,205.0,1,Eastern Conference,Atlantic,165,0.1,22.3,-9.45,3.0,3.0,0.0,1.0
+Isaiah Thomas,Phoenix Suns,Basketball,1989-02-07,"Tacoma, Washington",True,M,1.75,185.0,10,Western Conference,Pacific,182,0.0,0.1,-9.61,4.5,2.5,0.0,1.0
+JaVale McGee,Sacramento Kings,Basketball,1988-01-19,"Flint, Michigan",True,M,2.13,270.0,19,Western Conference,Pacific,182,0.0,0.0,-5.44,7.6,4.1,2.7,0.3
+Garrett Temple,Toronto Raptors,Basketball,1986-05-08,"Baton Rouge, Louisiana",True,M,1.96,195.0,23,Eastern Conference,Atlantic,182,0.0,-0.1,-8.74,7.1,2.5,1.4,0.8
+Draymond Green,Golden State Warriors,Basketball,1990-03-04,"Saginaw, Michigan",True,M,1.98,230.0,16,Western Conference,Pacific,182,0.0,0.0,-1.93,26.7,8.9,7.2,6.0
+Cody Zeller,New Orleans Pelicans,Basketball,1992-10-05,"Washington, Indiana",True,M,2.11,240.0,4,Western Conference,Southwest,182,0.0,0.1,-6.15,7.6,1.9,2.7,0.9
+Ben Simmons,Brooklyn Nets,Basketball,1996-07-20,"Melbourne, Victoria",True,M,2.11,240.0,22,Eastern Conference,Atlantic,182,0.0,0.1,-7.31,23.9,6.1,7.9,5.7
+Bruno Fernando,Atlanta Hawks,Basketball,1998-08-15,"Luanda, Angola",True,M,2.06,240.0,21,Eastern Conference,Southeast,182,0.0,0.1,-6.78,14.2,5.9,4.3,0.9
+Udoka Azubuike,Phoenix Suns,Basketball,1999-09-17,"Lagos, Nigeria",True,M,2.08,280.0,10,Western Conference,Pacific,182,0.0,0.1,-6.81,7.6,2.5,2.3,0.2
+Mason Jones,Sacramento Kings,Basketball,1998-07-21,"Dallas, Texas, U.S.",True,M,1.93,200.0,19,Western Conference,Pacific,182,0.0,0.7,-9.80,6.7,2.3,1.7,1.7
+Keon Johnson,Brooklyn Nets,Basketball,2002-03-10,"Shelbyville, Tennessee, U.S.",True,M,1.96,186.0,22,Eastern Conference,Atlantic,182,0.0,0.1,-9.51,12.8,7.0,1.3,0.8
+Usman Garuba,Golden State Warriors,Basketball,2002-03-09,"Madrid, Spain",True,M,2.03,220.0,16,Western Conference,Pacific,182,0.0,-2.0,-9.44,2.7,0.0,0.3,0.3
+Kevon Harris,Orlando Magic,Basketball,1997-06-24,"Ellenwood, Georgia, U.S.",True,M,1.96,216.0,12,Eastern Conference,Southeast,182,0.0,-1.9,-9.87,3.0,2.0,1.0,0.5
+Buddy Boeheim,Detroit Pistons,Basketball,1999-11-11,"Fayetteville, New York, U.S.",True,M,1.96,205.0,27,Eastern Conference,Central,182,0.0,0.5,-9.37,9.8,5.0,1.6,0.6
+Quenton Jackson,Indiana Pacers,Basketball,1998-09-15,"Los Angeles, California, U.S.",True,M,1.96,173.0,15,Eastern Conference,Central,182,0.0,-2.8,-9.64,2.0,0.0,1.0,0.0
+Cam Whitmore,Houston Rockets,Basketball,2004-07-08,"Odenton, Maryland, U.S.",True,M,2.01,230.0,17,Western Conference,Southwest,182,0.0,0.0,-5.84,17.9,12.1,3.9,0.5
+Jordan Miller,Los Angeles Clippers,Basketball,2000-01-23,"Anaheim, California, U.S.",True,M,1.96,194.0,7,Western Conference,Pacific,182,0.0,0.4,-8.85,3.5,1.6,0.6,0.0
+Terquavion Smith,Philadelphia 76ers,Basketball,2002-12-31,"Greenville, North Carolina, U.S.",True,M,1.93,160.0,13,Eastern Conference,Atlantic,182,0.0,0.5,-9.09,5.8,3.8,0.2,0.8
+Pat Spencer,Golden State Warriors,Basketball,1996-07-04,"North Wales, Pennsylvania, U.S.",True,M,1.91,205.0,16,Western Conference,Pacific,182,0.0,3.0,-9.62,2.0,0.7,0.0,0.7
+Henri Drell,Chicago Bulls,Basketball,2000-04-25,"Tallinn, Estonia",True,M,2.06,187.0,20,Eastern Conference,Central,182,0.0,9.7,-8.93,3.0,2.0,1.0,2.0
+Danilo Gallinari,Milwaukee Bucks,Basketball,1988-08-08,"Sant´Angelo Lodigiano, Italy",True,M,2.08,233.0,6,Eastern Conference,Central,213,-0.1,-0.2,-6.20,13.2,5.9,2.2,1.2
+Richaun Holmes,Washington Wizards,Basketball,1993-10-15,"Lockport, Illinois",True,M,2.08,235.0,28,Eastern Conference,Southeast,213,-0.1,-0.1,-7.07,13.9,5.0,4.6,0.6
+Dejounte Murray,Atlanta Hawks,Basketball,1996-09-19,"Seattle, Washington",True,M,1.93,180.0,21,Eastern Conference,Southeast,213,-0.1,0.0,4.74,35.6,22.6,5.3,6.3
+Alex Caruso,Chicago Bulls,Basketball,1994-02-28,"College Station, Texas",True,M,1.93,186.0,20,Eastern Conference,Central,213,-0.1,0.0,2.37,28.3,10.1,3.9,3.3
+Cameron Johnson,Brooklyn Nets,Basketball,1996-03-03,"Moon Township, Pennsylvania, USA",True,M,2.03,210.0,22,Eastern Conference,Atlantic,213,-0.1,0.0,-1.28,27.7,13.5,4.4,2.4
+Ty Jerome,Cleveland Cavaliers,Basketball,1997-07-07,"New York City, New York, U.S.",True,M,1.96,195.0,9,Eastern Conference,Central,213,-0.1,-2.7,-9.63,7.5,2.0,0.5,1.5
+Moses Moody,Golden State Warriors,Basketball,2002-05-31,"Little Rock, Arkansas, U.S.",True,M,1.98,205.0,16,Western Conference,Pacific,213,-0.1,-0.1,-4.70,17.2,8.1,3.0,0.8
+Jeremiah Robinson-Earl,New Orleans Pelicans,Basketball,2000-11-03,"Kansas City, Kansas, U.S.",True,M,2.06,230.0,4,Western Conference,Southwest,213,-0.1,-0.2,-8.11,9.3,3.3,2.1,0.6
+Lindy Waters III,Oklahoma City Thunder,Basketball,1997-07-28,"Oklahoma City, Oklahoma, U.S.",True,M,1.98,210.0,2,Western Conference,Northwest,213,-0.1,-0.5,-8.96,6.4,2.6,1.0,0.5
+Kendall Brown,Indiana Pacers,Basketball,2003-05-11,"Cottage Grove, Minnesota, U.S.",True,M,2.01,205.0,15,Eastern Conference,Central,213,-0.1,-1.5,-8.95,3.8,1.3,0.3,0.3
+Dereon Seabron,New Orleans Pelicans,Basketball,2000-05-26,"Norfolk, Virginia, U.S.",True,M,1.96,180.0,4,Western Conference,Southwest,213,-0.1,-1.1,-9.66,9.2,2.3,1.2,0.8
+Jordan Walsh,Boston Celtics,Basketball,2004-03-03,"Dallas, Texas, U.S.",True,M,2.01,205.0,1,Eastern Conference,Atlantic,213,-0.1,-1.7,-8.76,6.7,1.0,2.2,0.7
+Mouhamed Gueye,Atlanta Hawks,Basketball,2002-11-09,"Dakar, Senegal",True,M,2.11,210.0,21,Eastern Conference,Southeast,213,-0.1,-10.7,-6.96,2.0,0.0,0.0,0.0
+Jalen Slawson,Sacramento Kings,Basketball,1999-10-22,"Charleston, South Carolina, U.S.",True,M,2.01,215.0,19,Western Conference,Pacific,213,-0.1,-3.0,-8.83,3.4,0.7,0.8,0.2
+Isaiah Wong,Indiana Pacers,Basketball,2001-01-28,"Piscataway, New Jersey, U.S.",True,M,1.91,185.0,15,Eastern Conference,Central,213,-0.1,-15.2,-9.65,4.0,2.0,0.0,0.0
+Jalen Crutcher,New Orleans Pelicans,Basketball,1999-07-18,"Memphis, Tennessee, U.S.",True,M,1.85,175.0,4,Western Conference,Southwest,213,-0.1,-19.2,-9.66,3.0,0.0,0.0,0.0
+Andrew Funk,Chicago Bulls,Basketball,1999-09-21,"Warrington, Pennsylvania, U.S.",True,M,1.96,200.0,20,Eastern Conference,Central,213,-0.1,-20.0,-9.90,1.5,0.0,0.0,0.0
+James Johnson,Indiana Pacers,Basketball,1987-02-20,"Cheyenne, Wyoming",True,M,2.01,240.0,15,Eastern Conference,Central,241,-0.2,-4.2,-8.67,5.0,1.0,0.5,0.9
+Devonte' Graham,San Antonio Spurs,Basketball,1995-02-22,"Raleigh, North Carolina",True,M,1.85,195.0,25,Western Conference,Southwest,241,-0.2,-1.0,-8.95,8.9,3.4,1.3,1.4
+Marques Bolden,Charlotte Hornets,Basketball,1998-04-17,"Dallas, Texas, U.S.",True,M,2.08,249.0,30,Eastern Conference,Southeast,241,-0.2,-5.5,-6.96,6.2,0.8,1.6,0.0
+Saben Lee,Phoenix Suns,Basketball,1999-06-23,"St. Louis, Missouri, U.S.",True,M,1.88,183.0,10,Western Conference,Pacific,241,-0.2,-0.7,-9.05,8.5,3.2,1.5,1.4
+Jason Preston,Utah Jazz,Basketball,1999-08-10,"Coral Springs, Florida, U.S.",True,M,1.93,187.0,24,Western Conference,Northwest,241,-0.2,-4.0,-9.56,7.5,1.0,1.8,1.8
+Eugene Omoruyi,Washington Wizards,Basketball,1997-02-14,"Benin City, Nigeria",True,M,1.98,235.0,28,Eastern Conference,Southeast,241,-0.2,-0.6,-7.32,7.9,4.2,2.0,0.8
+Ish Wainright,Phoenix Suns,Basketball,1994-09-12,"Kansas City, Missouri, U.S.",True,M,1.98,250.0,10,Western Conference,Pacific,241,-0.2,-2.8,-8.58,6.1,2.3,1.4,0.1
+Daishen Nix,Minnesota Timberwolves,Basketball,2002-02-13,"Fairbanks, Alaska, U.S.",True,M,1.96,224.0,3,Western Conference,Northwest,241,-0.2,-3.2,-9.52,3.3,1.8,0.1,0.2
+Micah Potter,Utah Jazz,Basketball,1998-04-06,"Mentor, Ohio, U.S.",True,M,2.03,248.0,24,Western Conference,Northwest,241,-0.2,-1.3,-8.99,10.6,2.8,2.3,0.2
+Wendell Moore Jr.,Minnesota Timberwolves,Basketball,2001-09-18,"Richmond, Virginia, U.S.",True,M,1.96,215.0,3,Western Conference,Northwest,241,-0.2,-3.5,-8.67,2.8,0.5,0.4,0.1
+Isaiah Mobley,Cleveland Cavaliers,Basketball,1999-09-24,"San Diego, California, U.S.",True,M,2.03,238.0,9,Eastern Conference,Central,241,-0.2,-2.6,-9.35,8.5,2.0,1.0,1.0
+Scotty Pippen Jr.,Memphis Grizzlies,Basketball,2000-11-10,"Portland, Oregon",True,M,1.85,180.0,26,Western Conference,Southwest,241,-0.2,-0.5,-7.99,23.3,10.7,2.9,4.2
+Jamal Cain,Miami Heat,Basketball,1999-03-20,"Pontiac, Michigan, U.S.",True,M,1.98,191.0,14,Eastern Conference,Southeast,241,-0.2,-0.7,-7.87,11.5,4.4,1.6,0.5
+Alondes Williams,Miami Heat,Basketball,1999-06-19,"Milwaukee, Wisconsin, U.S.",True,M,1.93,210.0,14,Eastern Conference,Southeast,241,-0.2,-13.2,-9.90,2.8,0.8,0.3,0.0
+Victor Wembanyama,San Antonio Spurs,Basketball,2004-01-04,"Le Chesnay, France",True,M,2.24,210.0,25,Western Conference,Southwest,241,-0.2,-0.1,10.08,29.2,21.2,10.5,3.6
+Dariq Whitehead,Brooklyn Nets,Basketball,2004-08-01,"Newark, New Jersey, U.S.",True,M,2.01,220.0,22,Eastern Conference,Atlantic,241,-0.2,-5.5,-8.94,12.0,1.5,2.0,1.5
+Hunter Tyson,Denver Nuggets,Basketball,2000-06-13,"Monroe, North Carolina, U.S.",True,M,2.03,215.0,5,Western Conference,Northwest,241,-0.2,-3.4,-8.84,2.9,1.3,0.6,0.1
+Sidy Cissoko,San Antonio Spurs,Basketball,2004-04-02,"Saint-Maurice, France",True,M,2.03,200.0,25,Western Conference,Southwest,241,-0.2,-5.0,-8.76,5.3,1.0,1.0,0.0
+Alex Fudge,Dallas Mavericks,Basketball,2003-05-06,"Lauderhill, Florida, U.S.",True,M,2.03,200.0,11,Western Conference,Southwest,241,-0.2,-11.7,-8.96,3.5,1.0,0.5,0.0
+Pete Nance,Cleveland Cavaliers,Basketball,2000-02-19,"Akron, Ohio, U.S.",True,M,2.08,225.0,9,Eastern Conference,Central,241,-0.2,-11.4,-9.50,2.8,0.0,0.5,0.0
+Adam Flagler,Oklahoma City Thunder,Basketball,1999-12-01,"Duluth, Georgia, U.S.",True,M,1.91,180.0,2,Western Conference,Northwest,241,-0.2,-21.4,-9.91,6.0,0.0,0.0,1.0
+Gary Harris,Orlando Magic,Basketball,1994-09-14,"Fishers, Indiana",True,M,1.93,210.0,12,Eastern Conference,Southeast,267,-0.3,-0.2,-5.32,23.2,7.3,1.7,1.5
+Dean Wade,Cleveland Cavaliers,Basketball,1996-11-20,"Wichita, Kansas",True,M,2.06,228.0,9,Eastern Conference,Central,267,-0.3,-0.2,-3.95,20.5,5.4,4.0,0.8
+LaMelo Ball,Charlotte Hornets,Basketball,2001-08-22,"Chino Hills, California",True,M,2.01,180.0,30,Eastern Conference,Southeast,267,-0.3,-0.3,-4.77,32.3,23.9,5.1,8.0
+Joshua Primo,Los Angeles Clippers,Basketball,2002-12-24,"Toronto, Ontario, Canada",True,M,1.98,190.0,7,Western Conference,Pacific,267,-0.3,-23.7,-9.94,5.0,1.0,0.5,0.0
+Jericho Sims,New York Knicks,Basketball,1998-10-20,"Minneapolis, Minnesota",True,M,2.08,245.0,8,Eastern Conference,Atlantic,267,-0.3,-0.4,-7.61,13.0,2.1,3.3,0.6
+Stanley Umude,Detroit Pistons,Basketball,1999-04-12,"Portland, Oregon, U.S.",True,M,1.98,210.0,27,Eastern Conference,Central,267,-0.3,-0.8,-8.31,12.8,5.3,2.1,0.5
+Jett Howard,Orlando Magic,Basketball,2003-09-14,"Chicago, Illinois, U.S.",True,M,1.98,215.0,12,Eastern Conference,Southeast,267,-0.3,-4.5,-8.92,3.7,1.6,0.4,0.2
+D'Moi Hodge,Los Angeles Lakers,Basketball,1998-12-20,"Tortola, British Virgin Islands",True,M,1.91,185.0,18,Western Conference,Pacific,267,-0.3,-4.8,-9.80,5.9,2.0,0.0,0.7
+Tyus Jones,Washington Wizards,Basketball,1996-05-10,"Burnsville, Minnesota",True,M,1.83,196.0,28,Eastern Conference,Southeast,278,-0.4,-0.2,1.48,29.3,12.0,2.7,7.3
+Luke Kennard,Memphis Grizzlies,Basketball,1996-06-24,"Middletown, Ohio",True,M,1.96,206.0,26,Western Conference,Southwest,278,-0.4,-0.3,-5.42,25.6,11.2,2.9,3.5
+Admiral Schofield,Orlando Magic,Basketball,1997-03-30,"London, England",True,M,1.96,241.0,12,Eastern Conference,Southeast,278,-0.4,-4.1,-8.88,3.8,1.1,0.7,0.3
+DaQuan Jeffries,New York Knicks,Basketball,1997-08-30,"Edmond, Oklahoma, U.S.",True,M,1.96,222.0,8,Eastern Conference,Atlantic,278,-0.4,-7.2,-9.94,2.8,0.9,0.3,0.3
+Charlie Brown Jr.,New York Knicks,Basketball,1997-02-02,"Philadelphia, Pennsylvania, U.S.",True,M,1.98,199.0,8,Eastern Conference,Atlantic,278,-0.4,-9.2,-9.87,4.6,0.8,0.3,0.0
+James Wiseman,Detroit Pistons,Basketball,2001-03-31,"Nashville, Tennessee",True,M,2.13,240.0,27,Eastern Conference,Central,278,-0.4,-0.4,-3.41,16.4,7.0,5.1,0.8
+Jalen Johnson,Atlanta Hawks,Basketball,2001-12-18,"Wausau, Wisconsin",True,M,2.06,220.0,21,Eastern Conference,Southeast,278,-0.4,-0.2,0.42,33.8,16.0,8.5,3.5
+Kessler Edwards,Sacramento Kings,Basketball,2000-08-09,"Glendale, California, U.S.",True,M,2.03,215.0,19,Western Conference,Pacific,278,-0.4,-1.1,-7.93,5.1,1.8,0.8,0.2
+Trevelin Queen,Orlando Magic,Basketball,1997-02-25,"Baltimore, Maryland, U.S.",True,M,1.98,190.0,12,Eastern Conference,Southeast,278,-0.4,-2.1,-9.03,12.5,3.1,1.5,1.4
+Xavier Moon,Los Angeles Clippers,Basketball,1995-01-02,"Goodwater, Alabama, U.S.",True,M,1.83,165.0,7,Western Conference,Pacific,278,-0.4,-7.4,-9.86,4.1,1.2,0.6,0.8
+TyTy Washington Jr.,Milwaukee Bucks,Basketball,2001-11-15,"Phoenix, Arizona, U.S.",True,M,1.91,195.0,6,Eastern Conference,Central,278,-0.4,-13.4,-9.61,4.2,0.6,0.2,0.2
+Keon Ellis,Sacramento Kings,Basketball,2000-01-08,"Eustis, Florida, U.S.",True,M,1.91,175.0,19,Western Conference,Pacific,278,-0.4,-0.4,-5.52,15.8,4.6,1.9,1.4
+Jared Rhoden,Detroit Pistons,Basketball,1999-08-27,"Baldwin, New York, U.S.",True,M,1.96,210.0,27,Eastern Conference,Central,278,-0.4,-2.8,-9.07,10.2,3.0,1.5,0.7
+Jalen Pickett,Denver Nuggets,Basketball,1999-10-22,"Rochester, New York, U.S.",True,M,1.88,202.0,5,Western Conference,Northwest,278,-0.4,-2.7,-9.55,4.8,1.6,0.5,0.8
+Amari Bailey,Charlotte Hornets,Basketball,2004-02-17,"New Orleans, Louisiana, U.S.",True,M,1.96,185.0,30,Eastern Conference,Southeast,278,-0.4,-11.0,-9.92,3.9,0.9,0.3,0.3
+Chris Livingston,Milwaukee Bucks,Basketball,2003-10-15,"Akron, Ohio, U.S.",True,M,1.98,220.0,6,Eastern Conference,Central,278,-0.4,-3.8,-8.74,4.2,1.1,0.9,0.3
+Collin Gillespie,Denver Nuggets,Basketball,1999-06-25,"Philadelphia, Pennsylvania, U.S.",True,M,1.91,,5,Western Conference,Northwest,278,-0.4,-1.3,-8.64,9.4,3.6,0.9,1.1
+Duop Reath,Portland Trail Blazers,Basketball,1996-06-26,"Waat, Sudan",True,M,2.06,245.0,29,Western Conference,Northwest,278,-0.4,-0.3,-1.47,18.1,9.2,3.6,1.0
+Jules Bernard,Washington Wizards,Basketball,2000-01-21,"Los Angeles, California, U.S.",True,M,1.98,210.0,28,Eastern Conference,Southeast,278,-0.4,-2.9,-9.59,7.4,3.7,1.1,0.9
+Aaron Holiday,Houston Rockets,Basketball,1996-09-30,"Ruston, Louisiana",True,M,1.83,185.0,17,Western Conference,Southwest,304,-0.5,-0.3,-4.27,16.5,6.6,1.6,1.8
+De'Anthony Melton,Philadelphia 76ers,Basketball,1998-05-28,"North Hollywood, California",True,M,1.88,200.0,13,Eastern Conference,Atlantic,304,-0.5,-0.4,-3.79,27.8,11.5,3.8,3.1
+Zeke Nnaji,Denver Nuggets,Basketball,2001-01-09,"Minneapolis, Minnesota, U.S.",True,M,2.06,240.0,5,Western Conference,Northwest,304,-0.5,-0.7,-7.32,9.8,3.2,2.1,0.6
+Jahmi'us Ramsey,Toronto Raptors,Basketball,2001-06-09,"Arlington, Texas, U.S.",True,M,1.91,190.0,23,Eastern Conference,Atlantic,304,-0.5,-3.2,-9.31,17.3,6.7,3.1,1.1
+Naji Marshall,New Orleans Pelicans,Basketball,1998-01-24,"Atlantic City, New Jersey, U.S.",True,M,2.01,220.0,4,Western Conference,Southwest,304,-0.5,-0.3,-3.41,19.3,7.2,3.7,2.0
+Justin Champagnie,Washington Wizards,Basketball,2001-06-29,"Brooklyn, New York, U.S.",True,M,1.98,200.0,28,Eastern Conference,Southeast,304,-0.5,-2.5,-8.15,15.1,6.0,2.9,1.2
+Terry Taylor,Chicago Bulls,Basketball,1999-09-23,"Bowling Green, Kentucky, USA",True,M,1.96,230.0,20,Eastern Conference,Central,304,-0.5,-1.9,-8.32,6.1,1.5,1.2,0.3
+Seth Lundy,Atlanta Hawks,Basketball,2000-04-02,"Paulsboro, New Jersey, U.S.",True,M,1.98,220.0,21,Eastern Conference,Southeast,304,-0.5,-7.9,-9.88,5.8,1.6,0.8,0.0
+Justin Holiday,Denver Nuggets,Basketball,1989-04-05,"Mission Hills, California",True,M,1.98,180.0,5,Western Conference,Northwest,315,-0.6,-0.6,-5.53,14.6,3.9,1.2,1.1
+Joe Ingles,Orlando Magic,Basketball,1987-10-02,"Adelaide, South Australia",True,M,2.03,220.0,12,Eastern Conference,Southeast,315,-0.6,-0.5,-4.49,17.2,4.3,2.1,3.0
+Cameron Payne,Philadelphia 76ers,Basketball,1994-08-08,"Memphis, Tennessee, U.S.",True,M,1.85,183.0,13,Eastern Conference,Atlantic,315,-0.6,-0.4,-4.23,16.4,7.6,1.4,2.6
+Jerome Robinson,Golden State Warriors,Basketball,1997-02-22,"Raleigh, North Carolina",True,M,1.96,190.0,16,Western Conference,Pacific,315,-0.6,-6.5,-9.91,3.6,1.4,0.3,0.3
+Sviatoslav Mykhailiuk,Boston Celtics,Basketball,1997-06-10,"Cherkasy, Ukraine",True,M,2.03,205.0,1,Eastern Conference,Atlantic,315,-0.6,-1.5,-8.83,8.7,3.1,1.1,0.6
+Chimezie Metu,Detroit Pistons,Basketball,1997-03-22,"Los Angeles, California",True,M,2.06,225.0,27,Eastern Conference,Central,315,-0.6,-0.7,-6.02,14.4,5.6,3.3,0.7
+Moses Brown,Portland Trail Blazers,Basketball,1999-10-13,"New York City, New York, U.S.",True,M,2.18,245.0,29,Western Conference,Northwest,315,-0.6,-2.7,-7.10,8.5,2.9,3.5,0.4
+Cole Swider,Miami Heat,Basketball,1999-05-08,"Portsmouth, Rhode Island, U.S.",True,M,2.06,220.0,14,Eastern Conference,Southeast,315,-0.6,-5.4,-8.72,5.5,2.8,0.5,0.3
+Noah Clowney,Brooklyn Nets,Basketball,2004-07-14,"Spartanburg, South Carolina, U.S.",True,M,2.08,210.0,22,Eastern Conference,Atlantic,315,-0.6,-2.4,-8.94,10.9,3.1,2.3,0.6
+Olivier-Maxence Prosper,Dallas Mavericks,Basketball,2002-07-03,"Montreal, Quebec, Canada",True,M,2.01,230.0,11,Western Conference,Southwest,315,-0.6,-1.7,-8.86,7.5,2.4,1.8,0.6
+Emoni Bates,Cleveland Cavaliers,Basketball,2004-01-28,"Ann Arbor, Michigan, U.S.",True,M,2.03,170.0,9,Eastern Conference,Central,315,-0.6,-4.4,-8.81,7.8,2.6,0.8,0.5
+Keyontae Johnson,Oklahoma City Thunder,Basketball,2000-05-24,"Norfolk, Virginia, U.S.",True,M,1.93,238.0,2,Western Conference,Northwest,315,-0.6,-6.6,-8.91,7.3,1.2,1.1,0.4
+Leaky Black,Charlotte Hornets,Basketball,1999-06-14,"Concord, North Carolina, U.S.",True,M,2.06,209.0,30,Eastern Conference,Southeast,315,-0.6,-2.2,-8.21,9.9,2.3,1.7,0.8
+Trey Jemison,Memphis Grizzlies,Basketball,1999-11-28,"Birmingham, Alabama, U.S.",True,M,2.08,260.0,26,Western Conference,Southwest,315,-0.6,-1.3,-5.55,19.4,6.2,4.2,0.9
+Reggie Bullock,Houston Rockets,Basketball,1991-03-16,"Baltimore, Maryland",True,M,1.98,205.0,17,Western Conference,Southwest,334,-0.7,-1.6,-7.61,9.6,2.4,1.8,0.4
+Duncan Robinson,Miami Heat,Basketball,1994-04-22,"York, Maine, USA",True,M,2.01,215.0,14,Eastern Conference,Southeast,334,-0.7,-0.3,-0.56,28.5,13.4,2.6,2.9
+Haywood Highsmith,Miami Heat,Basketball,1996-12-09,"Baltimore, Maryland",True,M,1.98,220.0,14,Eastern Conference,Southeast,334,-0.7,-0.5,-3.55,19.9,6.0,2.8,1.0
+Nassir Little,Phoenix Suns,Basketball,2000-02-11,"Pensacola, Florida",True,M,1.96,220.0,10,Western Conference,Pacific,334,-0.7,-1.2,-7.10,11.2,3.7,1.8,0.5
+Isaac Okoro,Cleveland Cavaliers,Basketball,2001-01-26,"Atlanta, Georgia, U.S.",True,M,1.96,225.0,9,Eastern Conference,Central,334,-0.7,-0.3,-2.32,27.4,9.4,3.0,1.9
+Tre Jones,San Antonio Spurs,Basketball,2000-01-08,"Apple Valley, Minnesota, U.S.",True,M,1.85,185.0,25,Western Conference,Southwest,334,-0.7,-0.3,-0.01,27.2,9.8,3.5,6.1
+DeJon Jarreau,Memphis Grizzlies,Basketball,1998-01-23,"New Orleans, Louisiana, U.S.",True,M,1.96,185.0,26,Western Conference,Southwest,334,-0.7,-3.8,-9.49,16.7,4.8,4.9,2.9
+Kobe Bufkin,Atlanta Hawks,Basketball,2003-09-21,"Grand Rapids, Michigan, U.S.",True,M,1.96,195.0,21,Eastern Conference,Southeast,334,-0.7,-4.8,-9.59,10.6,3.6,1.6,1.8
+Taj Gibson,Detroit Pistons,Basketball,1985-06-24,"Brooklyn, New York",True,M,2.06,232.0,27,Eastern Conference,Central,342,-0.8,-3.4,-6.52,10.4,1.1,1.8,0.5
+Bradley Beal,Phoenix Suns,Basketball,1993-06-28,"St. Louis, Missouri",True,M,1.93,207.0,10,Western Conference,Pacific,342,-0.8,-0.4,-3.08,33.1,17.6,4.2,5.1
+Zach LaVine,Chicago Bulls,Basketball,1995-03-10,"Renton, Washington",True,M,1.96,200.0,20,Eastern Conference,Central,342,-0.8,-0.7,-5.57,34.9,19.5,5.2,3.9
+Trey Lyles,Sacramento Kings,Basketball,1995-11-05,"Saskatoon, Saskatchewan",True,M,2.06,234.0,19,Western Conference,Pacific,342,-0.8,-0.7,-5.82,19.7,7.2,4.4,1.2
+Terry Rozier,Miami Heat,Basketball,1994-03-17,"Youngstown, Ohio",True,M,1.85,190.0,14,Eastern Conference,Southeast,342,-0.8,-0.3,0.75,33.8,19.9,4.2,5.8
+Delon Wright,Miami Heat,Basketball,1992-04-26,"Los Angeles, California",True,M,1.96,185.0,14,Eastern Conference,Southeast,342,-0.8,-1.0,-5.51,15.3,4.2,1.8,2.5
+Malik Monk,Sacramento Kings,Basketball,1998-02-04,"Jonesboro, Arkansas",True,M,1.91,200.0,19,Western Conference,Pacific,342,-0.8,-0.3,-0.64,26.0,15.4,2.9,5.1
+Josh Okogie,Phoenix Suns,Basketball,1998-09-01,"Lagos, Nigeria",True,M,1.93,213.0,10,Western Conference,Pacific,342,-0.8,-0.7,-5.71,16.9,4.9,2.7,1.1
+Jarred Vanderbilt,Los Angeles Lakers,Basketball,1999-04-03,"Houston, Texas",True,M,2.06,214.0,18,Western Conference,Pacific,342,-0.8,-1.1,-4.28,20.0,5.2,4.8,1.2
+Keita Bates-Diop,Brooklyn Nets,Basketball,1996-01-23,"Sacramento, California",True,M,2.03,229.0,22,Eastern Conference,Atlantic,342,-0.8,-1.0,-5.86,12.5,3.7,2.1,0.7
+Gabe Vincent,Los Angeles Lakers,Basketball,1996-06-14,"Modesto, California, USA",True,M,1.88,200.0,18,Western Conference,Pacific,342,-0.8,-4.5,-9.24,23.5,4.8,1.0,2.7
+Omer Yurtseven,Utah Jazz,Basketball,1998-06-19,"Tashkent, Uzbekistan",True,M,2.11,275.0,24,Western Conference,Northwest,342,-0.8,-1.7,-5.45,9.2,3.6,3.5,0.5
+Caleb Houstan,Orlando Magic,Basketball,2003-01-09,"Mississauga, Ontario, Canada",True,M,2.03,205.0,12,Eastern Conference,Southeast,342,-0.8,-0.8,-6.46,14.1,4.4,1.5,0.5
+Kenneth Lofton Jr.,Utah Jazz,Basketball,2002-08-14,"Port Arthur, Texas, U.S.",True,M,1.98,275.0,24,Western Conference,Northwest,342,-0.8,-5.6,-9.44,6.4,2.4,1.1,0.8
+Andre Jackson Jr.,Milwaukee Bucks,Basketball,2001-11-13,"Amsterdam, New York, U.S.",True,M,1.98,209.0,6,Eastern Conference,Central,342,-0.8,-1.1,-8.05,10.3,2.3,2.0,1.0
+Ibou Badji,Portland Trail Blazers,Basketball,2002-10-13,"Dakar, Senegal",True,M,2.13,240.0,29,Western Conference,Northwest,342,-0.8,-2.7,-6.27,10.3,1.5,2.4,0.6
+Mouhamadou Gueye,Toronto Raptors,Basketball,1998-07-08,"Staten Island, New York, U.S.",True,M,2.06,210.0,23,Eastern Conference,Atlantic,342,-0.8,-9.1,-9.44,8.0,1.8,1.4,0.3
+Markieff Morris,Dallas Mavericks,Basketball,1989-09-02,"Philadelphia, Pennsylvania, USA",True,M,2.06,245.0,11,Western Conference,Southwest,359,-0.9,-4.1,-6.44,7.9,2.5,1.4,0.5
+Josh Richardson,Miami Heat,Basketball,1993-09-15,"Edmond, Oklahoma",True,M,1.96,200.0,14,Eastern Conference,Southeast,359,-0.9,-0.6,-4.20,25.7,9.9,2.8,2.4
+Thanasis Antetokounmpo,Milwaukee Bucks,Basketball,1992-07-18,"Athens, Greece",True,M,1.98,219.0,6,Eastern Conference,Central,359,-0.9,-5.0,-8.70,4.7,0.9,0.4,0.5
+Wenyen Gabriel,Memphis Grizzlies,Basketball,1997-03-26,"Khartoum, Sudan",True,M,2.06,205.0,26,Western Conference,Southwest,359,-0.9,-8.3,-9.59,16.2,3.4,5.0,0.6
+Anthony Gill,Washington Wizards,Basketball,1992-10-17,"High Point, North Carolina, U.S.",True,M,2.01,230.0,28,Eastern Conference,Southeast,359,-0.9,-2.3,-8.27,7.0,3.0,1.5,0.5
+Lamar Stevens,Memphis Grizzlies,Basketball,1997-07-09,"Philadelphia, Pennsylvania, U.S.",True,M,1.98,230.0,26,Western Conference,Southwest,359,-0.9,-1.4,-7.15,13.4,6.6,3.0,0.7
+Vit Krejci,Atlanta Hawks,Basketball,2000-06-19,"Strakonice, Czech Republic",True,M,2.03,195.0,21,Eastern Conference,Southeast,359,-0.9,-1.8,-8.20,25.8,6.7,2.1,2.3
+Jacob Gilyard,Brooklyn Nets,Basketball,1998-07-14,"Kansas City, Missouri, U.S.",True,M,1.73,160.0,22,Eastern Conference,Atlantic,359,-0.9,-1.1,-6.42,17.2,4.4,1.1,3.4
+Jarace Walker,Indiana Pacers,Basketball,2003-09-04,"Baltimore, Maryland, U.S.",True,M,2.01,235.0,15,Eastern Conference,Central,359,-0.9,-2.2,-7.70,10.6,3.6,1.9,1.3
+Colby Jones,Sacramento Kings,Basketball,2002-05-28,"Birmingham, Alabama, U.S.",True,M,1.98,207.0,19,Western Conference,Pacific,359,-0.9,-4.9,-9.65,6.3,1.9,1.3,0.6
+Tosan Evbuomwan,Detroit Pistons,Basketball,2001-02-16,"Newcastle, England",True,M,2.01,217.0,27,Eastern Conference,Central,359,-0.9,-2.2,-8.22,20.7,5.6,3.5,0.8
+Jeff Green,Houston Rockets,Basketball,1986-08-28,"Cheverly, Maryland",True,M,2.03,235.0,17,Western Conference,Southwest,374,-1.0,-0.6,-5.13,16.6,6.3,2.2,0.8
+Nickeil Alexander-Walker,Minnesota Timberwolves,Basketball,1998-09-02,"Toronto, Ontario",True,M,1.98,205.0,3,Western Conference,Northwest,374,-1.0,-0.4,-2.40,23.5,7.6,2.0,2.5
+Aaron Nesmith,Indiana Pacers,Basketball,1999-10-16,"Charleston, South Carolina, USA",True,M,1.96,215.0,15,Eastern Conference,Central,374,-1.0,-0.4,0.45,27.6,12.2,3.8,1.5
+Keegan Murray,Sacramento Kings,Basketball,2000-08-19,"Cedar Rapids, Iowa, U.S.",True,M,2.03,225.0,19,Western Conference,Pacific,374,-1.0,-0.3,2.36,33.3,15.0,5.3,1.7
+Ousmane Dieng,Oklahoma City Thunder,Basketball,2003-05-21,"Villeneuve-sur-Lot, France",True,M,2.08,220.0,2,Western Conference,Northwest,374,-1.0,-2.2,-7.87,11.0,3.9,1.6,1.1
+Johnny Juzang,Utah Jazz,Basketball,2001-03-17,"Los Angeles, California, U.S.",True,M,1.96,209.0,24,Western Conference,Northwest,374,-1.0,-3.8,-9.43,14.9,5.2,1.6,0.8
+Jalen Wilson,Brooklyn Nets,Basketball,2000-11-04,"Arlington, Texas, U. S.",True,M,2.03,225.0,22,Eastern Conference,Atlantic,374,-1.0,-1.4,-7.26,14.1,4.5,2.6,1.0
+Javon Freeman-Liberty,Toronto Raptors,Basketball,1999-10-20,"Good Hope, Illinois, U.S.",True,M,1.91,200.0,23,Eastern Conference,Atlantic,374,-1.0,-3.2,-8.83,16.9,6.0,2.9,1.6
+Derrick Rose,Memphis Grizzlies,Basketball,1988-10-04,"Chicago, Illinois",True,M,1.88,200.0,26,Western Conference,Southwest,384,-1.1,-2.1,-8.16,16.6,8.0,1.9,3.3
+RJ Barrett,Toronto Raptors,Basketball,2000-06-16,"Toronto, Ontario",True,M,1.98,214.0,23,Eastern Conference,Atlantic,384,-1.1,-0.5,-3.51,31.6,19.5,5.3,3.2
+Dyson Daniels,New Orleans Pelicans,Basketball,2003-03-17,"Bendigo, Victoria, Australia",True,M,2.01,199.0,4,Western Conference,Southwest,384,-1.1,-0.7,-3.62,21.8,5.5,3.7,2.6
+Jamaree Bouyea,San Antonio Spurs,Basketball,1999-06-27,"Seaside, California, U.S.",True,M,1.88,180.0,25,Western Conference,Southwest,384,-1.1,-14.6,-9.78,9.5,1.7,1.7,1.3
+Onuralp Bitim,Chicago Bulls,Basketball,1999-03-31,"Kadıköy, Turkey",True,M,1.98,215.0,20,Eastern Conference,Central,384,-1.1,-3.7,-9.31,12.0,3.7,1.6,0.7
+Kira Lewis Jr.,Utah Jazz,Basketball,2001-04-06,"Meridianville, Alabama, U.S.",True,M,1.85,170.0,24,Western Conference,Northwest,390,-1.2,-4.4,-9.05,8.2,2.8,0.9,1.2
+Brandon Boston Jr.,Los Angeles Clippers,Basketball,2001-11-28,"Norcross, Georgia, U.S.",True,M,2.01,185.0,7,Western Conference,Pacific,390,-1.2,-4.0,-9.35,8.5,4.1,1.2,0.3
+Kobe Brown,Los Angeles Clippers,Basketball,2000-01-01,"Huntsville, Alabama, U.S.",True,M,2.01,250.0,7,Western Conference,Pacific,390,-1.2,-3.1,-8.11,7.9,1.7,1.2,0.4
+Maxwell Lewis,Los Angeles Lakers,Basketball,2002-07-27,"Las Vegas, Nevada, U.S.",True,M,2.01,195.0,18,Western Conference,Pacific,390,-1.2,-10.5,-9.00,3.1,0.3,0.1,0.2
+Nicolas Batum,Philadelphia 76ers,Basketball,1988-12-14,"Lisieux, France",True,M,2.03,230.0,13,Eastern Conference,Atlantic,395,-1.3,-0.7,-2.92,24.9,5.4,4.2,2.1
+Wesley Matthews,Atlanta Hawks,Basketball,1986-10-14,"San Antonio, Texas",True,M,1.93,220.0,21,Eastern Conference,Southeast,395,-1.3,-2.5,-7.26,11.9,3.2,1.6,0.6
+Torrey Craig,Chicago Bulls,Basketball,1990-12-19,"Columbia, South Carolina",True,M,2.01,221.0,20,Eastern Conference,Central,395,-1.3,-1.1,-4.89,20.1,6.0,4.1,1.1
+Skylar Mays,Los Angeles Lakers,Basketball,1997-09-05,"Baton Rouge, Louisiana",True,M,1.93,205.0,18,Western Conference,Pacific,395,-1.3,-2.4,-7.99,12.2,4.4,1.2,2.4
+Julian Phillips,Chicago Bulls,Basketball,2003-11-05,"Killeen, Texas, U.S.",True,M,2.03,198.0,20,Eastern Conference,Central,395,-1.3,-3.2,-8.12,8.1,2.2,0.9,0.3
+Harrison Barnes,Sacramento Kings,Basketball,1992-05-30,"Ames, Iowa",True,M,2.03,225.0,19,Western Conference,Pacific,401,-1.4,-0.5,-0.71,29.3,12.4,3.0,1.2
+Caris LeVert,Cleveland Cavaliers,Basketball,1994-08-25,"Columbus, Ohio",True,M,1.98,205.0,9,Eastern Conference,Central,401,-1.4,-0.6,-1.79,28.7,13.6,4.0,5.3
+Amir Coffey,Los Angeles Clippers,Basketball,1997-06-17,"Hopkins, Minnesota",True,M,2.01,210.0,7,Western Conference,Pacific,401,-1.4,-0.9,-4.79,19.6,6.1,1.9,1.1
+Ashton Hagans,Portland Trail Blazers,Basketball,1999-07-08,"Cartersville, Georgia, U.S.",True,M,1.91,190.0,29,Western Conference,Northwest,401,-1.4,-3.7,-8.84,17.0,4.4,2.4,2.9
+Jared Butler,Washington Wizards,Basketball,2000-08-25,"Reserve, Louisiana, U.S.",True,M,1.91,195.0,28,Eastern Conference,Southeast,401,-1.4,-2.7,-7.91,12.4,5.2,1.2,2.8
+AJ Griffin,Atlanta Hawks,Basketball,2003-08-25,"Dallas, Texas, U.S.",True,M,1.98,220.0,21,Eastern Conference,Southeast,401,-1.4,-8.0,-8.81,7.3,2.1,0.8,0.2
+Christian Braun,Denver Nuggets,Basketball,2001-04-17,"Burlington, Kansas, U.S.",True,M,1.98,220.0,5,Western Conference,Northwest,401,-1.4,-0.7,-4.64,19.5,7.1,3.6,1.4
+Vince Williams Jr.,Memphis Grizzlies,Basketball,2000-08-30,"Toledo, Ohio, U.S.",True,M,1.93,205.0,26,Western Conference,Southwest,401,-1.4,-0.8,-3.06,27.6,10.0,5.6,3.4
+Justin Minaya,Portland Trail Blazers,Basketball,1999-03-26,"Harrington Park, New Jersey, U.S.",True,M,1.96,210.0,29,Western Conference,Northwest,401,-1.4,-5.0,-8.48,7.7,1.2,1.1,0.3
+Kyle Lowry,Philadelphia 76ers,Basketball,1986-03-25,"Philadelphia, Pennsylvania, USA",True,M,1.83,196.0,13,Eastern Conference,Atlantic,411,-1.5,-0.7,-2.61,28.4,8.4,3.3,4.2
+Garrison Mathews,Atlanta Hawks,Basketball,1996-10-24,"Franklin, Tennessee, U.S.",True,M,1.96,215.0,21,Eastern Conference,Southeast,411,-1.5,-1.4,-6.82,14.3,4.5,1.4,0.6
+Luguentz Dort,Oklahoma City Thunder,Basketball,1999-04-19,"Montreal, Quebec",True,M,1.91,215.0,2,Western Conference,Northwest,411,-1.5,-0.6,-0.55,28.5,10.6,3.6,1.4
+Kenyon Martin Jr.,Philadelphia 76ers,Basketball,2001-01-06,"Los Angeles, California",True,M,1.98,215.0,13,Eastern Conference,Atlantic,411,-1.5,-1.8,-7.09,11.9,3.6,2.1,0.8
+Brandin Podziemski,Golden State Warriors,Basketball,2003-02-25,"Greenfield, Wisconsin, U.S.",True,M,1.93,205.0,16,Western Conference,Pacific,411,-1.5,-0.7,-2.71,26.7,9.2,5.8,3.7
+Markelle Fultz,Orlando Magic,Basketball,1998-05-29,"Upper Marlboro, Maryland",True,M,1.91,209.0,12,Eastern Conference,Southeast,417,-1.6,-1.6,-6.64,21.3,7.4,3.2,3.0
+Dennis Smith Jr.,Brooklyn Nets,Basketball,1997-11-25,"Fayetteville, North Carolina",True,M,1.88,205.0,22,Eastern Conference,Atlantic,417,-1.6,-1.2,-3.98,18.9,6.6,2.9,3.6
+Kevin Huerter,Sacramento Kings,Basketball,1998-08-27,"Albany, New York",True,M,2.01,190.0,19,Western Conference,Pacific,417,-1.6,-0.8,-2.45,24.4,10.2,3.5,2.6
+Chuma Okeke,Orlando Magic,Basketball,1998-08-18,"Atlanta, Georgia",True,M,1.98,229.0,12,Eastern Conference,Southeast,417,-1.6,-3.0,-8.31,9.8,2.4,1.8,0.4
+Terance Mann,Los Angeles Clippers,Basketball,1996-10-18,"Brooklyn, New York",True,M,1.96,215.0,7,Western Conference,Pacific,417,-1.6,-0.8,-2.61,25.3,8.4,3.3,1.6
+Jae'Sean Tate,Houston Rockets,Basketball,1995-10-28,"Toledo, Ohio, U.S.",True,M,1.93,230.0,17,Western Conference,Southwest,417,-1.6,-1.2,-4.91,16.1,4.1,3.1,1.0
+Jaden Springer,Boston Celtics,Basketball,2002-09-25,"Charlotte, North Carolina, U.S.",True,M,1.93,204.0,1,Eastern Conference,Atlantic,417,-1.6,-2.8,-7.77,10.0,3.2,1.5,0.9
+Alec Burks,New York Knicks,Basketball,1991-07-20,"Grandview, Missouri",True,M,1.98,214.0,8,Eastern Conference,Atlantic,426,-1.7,-1.1,-4.26,19.0,11.0,2.3,1.4
+Troy Brown Jr.,Detroit Pistons,Basketball,1999-07-28,"Las Vegas, Nevada",True,M,1.98,215.0,27,Eastern Conference,Central,426,-1.7,-2.0,-6.74,12.5,4.1,2.2,0.9
+Jordan Nwora,Toronto Raptors,Basketball,1998-09-09,"Buffalo, New York, U.S.",True,M,2.03,225.0,23,Eastern Conference,Atlantic,426,-1.7,-2.3,-5.86,13.0,6.8,2.5,1.1
+Trent Forrest,Atlanta Hawks,Basketball,1998-06-12,"Dothan, Alabama, U.S.",True,M,1.93,210.0,21,Eastern Conference,Southeast,426,-1.7,-3.5,-8.74,10.8,2.1,1.3,2.4
+Dalen Terry,Chicago Bulls,Basketball,2002-07-12,"Phoenix, Arizona, U.S.",True,M,2.01,195.0,20,Eastern Conference,Central,426,-1.7,-2.3,-7.98,10.7,2.6,1.8,1.3
+Jalen Hood-Schifino,Los Angeles Lakers,Basketball,2003-06-19,"Pittsburgh, Pennsylvania, U.S.",True,M,1.96,215.0,18,Western Conference,Pacific,426,-1.7,-12.1,-9.88,5.2,1.6,0.6,0.4
+Christian Wood,Los Angeles Lakers,Basketball,1995-09-27,"Long Beach, California",True,M,2.08,214.0,18,Western Conference,Pacific,433,-1.8,-1.6,-3.58,17.4,6.9,5.1,1.0
+John Konchar,Memphis Grizzlies,Basketball,1996-03-22,"West Chicago, Illinois, U.S.",True,M,1.96,210.0,26,Western Conference,Southwest,433,-1.8,-1.2,-3.46,21.3,4.3,4.7,2.0
+Jake LaRavia,Memphis Grizzlies,Basketball,2001-11-03,"Pasadena, California, U.S.",True,M,2.01,235.0,26,Western Conference,Southwest,433,-1.8,-2.2,-6.57,20.7,9.0,3.5,1.4
+MarJon Beauchamp,Milwaukee Bucks,Basketball,2000-10-12,"Yakima, Washington, U.S.",True,M,2.01,199.0,6,Eastern Conference,Central,433,-1.8,-2.3,-8.16,12.9,4.3,2.1,0.7
+Blake Wesley,San Antonio Spurs,Basketball,2003-03-16,"South Bend, Indiana, U.S.",True,M,1.91,185.0,25,Western Conference,Southwest,433,-1.8,-1.9,-7.27,13.5,4.1,1.4,2.7
+Taylor Hendricks,Utah Jazz,Basketball,2003-11-22,"Deerfield Beach, Florida, U.S.",True,M,2.06,215.0,24,Western Conference,Northwest,433,-1.8,-2.0,-6.13,20.8,6.9,4.7,0.6
+Russell Westbrook,Los Angeles Clippers,Basketball,1988-11-12,"Long Beach, California",True,M,1.91,200.0,7,Western Conference,Pacific,439,-1.9,-1.1,-3.60,22.4,10.9,5.0,4.4
+Jae Crowder,Milwaukee Bucks,Basketball,1990-07-06,"Villa Rica, Georgia",True,M,1.98,235.0,6,Eastern Conference,Central,439,-1.9,-1.5,-4.97,23.2,6.4,3.2,1.4
+OG Anunoby,New York Knicks,Basketball,1997-07-17,"London, England",True,M,2.01,232.0,8,Eastern Conference,Atlantic,439,-1.9,-1.0,-1.77,34.0,14.9,4.3,2.3
+De'Andre Hunter,Atlanta Hawks,Basketball,1997-12-02,"Philadelphia, Pennsylvania",True,M,2.03,225.0,21,Eastern Conference,Southeast,439,-1.9,-1.0,-2.23,29.0,15.5,3.8,1.4
+Tyler Herro,Miami Heat,Basketball,2000-01-20,"Greenfield, Wisconsin, USA",True,M,1.96,205.0,14,Eastern Conference,Southeast,439,-1.9,-1.2,-4.28,33.6,20.8,5.3,4.4
+Jabari Walker,Portland Trail Blazers,Basketball,2002-07-30,"Wichita, Kansas, U.S.",True,M,2.01,227.0,29,Western Conference,Northwest,439,-1.9,-1.0,-3.55,22.8,8.6,6.4,1.0
+Ben Sheppard,Indiana Pacers,Basketball,2001-07-16,"Atlanta, Georgia, U.S.",True,M,1.98,190.0,15,Eastern Conference,Central,439,-1.9,-2.1,-6.96,13.4,4.2,1.5,0.9
+Rayan Rupert,Portland Trail Blazers,Basketball,2004-05-31,"Strasbourg, France",True,M,1.98,185.0,29,Western Conference,Northwest,439,-1.9,-3.7,-8.88,12.7,3.6,1.9,1.3
+Anfernee Simons,Portland Trail Blazers,Basketball,1999-06-08,"Altamonte Springs, Florida",True,M,1.91,181.0,29,Western Conference,Northwest,449,-2.0,-1.0,-2.62,34.4,22.6,3.6,5.5
+Quentin Grimes,Detroit Pistons,Basketball,2000-05-08,"Houston, Texas, U.S.",True,M,1.96,205.0,27,Eastern Conference,Central,449,-2.0,-1.5,-6.13,20.1,7.0,2.0,1.3
+Ayo Dosunmu,Chicago Bulls,Basketball,2000-01-17,"Chicago, Illinois, U.S.",True,M,1.96,200.0,20,Eastern Conference,Central,449,-2.0,-0.7,0.00,28.9,12.0,2.8,3.1
+Chris Duarte,Sacramento Kings,Basketball,1997-06-13,"Montreal, Canada",True,M,1.98,190.0,19,Western Conference,Pacific,449,-2.0,-2.2,-7.04,12.8,4.2,1.9,0.8
+Jaime Jaquez Jr.,Miami Heat,Basketball,2001-02-18,"Irvine, California, U.S.",True,M,1.98,225.0,14,Eastern Conference,Southeast,449,-2.0,-0.8,-1.12,29.0,12.2,3.9,2.6
+Kentavious Caldwell-Pope,Denver Nuggets,Basketball,1993-02-18,"Thomaston, Georgia",True,M,1.96,204.0,5,Western Conference,Northwest,455,-2.1,-0.7,0.73,31.8,10.0,2.4,2.4
+Seth Curry,Charlotte Hornets,Basketball,1990-08-23,"Charlotte, North Carolina",True,M,1.88,185.0,30,Eastern Conference,Southeast,455,-2.1,-2.7,-7.07,14.0,5.1,1.5,1.0
+Derrick Jones Jr.,Dallas Mavericks,Basketball,1997-02-15,"Chester, Pennsylvania",True,M,1.96,210.0,11,Western Conference,Southwest,455,-2.1,-1.0,-2.47,23.3,8.7,3.3,1.0
+Darius Garland,Cleveland Cavaliers,Basketball,2000-01-26,"Gary, Indiana",True,M,1.85,192.0,9,Eastern Conference,Central,455,-2.1,-1.0,-2.37,33.2,18.0,2.6,6.5
+Julian Strawther,Denver Nuggets,Basketball,2002-04-18,"Las Vegas, Nevada, U.S.",True,M,1.98,205.0,5,Western Conference,Northwest,455,-2.1,-3.1,-7.04,11.7,4.9,1.2,1.0
+Bismack Biyombo,Oklahoma City Thunder,Basketball,1992-08-28,"Lubumbashi, DR Congo",True,M,2.03,255.0,2,Western Conference,Northwest,460,-2.2,-2.3,-5.16,20.5,4.3,5.3,1.4
+Jerami Grant,Portland Trail Blazers,Basketball,1994-03-12,"Portland, Oregon",True,M,2.03,210.0,29,Western Conference,Northwest,460,-2.2,-1.0,-1.20,33.9,21.0,3.5,2.8
+Maxi Kleber,Dallas Mavericks,Basketball,1992-01-29,"Würzburg, Germany",True,M,2.08,240.0,11,Western Conference,Southwest,460,-2.2,-2.3,-7.21,20.3,4.2,3.2,1.5
+Tre Mann,Charlotte Hornets,Basketball,2001-02-03,"Gainesville, Florida, U.S.",True,M,1.91,178.0,30,Eastern Conference,Southeast,460,-2.2,-2.3,-6.39,22.4,8.5,3.6,3.7
+Josh Hart,New York Knicks,Basketball,1995-03-06,"Silver Spring, Maryland",True,M,1.96,215.0,8,Eastern Conference,Atlantic,466,-2.3,-0.7,-0.54,33.0,9.0,8.3,4.0
+Dalano Banton,Portland Trail Blazers,Basketball,1999-11-07,"Toronto, Ontario, Canada",True,M,2.06,204.0,29,Western Conference,Northwest,466,-2.3,-2.2,-6.26,17.4,9.1,3.1,2.0
+Peyton Watson,Denver Nuggets,Basketball,2002-09-11,"Beverly Hills, California, U.S.",True,M,2.01,200.0,5,Western Conference,Northwest,466,-2.3,-1.3,-3.16,18.2,6.6,3.0,1.0
+Evan Fournier,Detroit Pistons,Basketball,1992-10-29,"Saint-Maurice, France",True,M,2.01,205.0,27,Eastern Conference,Central,471,-2.4,-4.0,-6.88,17.8,6.7,1.8,1.5
+Patrick Beverley,Milwaukee Bucks,Basketball,1988-07-12,"Chicago, Illinois",True,M,1.85,180.0,6,Eastern Conference,Central,471,-2.4,-1.4,-3.98,19.6,6.0,3.1,2.8
+Marcus Smart,Memphis Grizzlies,Basketball,1994-03-06,"Flower Mound, Texas, USA",True,M,1.93,220.0,26,Western Conference,Southwest,471,-2.4,-3.0,-6.77,30.3,14.5,2.7,4.3
+Pat Connaughton,Milwaukee Bucks,Basketball,1993-01-06,"Arlington, Massachusetts",True,M,1.96,209.0,6,Eastern Conference,Central,471,-2.4,-1.2,-3.58,21.7,5.6,3.1,2.0
+Talen Horton-Tucker,Utah Jazz,Basketball,2000-11-25,"Chicago, Illinois",True,M,1.93,234.0,24,Western Conference,Northwest,471,-2.4,-2.1,-5.53,19.1,9.5,2.3,3.6
+Devin Vassell,San Antonio Spurs,Basketball,2000-08-23,"Lawrenceville, Georgia, U.S.",True,M,1.96,200.0,25,Western Conference,Southwest,471,-2.4,-0.8,1.68,33.1,19.5,3.8,4.1
+Kris Dunn,Utah Jazz,Basketball,1994-03-18,"New London, Connecticut",True,M,1.93,205.0,24,Western Conference,Northwest,477,-2.5,-1.6,-3.10,18.8,5.4,2.9,3.9
+Max Strus,Cleveland Cavaliers,Basketball,1996-03-28,"Hickory Hills, Illinois, USA",True,M,1.96,215.0,9,Eastern Conference,Central,477,-2.5,-1.0,-1.27,31.9,12.3,4.6,3.7
+Saddiq Bey,Atlanta Hawks,Basketball,1999-04-09,"Charlotte, North Carolina, U.S.",True,M,2.01,215.0,21,Eastern Conference,Southeast,477,-2.5,-0.9,-0.44,32.7,13.7,6.5,1.5
+Davion Mitchell,Sacramento Kings,Basketball,1998-09-05,"Hinesville, Georgia, U.S.",True,M,1.88,205.0,19,Western Conference,Pacific,477,-2.5,-2.2,-7.08,14.2,4.7,1.2,1.7
+Jordan Goodwin,Memphis Grizzlies,Basketball,1998-10-23,"Centreville, Illinois, U.S.",True,M,1.93,200.0,26,Western Conference,Southwest,477,-2.5,-2.2,-5.77,16.8,5.6,3.7,2.5
+Anthony Black,Orlando Magic,Basketball,2004-01-20,"Duncanville, Texas, U.S.",True,M,2.01,200.0,12,Eastern Conference,Southeast,477,-2.5,-1.7,-6.89,17.4,4.7,2.1,1.4
+Mike Muscala,Oklahoma City Thunder,Basketball,1991-07-01,"St. Louis Park, Minnesota",True,M,2.08,240.0,2,Western Conference,Northwest,483,-2.6,-3.7,-5.37,11.8,3.2,2.4,0.7
+Buddy Hield,Philadelphia 76ers,Basketball,1992-12-17,"Freeport, Bahamas",True,M,1.93,220.0,13,Eastern Conference,Atlantic,483,-2.6,-1.0,0.92,26.2,12.3,3.2,2.9
+Malik Beasley,Milwaukee Bucks,Basketball,1996-11-26,"Atlanta, Georgia",True,M,1.93,187.0,6,Eastern Conference,Central,483,-2.6,-1.0,-0.51,29.9,11.7,3.8,1.4
+Jaren Jackson Jr.,Memphis Grizzlies,Basketball,1999-09-15,"Plainfield, New Jersey",True,M,2.11,242.0,26,Western Conference,Southwest,483,-2.6,-0.9,2.42,32.1,22.3,5.6,2.3
+Coby White,Chicago Bulls,Basketball,2000-02-16,"Goldsboro, North Carolina",True,M,1.96,195.0,20,Eastern Conference,Central,483,-2.6,-0.8,1.67,36.7,19.3,4.7,5.2
+Caleb Martin,Miami Heat,Basketball,1995-09-28,"Winston-Salem, North Carolina, USA",True,M,1.96,205.0,14,Eastern Conference,Southeast,483,-2.6,-1.3,-3.76,27.1,10.1,4.6,2.1
+Jalen Green,Houston Rockets,Basketball,2002-02-09,"Merced, California",True,M,1.93,178.0,17,Western Conference,Southwest,483,-2.6,-0.9,0.00,31.7,19.9,5.1,3.5
+Jordan Hawkins,New Orleans Pelicans,Basketball,2002-04-29,"Gaithersburg, Maryland, U.S.",True,M,1.96,190.0,4,Western Conference,Southwest,483,-2.6,-1.7,-5.90,17.8,8.1,2.3,1.1
+Cedi Osman,San Antonio Spurs,Basketball,1995-04-08,"Ohrid, Macedonia",True,M,2.01,230.0,25,Western Conference,Southwest,492,-2.7,-1.7,-3.79,17.6,6.7,2.5,1.7
+Josh Green,Dallas Mavericks,Basketball,2000-11-16,"Sydney, New South Wales, Australia",True,M,1.96,200.0,11,Western Conference,Southwest,492,-2.7,-1.5,-4.69,26.6,8.5,3.2,2.3
+Jaden McDaniels,Minnesota Timberwolves,Basketball,2000-09-29,"Federal Way, Washington, U.S.",True,M,2.06,185.0,3,Western Conference,Northwest,492,-2.7,-1.1,-2.71,29.4,10.8,3.2,1.4
+Malachi Flynn,Detroit Pistons,Basketball,1998-05-10,"Tacoma, Washington, U.S.",True,M,1.85,175.0,27,Eastern Conference,Central,492,-2.7,-2.9,-6.79,11.8,4.6,1.6,1.6
+Keldon Johnson,San Antonio Spurs,Basketball,1999-11-11,"Chesterfield, Virginia",True,M,1.96,220.0,25,Western Conference,Southwest,496,-2.8,-1.1,0.00,29.6,15.8,5.5,2.9
+Gordon Hayward,Oklahoma City Thunder,Basketball,1990-03-23,"Indianapolis, Indiana",True,M,2.01,225.0,2,Western Conference,Northwest,498,-2.9,-2.0,-4.87,25.0,10.0,3.7,3.3
+Doug McDermott,Indiana Pacers,Basketball,1992-01-03,"Grand Forks, North Dakota",True,M,2.01,225.0,15,Eastern Conference,Central,498,-2.9,-2.7,-6.27,14.4,5.5,1.0,1.1
